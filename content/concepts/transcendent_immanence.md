@@ -28,6 +28,8 @@ This maamar introduces the concept of divine service operating within a state of
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/sacred_contraction|Sacred Contraction]]
 This concept represents a key advance in the hemshech's development.
 
 The discourse on Shabbat Teshuva establishes that the service of Teshuva must be performed while maintaining the awareness that one is simultaneously within God's infinite presence.

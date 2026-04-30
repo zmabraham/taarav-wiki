@@ -55,6 +55,5 @@ why Yechida accesses divine reality at its most primordial and most transcendent
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330005|maamar 005]] — via [[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]
-- [[maamarim/maamar-3601330004|maamar 004]] — via [[concepts/introduces-keter-structure|Introduces Keter Structure]]
-- [[maamarim/maamar-3601330023|maamar 023]] — via [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]
+- [[maamarim/maamar-3601330054|maamar 054]] — Sukkot, תרדע — Arich Anpin and Keter macrostructure
+- [[maamarim/maamar-3601330063|maamar 063]] — Shavuot day, תרדע — Arich Anpin pnimiyut

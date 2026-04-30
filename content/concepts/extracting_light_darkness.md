@@ -28,6 +28,8 @@ This maamar develops the concept that the service in Egypt is not merely about l
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/revelation_through_promise|Revelation Through Promise]]
 This concept represents a key advance in the hemshech's development.
 
 The analysis of Parashat Shemot reframes the Egyptian exile as a necessary stage for the extraction of divine sparks embedded within the realm of darkness.

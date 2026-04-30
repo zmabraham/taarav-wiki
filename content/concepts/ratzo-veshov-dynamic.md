@@ -33,9 +33,10 @@ Introduces the fundamental dynamic of spiritual life - the soul's upward yearnin
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/atzilut-double-intermediary]]
 
 
+
+- **Advances**: [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]
 ## Cross-References
 - [[themes/ratzo-veshov/ratzo-veshov-in-Torah|Ratzo v'Shov in Torah Study]]
 - [[themes/ratzo-veshov/ratzo-veshov-in-prayer|Ratzo v'Shov in Prayer]]

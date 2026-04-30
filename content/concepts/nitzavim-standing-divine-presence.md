@@ -33,9 +33,10 @@ Analyzes the concept of 'standing' (nitzavim) before God as establishing collect
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/ketzitz-creation-paradox]]
 
 
+
+- **Advances**: [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -28,6 +28,8 @@ This maamar articulates the concept of divine descent, explaining that the expre
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/transcendent_immanence|Transcendent Immanence]]
 This concept represents a key advance in the hemshech's development.
 
 The difficulty with 'Shir Hama'alot' is resolved to teach that the Shabbat service facilitates a divine descent, where the infinite becomes manifest within the finite vessel of the day.

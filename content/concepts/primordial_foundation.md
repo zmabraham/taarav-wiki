@@ -28,6 +28,8 @@ The notion that the patriarchs, as the 'Rock' of creation, provide the essential
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/zealous_divine_justice|Zealous Divine Justice]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar's question about 'from the Rock of your fathers' advances the hemshech by revealing the Patriarchs as the primordial 'Rock' that grounds the cosmic order, providing the stability needed for the world's creation against the turbulent 'waters' of evil.

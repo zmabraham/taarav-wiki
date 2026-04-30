@@ -28,6 +28,8 @@ This maamar presents Korach's challenge as a necessary dialectical process withi
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/immutable_covenant_foundation|Immutable Covenant Foundation]]
 This concept represents a key advance in the hemshech's development.
 
 Apparent rebellion and disagreement are essential components of the dialectical process that brings about higher synthesis and deeper truths within the cosmic order.

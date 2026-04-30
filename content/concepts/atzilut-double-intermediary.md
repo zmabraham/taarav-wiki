@@ -34,9 +34,10 @@ The second maamar develops Atzilut as simultaneously a garment (concealment) and
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/keter-dual-dimensions]]
 
 
+
+- **Advances**: [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
 ## Cross-References
 
 - [[index|Main Index]]

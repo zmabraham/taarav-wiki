@@ -27,6 +27,8 @@ The doubled 'Anochi Anochi' (I, I am He who blots out transgressions) in Isaiah 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/four-species-ayin-yesh-da-at|Four Species: Ayin and Yesh Through Da'at]]
 Shabbat Teshuva deepens the hemshech's Atzmus-Malchut thesis: divine forgiveness is not a relational transaction but an expression of Atzmus itself — the doubled Anochi pointing to the level before any distinction between Keter and Malchut.
 
 ## Cross-References

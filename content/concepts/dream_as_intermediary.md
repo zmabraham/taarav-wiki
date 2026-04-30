@@ -28,6 +28,8 @@ The concept that the dream state serves as a crucial metaphysical intermediary b
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/humility_divine_vessel|Humility as Divine Vessel]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is establishing the dream as a structured gateway, a 'place' (מקום), that allows for a unique form of divine communication that bridges the gap between the material and spiritual worlds.

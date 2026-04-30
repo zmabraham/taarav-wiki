@@ -28,6 +28,8 @@ This maamar introduces the concept of divine-human partnership in creating reali
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/aromatic_sanctification|Aromatic Sanctification]]
 This concept represents a key advance in the hemshech's development.
 
 The parable of the king's banquet is explained to teach that the service on Atzeret involves a divine-human 'rolling together' to create a new reality through shared will and action.

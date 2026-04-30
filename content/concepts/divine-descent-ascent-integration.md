@@ -28,6 +28,8 @@ This maamar advances the hemshech by revealing how the practical performance of 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]
 This concept represents a key advance in the hemshech's development.
 
 The performance of Torah mitzvot creates a dynamic circuit, drawing infinite light from Keter downward and elevating creation upward to achieve the ultimate purpose of Dira BaTachtonim.

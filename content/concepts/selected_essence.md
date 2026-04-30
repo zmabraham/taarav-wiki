@@ -28,6 +28,8 @@ The concept that specific elements are not chosen arbitrarily but because their 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/service_cosmos_link|Service-Cosmos Link]]
 This concept represents a key advance in the hemshech's development.
 
 The main conceptual advance is establishing that the selection of the Four Species (Lulav, Etrog, Hadas, Aravah) is based on their unique spiritual essences, which are intrinsically capable of effecting divine pleasure.

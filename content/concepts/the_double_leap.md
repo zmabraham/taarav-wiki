@@ -28,6 +28,8 @@ The idea that the divine command 'Lech Lecha' represents a two-stage process of 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/the_inner_revelation|The Inner Revelation]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is parsing the repetition in 'Lech Lecha' to signify not just a physical journey but a profound spiritual metamorphosis, a departure from one's 'self' and land to a new, divinely revealed potential.

@@ -27,6 +27,8 @@ The concept of Teshuva (return) is not merely individual repentance but a cosmic
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/prophetic_unity_of_opposites|Prophetic Unity of Opposites]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the idea that Teshuva represents a fundamental shift in divine energy, pulling back from the descent into otherness to restore cosmic unity.

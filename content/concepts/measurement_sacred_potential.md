@@ -28,6 +28,8 @@ The maamar develops the concept of 'Naso' (elevating/summing) as the act of prec
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/ignition_of_conscious_service|Ignition of Conscious Service]]
 This concept represents a key advance in the hemshech's development.
 
 Divine service involves the precise measurement and elevation of the world's spiritual potential, transforming raw reality into a vessel for divine manifestation.

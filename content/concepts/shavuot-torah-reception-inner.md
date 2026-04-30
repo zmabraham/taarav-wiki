@@ -34,9 +34,10 @@ Returns to Sinai to analyze the inner mechanism of how the soul receives Torah -
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/chanukah-or-chadash]]
 
 
+
+- **Advances**: [[concepts/locational_divine_revelation|Locational Divine Revelation]]
 ## Cross-References
 
 - [[index|Main Index]]

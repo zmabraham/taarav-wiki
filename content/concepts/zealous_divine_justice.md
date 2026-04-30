@@ -28,6 +28,8 @@ The concept that true divine service requires a zealous, transformative response
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/structural_differentiation|Structural Differentiation]]
 This concept represents a key advance in the hemshech's development.
 
 Pinchas's act of zealotry is presented as the necessary and advanced response to a rupture in the divine covenant, demonstrating that true service involves an active, passionate defense of divine holiness that has the power to atone and restore.

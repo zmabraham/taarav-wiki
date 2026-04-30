@@ -28,6 +28,8 @@ This concept explains how physical mitzvot act as mirrors, transforming direct d
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/or-vs-shefa-light-without-depletion|Or vs. Shefa: Light Radiates Without Depletion]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the hemshech by establishing that the physical world’s purpose is achieved through the dynamic of reflected light, where divine service raises creation to unify with the highest source.

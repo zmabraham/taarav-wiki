@@ -27,6 +27,8 @@ A divine mission is an inherent, pre-ordained category within creation that defi
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/hierarchy_of_spatial_divisions|Hierarchy of Spatial Divisions]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the concept that a divine mission is not a temporary task but an essential, ontological category that determines an entity's entire existence and function.

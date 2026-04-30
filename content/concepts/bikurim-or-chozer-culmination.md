@@ -27,6 +27,8 @@ The bikurim (first-fruits) declaration models the metaphysics of 'arrival' (bi'a
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/three-tier-ratzo-simultaneity|Three-Tier Ratzo: Simultaneous Standing Before God]]
 Arrival (bi'ah) is the structural moment in the Or Chozer arc when ascent touches its source: the soul must acknowledge its descent-origin (ארמי אובד אבי) before the transformation of that descent into offering is complete.
 
 ## Cross-References

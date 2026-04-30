@@ -28,6 +28,8 @@ This maamar develops the concept of divine praise as a response to experienced g
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/shared_reality_creation|Shared Reality Creation]]
 This concept represents a key advance in the hemshech's development.
 
 The textual question of why the nations praise God is answered to establish that true praise is an echo of experienced grace, and the act of praise actually draws further grace into the world.

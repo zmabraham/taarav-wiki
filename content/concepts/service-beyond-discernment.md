@@ -27,6 +27,8 @@ Two modes of divine service are distinguished: one rooted in bein tov l'ra (inte
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/soul-gates-divine-interfaces|Soul's Seven Gates as Structured Divine Interfaces]]
 The hemshech advances beyond the framework of biru'rim (refinements through discernment) to posit a mode of avodah that bypasses judgment altogether — the direct perception of Or Yashar that does not require the Or Chozer sorting process.
 
 ## Cross-References

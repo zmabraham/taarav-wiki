@@ -28,6 +28,8 @@ This maamar advances the idea that divine kingship (Malchut) is the specific Sef
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]]
 This concept represents a key advance in the hemshech's development.
 
 Divine kingship is the dimension of God that interfaces with creation, accessible through revelation without compromising transcendence.

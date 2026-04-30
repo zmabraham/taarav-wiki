@@ -28,6 +28,8 @@ The idea that the collective soul of Israel is organized into distinct but compl
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/reciprocal_divine_journey|Reciprocal Divine Journey]]
 This concept represents a key advance in the hemshech's development.
 
 The distinction between 'tribes' and 'standards' advances the argument by introducing a new layer of structural analysis, showing how the Jewish people's spiritual identity is composed of various component parts with hierarchical and functional relationships.

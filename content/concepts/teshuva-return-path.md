@@ -34,9 +34,10 @@ Analyzes teshuva not merely as repentance but as the cosmic mechanism that recti
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/rosh-hashana-divine-coronation]]
 
 
+
+- **Advances**: [[concepts/or-mekif-framework|Or Mekif Framework]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -34,9 +34,10 @@ Develops Chanukah light as representing 'Or Chadash' - new light that cannot be 
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/vayera-divine-sight]]
 
 
+
+- **Advances**: [[concepts/divine-light-infusion|Divine Light Infusion]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -34,9 +34,10 @@ Analyzes the critical role of preparation (havdalah) before revelation - how the
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/tohu-tikkun-soul-roots]]
 
 
+
+- **Advances**: [[concepts/name_as_essential_container|Name as Essential Container]]
 ## Cross-References
 
 - [[index|Main Index]]

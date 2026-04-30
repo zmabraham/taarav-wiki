@@ -28,6 +28,8 @@ The seder plate's array of bitter herbs and sweet charoset symbolizes the necess
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/emergence_from_concealment|Emergence from Concealment]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the conceptual framework by showing that the complete Exodus experience is achieved not by eliminating pain or sweetness, but by integrating both into a single, meaningful service.

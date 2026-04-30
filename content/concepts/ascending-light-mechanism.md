@@ -28,6 +28,8 @@ This maamar introduces the specific mechanism by which the soul's actions in the
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/ascent-of-or-chozer|Ascent of Or Chozer]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the hemshech by defining the precise human action that facilitates the descent of direct light through the dynamic of reflected light.

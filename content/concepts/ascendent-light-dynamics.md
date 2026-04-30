@@ -27,6 +27,8 @@ This maamar advances the hemshech's argument by detailing how the specific actio
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/or-chozer-divine-drawing|Or Chozer As Divine Drawing]]
 This concept represents a key advance in the hemshech's development.
 
 The human soul's divine service draws down Keter-level light, establishing the dynamic of Or Chozer as the process for habitation in the lower worlds.

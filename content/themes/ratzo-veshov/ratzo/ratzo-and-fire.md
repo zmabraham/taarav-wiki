@@ -55,5 +55,5 @@ becomes a positive, life-giving spiritual force rather than a consuming one.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330026|maamar 026]] — via [[concepts/ascent-lower-will|Ascent of Lower Will]]
-- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
+- [[maamarim/maamar-3601330121|maamar 121]] — Beha'alotcha, העתר — fire, longing, hitlahaavut
+- [[maamarim/maamar-3601330124|maamar 124]] — Chukat, העתר — burning desire and ratzo

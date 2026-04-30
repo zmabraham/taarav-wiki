@@ -54,4 +54,5 @@ existence with their divine experience integrated, not consumed.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
+- [[maamarim/maamar-3601330006|maamar 006]] — Korach, תערב — bitul and dissolution
+- [[maamarim/maamar-3601330123|maamar 123]] — Korach, העתר — excessive ratzo and nullification

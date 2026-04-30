@@ -28,6 +28,8 @@ This maamar advances the concept that praise and acknowledgment are not passive 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/extracting_light_darkness|Extracting Light from Darkness]]
 This concept represents a key advance in the hemshech's development.
 
 The text explains that the brothers' praise of Yehudah is what empowers him to 'place his hand on the neck of his enemies,' establishing praise as an active tool for overcoming opposition.

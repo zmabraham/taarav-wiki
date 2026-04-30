@@ -27,6 +27,8 @@ This concept resolves the tension between direct and reflected light by showing 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the hemshech by proving that reflected light is the essential mechanism through which the infinite will is concretized within a finite world.

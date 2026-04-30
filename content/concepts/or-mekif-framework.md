@@ -28,6 +28,8 @@ This maamar establishes the Or Mekif (surrounding light) as the exclusive modali
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/yechida-transcendence|Yechida Transcendence]]
 This concept represents a key advance in the hemshech's development.
 
 The Sukkah's temporary structure uniquely facilitates an encounter with Or Mekif, allowing the soul to access its deepest Chaya-level potential through a service that encompasses rather than directly internalizes the divine presence.

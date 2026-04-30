@@ -28,6 +28,8 @@ This maamar advances the concept that the seeming descent into servitude under P
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/song_as_ascension|Song as Ascension]]
 This concept represents a key advance in the hemshech's development.
 
 The plagues are understood not just as punishments but as a process of 'descending in order to ascend,' where the descent into Egyptian bondage is a prerequisite for a higher level of redemption.

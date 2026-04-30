@@ -34,9 +34,10 @@ Analyzes the dual nature of Jewish existence - as rooted tribes (matot) and as j
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/chukat-divine-contract]]
 
 
+
+- **Advances**: [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -28,6 +28,8 @@ The maamar introduces the paradox of counting the Jewish people, revealing it as
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/soul-journey-forty-two-stages|Soul Journey Through Forty-Two Stages]]
 This concept represents a key advance in the hemshech's development.
 
 The census is a profound metaphysical act that reassembles the scattered fragments of the divine soul, integrating both its fallen material elements and its essential divine core into a whole.

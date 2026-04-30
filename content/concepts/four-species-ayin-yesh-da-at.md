@@ -27,6 +27,8 @@ The four species of Sukkot organize a taxonomy of creation's participation in di
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/pnimiyut-atik-revealed-to-israel|Pnimiyut Atik Revealed to Israel on Shemini Atzeret]]
 Sukkot continues the Da'at Elyon/Tachton framework: the four species are not arbitrary but each embodies a different mode of divine presence manifesting through the Ayin-to-Yesh transition — the holiday's joy (simcha) as the emotional correlate of Da'at recognizing divine immanence.
 
 ## Cross-References

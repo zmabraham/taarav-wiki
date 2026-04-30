@@ -28,6 +28,8 @@ The idea that spiritual opposition, even when stemming from a place of hidden po
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/transcendent_statutory_law|Transcendent Statutory Law]]
 This concept represents a key advance in the hemshech's development.
 
 The question about Korach's dissention advances the hemshech's argument by showing that negative forces are not merely destructive but serve a transformative role in clarifying truth and purifying the divine vessel through intense spiritual heat.

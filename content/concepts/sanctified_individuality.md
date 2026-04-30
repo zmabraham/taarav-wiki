@@ -27,6 +27,8 @@ Pinchas' zealous act reveals how individual initiative, when rooted in divine pa
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/sovereign_speech|Sovereign Speech]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the concept that divine revelation can be actualized through the passionate, zealous dedication of a single individual who transcends ego.

@@ -28,6 +28,8 @@ The monetary atonement (אשם) represents the soul's necessary journey of extra
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/synthesis_individual_collective|Synthesis of Individual and Collective]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar advances the concept that the process of divine service requires a deliberate extraction from physicality, akin to the Exodus from Egypt, represented by the specific laws of the asham.

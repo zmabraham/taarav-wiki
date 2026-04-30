@@ -27,6 +27,8 @@ The Maggid of Mezeritch's teaching on David's 'one thing I ask': dwelling in God
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/bikurim-or-chozer-culmination|Bikurim: Or Chozer's Culminating Ascent]]
 The hemshech demonstrates that Or Chozer reaches its most refined form not in multiplicity of spiritual aspirations but in a single, pure ratzo — the longing for divine dwelling — from which all other spiritual achievements emerge as natural consequences.
 
 ## Cross-References

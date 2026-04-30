@@ -28,6 +28,8 @@ This maamar advances the hemshech by elucidating how the 'lower will' of creatio
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/vayera-divine-sight|Vayera: Divine Seeing and the Test of Revelation]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar's chiddush is that physical mitzvot are not just passive recipients of divine light but can actively provoke an ascent of reflected light, thereby drawing the highest direct light into the lowest realm.

@@ -28,6 +28,8 @@ The ultimate completion of the Tabernacle requires the fusion of Aaron's individ
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/volitional_revelation_principle|Volitional Revelation Principle]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the argument by showing that the individual's unique role, when perfectly integrated with the collective's effort, achieves the final stage of divine manifestation.

@@ -28,6 +28,8 @@ This maamar advances the concept of sanctification through fragrance, presenting
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/exodus_self_actualization|Exodus as Self-Actualization]]
 This concept represents a key advance in the hemshech's development.
 
 The narrative of God smelling the Noah sacrifice is reinterpreted to establish that the righteous emit a spiritual fragrance that serves as an atonement, transforming God's wrath into mercy.

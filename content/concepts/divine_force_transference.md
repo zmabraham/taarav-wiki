@@ -28,6 +28,8 @@ This maamar advances the concept of divine power by analyzing the transition fro
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/covenantal_verification|Covenantal Verification]]
 This concept represents a key advance in the hemshech's development.
 
 The textual difficulty in Ki Tetze resolves to establish that divine assistance is not given in a vacuum, but is transferred *to* and *through* a human action that has already been initiated with self-generated power.

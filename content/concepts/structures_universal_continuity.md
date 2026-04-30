@@ -28,6 +28,8 @@ This maamar reveals that the world's existence is maintained by three interconne
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/measurement_sacred_potential|The Measurement of Sacred Potential]]
 This concept represents a key advance in the hemshech's development.
 
 The three pillars of existence are revealed as a hierarchical metaphysical system, where Torah provides the intellectual blueprint, service creates the connection, and charity grounds the entire cosmic structure in reality.

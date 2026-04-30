@@ -37,4 +37,5 @@ The prayers following the *Amidah* — *Tachanun*, *Ashrei*, *Aleinu*, and *Kadd
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
+- [[maamarim/maamar-3601330097|maamar 097]] — Shemot, העתר — tefillah and divine service structure
+- [[maamarim/maamar-3601330096|maamar 096]] — Vayechi, העתר — structured ascent in avodah

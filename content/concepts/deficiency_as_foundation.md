@@ -28,6 +28,8 @@ The unleavened bread (matzah) is not merely a symbol of haste but represents the
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/integration_opposites|Integration of Opposites]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar advances the paradoxical idea that it is the state of not having enough, the incompleteness that allows for divine intervention, making the deficient the very foundation of spiritual achievement.

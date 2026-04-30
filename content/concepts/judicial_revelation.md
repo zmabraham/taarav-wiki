@@ -28,6 +28,8 @@ This maamar introduces the concept of divine judgment as an act of revelation, w
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/divine_force_transference|Divine Force Transference]]
 This concept represents a key advance in the hemshech's development.
 
 The progression from the verse in Shoftim reveals that divine judgment is not merely a process of adjudication but is fundamentally an act of revelation that transforms God's concealed nature into an expressed reality.

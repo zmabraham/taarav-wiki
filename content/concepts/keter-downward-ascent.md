@@ -28,6 +28,8 @@ This maamar advances the idea that Keter, as the highest sefirah, not only proje
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/keter-descent|Keter's Descent]]
 This concept represents a key advance in the hemshech's development.
 
 Keter's connection to the lowest reality is not merely a descent of light but a two-way dynamic, where human actions in the physical world retroactively elevate the very source from which their power originates.

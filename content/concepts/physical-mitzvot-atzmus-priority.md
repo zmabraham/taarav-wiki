@@ -27,6 +27,8 @@ Torah opens with creation (not the first commandment) because this establishes t
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
 The hemshech's most far-reaching statement: the physical world (Yesh hanivra), by virtue of its very concreteness, is a more complete vessel for Atzmus than the spiritual lights. This grounds the hemshech's final synthesis — why the world was created and why Torah begins with Bereishit.
 
 ## Cross-References

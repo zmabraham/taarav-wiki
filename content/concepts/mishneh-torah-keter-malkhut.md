@@ -27,6 +27,8 @@ Sefer Devarim as 'Mishneh Torah' — the second Torah — reveals the Kabbalisti
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/shabbat-as-pnimiyut-binah|Shabbat as the Pnimiyut of Binah]]
 The shift from God's third-person speech in the first four Books to Moshe's first-person speech in Devarim is mapped as the Keter-to-Malkhut chain: the highest divine self-disclosure restructured into a form receivable by lower worlds.
 
 ## Cross-References

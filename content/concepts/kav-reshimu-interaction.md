@@ -34,9 +34,10 @@ Analyzes the interaction between the Kav (line of light) and Reshimu (impression
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/ratzo-veshov-dynamic]]
 
 
+
+- **Advances**: [[concepts/dual-divine-truth|Dual Divine Truth]]
 ## Cross-References
 - [[themes/kav-reshimu/kav-and-sefirot|Kav and Sefirot — How the Kav Builds the Sefirot]]
 - [[themes/kav-reshimu/relationship-between-kav-reshimu|The Relationship Between Kav and Reshimu]]

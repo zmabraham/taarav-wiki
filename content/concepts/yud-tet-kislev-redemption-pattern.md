@@ -34,9 +34,10 @@ Establishes Yud-Tet Kislev as the paradigm for all redemption - showing how pers
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/shavuot-preparation-receiving]]
 
 
+
+- **Advances**: [[concepts/essential_kingship_vs_attribute_kingship|Essential vs. Attribute Kingship]]
 ## Cross-References
 
 - [[index|Main Index]]

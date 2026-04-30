@@ -28,6 +28,8 @@ This maamar develops the concept of divine service as a process of verification,
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
 This concept represents a key advance in the hemshech's development.
 
 The teaching from Ki Tavo is re-conceptualized to show that the bringing of the first fruits is not just an obligation but an act that verifies and actualizes the covenantal bond between God and Israel.

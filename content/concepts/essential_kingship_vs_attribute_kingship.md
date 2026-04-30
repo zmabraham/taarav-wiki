@@ -27,6 +27,8 @@ The distinction between God's essential infinity and His attribute of kingship r
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/cosmic_redemption_through_return|Cosmic Redemption Through Return]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar introduces the conceptual advance that divine kingship is not an attribute of God's essence but a self-limiting Hevel that allows for relationship with creation.

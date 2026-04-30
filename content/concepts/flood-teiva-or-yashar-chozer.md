@@ -27,6 +27,8 @@ The flood (mabul) typifies the total inundation of Or Yashar overwhelming the ke
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/doubled-redemption-or-pnimi-makif|Doubled Letter: Redemption Through Or Pnimi and Or Makif]]
 The Noach narrative provides the typological frame for the Or Yashar/Or Chozer dynamic: when Or Yashar flows without the vessels' capacity to receive it, it 'floods' and destroys — the ark's function is precisely to preserve the Or Chozer process within the overwhelming flow.
 
 ## Cross-References

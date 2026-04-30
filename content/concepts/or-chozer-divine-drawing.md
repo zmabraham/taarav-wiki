@@ -28,6 +28,8 @@ This maamar establishes the Or Chozer (reflected light) not merely as a spiritua
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/kochot-vs-levushim-soul-powers-garments|Kochot vs. Levushim: Soul Powers and Soul Garments]]
 This concept represents a key advance in the hemshech's development.
 
 The Or Chozer dynamic is revealed as the active conduit through which lower worlds draw supreme divine light into creation.

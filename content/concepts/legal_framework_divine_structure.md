@@ -28,6 +28,8 @@ This maamar advances the concept that the laws and judgments are not merely soci
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/dual_offering_framework|Dual Offering Framework]]
 This concept represents a key advance in the hemshech's development.
 
 Parashat Mishpatim is analyzed as the establishment of a 'dwelling place for the Divine,' where human legal systems create a framework for the infinite to be contained within the finite.

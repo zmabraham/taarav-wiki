@@ -27,6 +27,8 @@ Haazinu's song reveals how prophecy integrates divine judgment and mercy into a 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/selected_essence|Selected Essence]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is that prophecy creates a higher reality where apparent contradictions like justice and mercy are resolved into a unified, transcendent view.

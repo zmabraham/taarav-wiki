@@ -28,6 +28,8 @@ This maamar presents the idea that divine revelation is not arbitrary but is con
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/deliberate_descent|The Concept of a Deliberate Descent]]
 This concept represents a key advance in the hemshech's development.
 
 The name 'Elokim' revealed at the burning bush signifies a mode of divinity that is revealed in accordance with the covenant and promises made to the Patriarchs.

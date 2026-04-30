@@ -28,6 +28,8 @@ This maamar advances the argument by introducing that the highest Keter-level di
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/light-reflection-principle|Light Reflection Principle]]
 This concept represents a key advance in the hemshech's development.
 
 The ultimate divine purpose of Dira BaTachtonim is achieved only through the ascent of Or Chozer, which then enables the descent of the most supreme Or Yashar from Keter.

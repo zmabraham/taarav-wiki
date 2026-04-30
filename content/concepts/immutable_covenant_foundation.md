@@ -28,6 +28,8 @@ The maamar develops the concept of 'Chukat' (statute) as the immutable, non-rati
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
 This concept represents a key advance in the hemshech's development.
 
 Divine statutes represent the transcendent, unchanging foundation of existence that anchors the covenantal reality, providing the bedrock upon which all rational understanding is built.

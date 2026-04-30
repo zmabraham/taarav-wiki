@@ -56,4 +56,5 @@ Torah study in the broad sense.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330069|maamar 069]] — via [[concepts/nature_of_effective_divine_intervention|Nature of Effective Divine Intervention]]
+- [[maamarim/maamar-3601330016|maamar 016]] — Ki Tavo, תערב — memale as life-force in physical creation
+- [[maamarim/maamar-3601330143|maamar 143]] — Vayera, עתרו — memale in the natural world

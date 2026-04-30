@@ -27,6 +27,8 @@ Divine names are not merely labels but essential vessels that contain and define
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/exodus_as_creation_paradigm|Exodus as Creation Paradigm]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the concept that the specific divine name used (Elokim vs. Havayah) determines the essential character and level of the revelation, acting as the vessel that shapes its nature.

@@ -27,6 +27,8 @@ The vows of a soldier demonstrate that even when constrained by external authori
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/revelation_through_distance|Revelation Through Distance]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar introduces the idea that human speech, particularly in contexts of limitation, possesses a latent divine sovereignty that can impose order upon chaos.

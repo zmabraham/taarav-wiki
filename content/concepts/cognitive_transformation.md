@@ -27,6 +27,8 @@ The verse 'and you shall do them' (ועשיתם אותם) transforms the process
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/present_divine_immanence|Present Divine Immanence]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the idea that true study culminates in a total transformation of the learner, where the intellect's activity is actualized as a physical commandment.

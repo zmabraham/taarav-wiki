@@ -34,9 +34,10 @@ Develops the concept of kehuna (priesthood) as the mechanism that channels divin
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/yitro-revelation-hierarchy]]
 
 
+
+- **Advances**: [[concepts/souls_exodus_process|Soul's Exodus Process]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -27,6 +27,8 @@ The apparent contradiction of Rosh Hashana — 'beginning of Your works' vs. 're
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/atzmus-malchut-structured-interface|Atzmus and Malchut: Infinite Will's Structured Interface]]
 The hemshech introduces a two-tier epistemology of divine knowledge: Da'at Elyon (which perceives only divine Yesh ha'amiti) and Da'at Tachton (which perceives created yesh). The shofar bridges them — its wordless sound accessing Da'at Elyon beyond what language (Da'at Tachton) can reach.
 
 ## Cross-References

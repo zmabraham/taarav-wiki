@@ -27,6 +27,8 @@ The paradox of divine coronation (Rosh Hashana) is resolved: Malchut is not a di
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/anochi-doubled-divine-forgiveness|Anochi Anochi: Forgiveness as Divine Self-Regard]]
 The hemshech establishes the definitive account of Malchut as the sefirah uniquely suited to interface between infinite and finite: it does not compromise divine transcendence but is the specific structural feature that makes relationship possible. This is the Rosh Hashana thesis.
 
 ## Cross-References

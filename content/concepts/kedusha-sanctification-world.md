@@ -30,9 +30,10 @@ Analyzes how the commandments of kedusha (holiness) work not by withdrawing from
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/tetzaveh-teruma-priesthood-light]]
 
 
+
+- **Advances**: [[concepts/time_as_spiritual_space|Time as Spiritual Space]]
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330113|maamar 113]] — Parshat Acharei-Kedoshim, העת"ר

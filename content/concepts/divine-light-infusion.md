@@ -27,6 +27,8 @@ This maamar advances the argument by detailing how the downward flow of Or Yasha
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/ascending-light-mechanism|Ascending Light Mechanism]]
 This concept represents a key advance in the hemshech's development.
 
 The performance of physical mitzvot transforms divine light from a passive, direct state into an active, reciprocal force that consciously enters the material world.

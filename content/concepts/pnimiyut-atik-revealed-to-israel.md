@@ -27,6 +27,8 @@ The 'eighth day' of Shemini Atzeret — when Israel alone brings its reduced, in
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/physical-mitzvot-atzmus-priority|Physical Mitzvot Carry Atzmus More Fully Than Spiritual Lights]]
 The hemshech advances to the innermost level of Keter: Pnimiyut Atik is the aspect of divine will and pleasure beyond all structure, revealed only in the exclusive intimacy of the eighth day — Israel's singular relationship with divine Atzmus.
 
 ## Cross-References

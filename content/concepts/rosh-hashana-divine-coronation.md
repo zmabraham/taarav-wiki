@@ -34,9 +34,10 @@ Develops Rosh Hashana as the moment when divine will for creation is renewed, sh
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/nitzavim-standing-divine-presence]]
 
 
+
+- **Advances**: [[concepts/revelational-access-of-kingship|Revelational Access of Kingship]]
 ## Cross-References
 
 - [[index|Main Index]]

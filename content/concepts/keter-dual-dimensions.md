@@ -33,9 +33,10 @@ The first maamar establishes that Keter contains two inner dimensions - Ta'anug 
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/introduces-keter-structure]]
 
 
+
+- **Advances**: [[concepts/atzilut-double-intermediary|Atzilut as Double Intermediary: Garment and Curtain]]
 ## Cross-References
 
 - [[index|Main Index]]

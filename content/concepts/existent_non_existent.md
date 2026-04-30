@@ -28,6 +28,8 @@ The paradoxical concept of a primal state that simultaneously exists and lacks d
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/progeny_as_process|Progeny as Process]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is resolving the tension between 'created' (bara) and 'was tohu' by framing 'tohu' not as non-existence but as a state of undifferentiated potentiality that precedes and enables structured existence.

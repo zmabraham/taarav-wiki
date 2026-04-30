@@ -28,6 +28,8 @@ The idea that the 'generations' (תולדות) described in a narrative represen
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/dream_as_intermediary|Dream as Intermediary]]
 This concept represents a key advance in the hemshech's development.
 
 The main advance is reframing the 'generations of Isaac' as not merely a family history but an archetypal narrative of the spiritual struggle involved in drawing divine blessings into the physical world.

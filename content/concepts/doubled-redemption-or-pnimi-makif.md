@@ -27,6 +27,8 @@ The doubled 'Lech Lecha' encodes the metaphysics of redemption: doubled forms (�
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/divine-deliberation-prophetic-disclosure|Divine Inner Deliberation Preceding Prophetic Disclosure]]
 The lech-lecha journey encodes the Or Pnimi / Or Makif distinction: physical mitzvot draw down Or Pnimi (the inner light that operates through concealment), while the highest level — Or Ein Sof Bli Gvul — is white fire, light without any constraint or measure, beyond the framework of keilim entirely.
 
 ## Cross-References

@@ -56,4 +56,5 @@ portions.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330095|maamar 095]] — via [[concepts/unity_through_recognition|Unity Through Recognition]]
+- [[maamarim/maamar-3601330106|maamar 106]] — Vayakhel-Pekudei, העתר — chelek and collective unity
+- [[maamarim/maamar-3601330082|maamar 082]] — Sukkot Shabbat, העתר — portion and divine oneness

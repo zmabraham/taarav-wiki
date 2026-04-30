@@ -28,6 +28,8 @@ The seven weeks between Passover and Shavuot are not merely a duration but a con
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/infinite_descent_within_limits|Infinite Descent Within Limits]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar advances the concept that time itself can be transformed into a vessel, a holy space that is progressively perfected to become the receptacle for the ultimate gift of Torah.

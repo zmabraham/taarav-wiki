@@ -27,6 +27,8 @@ A three-level typology of ratzo (ascending movement) mapped onto the community g
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/da-at-elyon-tachton-rosh-hashana|Da'at Elyon and Da'at Tachton on Rosh Hashana]]
 The hemshech's final synthesis of the Or Chozer structure: it is specifically from the lowest level (the woodcutter) that the divine pleasure of dira betachtonim is activated — the Or Chozer arc requires the full spectrum, and all levels must stand simultaneously.
 
 ## Cross-References

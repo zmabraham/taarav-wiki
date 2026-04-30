@@ -33,9 +33,10 @@ Develops the concept of chok (statute) as representing divine wisdom that transc
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/tohu-vessels-shattering]]
 
 
+
+- **Advances**: [[concepts/keter-downward-ascent|Keter's Downward Ascent]]
 ## Cross-References
 
 - [[index|Main Index]]

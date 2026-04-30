@@ -28,6 +28,8 @@ This maamar introduces the concept of 'Beha'alotcha' (when you kindle) as the in
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/detachment_as_spiritual_scouting|Detachment as Spiritual Scouting]]
 This concept represents a key advance in the hemshech's development.
 
 The kindling of the Menorah represents the primordial act of conscious intent that must precede all divine service, serving as the ignition that propels the soul's journey from potential to actualization.

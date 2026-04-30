@@ -28,6 +28,8 @@ The concept that the highest form of spiritual perception is not about seeing a 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/consequential_covenant|Consequential Covenant]]
 This concept represents a key advance in the hemshech's development.
 
 Moses's request to 'see the land' is interpreted not as a desire for geography but as a profound request for a transcendent vision that would allow him to perceive the land's spiritual reality, a request that fundamentally alters the nature of perception.

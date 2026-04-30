@@ -28,6 +28,8 @@ The concept that divine light and revelation are contingent upon the specific st
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/transformative_opposition|Transformative Opposition]]
 This concept represents a key advance in the hemshech's development.
 
 The textual difficulty regarding the menorah's lights serves to establish that the revelation of divine light is not uniform but is predicated on the spatial relationship to a central point, suggesting that divine immanence requires a specific framework.

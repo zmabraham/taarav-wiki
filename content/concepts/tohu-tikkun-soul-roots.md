@@ -34,9 +34,10 @@ Deepens the analysis of souls rooted in Tohu versus Tikkun, explaining how each 
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/shavuot-torah-reception-inner]]
 
 
+
+- **Advances**: [[concepts/supernal_descent|Supernal Descent]]
 ## Cross-References
 - [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks|The Tikkun of Sparks: Human Mission in Creation]]
 

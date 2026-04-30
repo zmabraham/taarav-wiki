@@ -28,6 +28,8 @@ This maamar develops the idea that the song of redemption is not a celebratory r
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/yitro-revelation-hierarchy|Yitro: The Hierarchy of Revelation and Its Descent]]
 This concept represents a key advance in the hemshech's development.
 
 The textual repetition of 'az yashir' establishes that the song itself is an act of ascent, carrying the singer from the physical plane to a higher spiritual reality.

@@ -27,6 +27,8 @@ The 'heel' (eikev) — the lowest, least conscious mode of divine service — is
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/service-beyond-discernment|Divine Service Beyond Intellectual Discernment]]
 The hemshech reaches a key inversion: the heel-mode of avodah, precisely because it is not filtered through intellectual refinement, is a more direct channel for Atzmus than spiritual contemplation — the lowest connects to the highest.
 
 ## Cross-References

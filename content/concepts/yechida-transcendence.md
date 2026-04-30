@@ -28,6 +28,8 @@ Shemini Atzeret introduces the Yechida level, transcending the seven-based struc
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/ascent-lower-will|Ascent of Lower Will]]
 This concept represents a key advance in the hemshech's development.
 
 The 'eighth' day represents the divine invitation to access the Yechida dimension, transcending nature's cycles for intimate, unmediated union with God.

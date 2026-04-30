@@ -28,6 +28,8 @@ This maamar advances the hemshech by positing that divine truth can be authentic
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech progresses by establishing that two conflicting Torah perspectives can both be 'words of the living God,' each emanating from a distinct divine attribute yet converging on absolute truth.

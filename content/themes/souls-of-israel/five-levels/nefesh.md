@@ -55,5 +55,5 @@ concealed within the physical structure of the body.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330125|maamar 125]] — via [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
-- [[maamarim/maamar-3601330112|maamar 112]] — via [[concepts/primordial_soul_state|The Primordial Soul State]]
+- [[maamarim/maamar-3601330078|maamar 078]] — Rosh Hashana day, העתר — five soul levels
+- [[maamarim/maamar-3601330023|maamar 023]] — Shabbat Teshuva, תערג — nefesh level and service

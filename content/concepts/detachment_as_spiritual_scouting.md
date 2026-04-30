@@ -28,6 +28,8 @@ The maamar reframes 'Shelach Lcha' (send you) as the concept of strategic spirit
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/the_cosmic_dialectic|The Cosmic Dialectic]]
 This concept represents a key advance in the hemshech's development.
 
 True spiritual advancement requires a paradoxical act of detachment, where a part of the self is purposefully sent out to explore and transform reality, making it a fitting vessel for divine revelation.

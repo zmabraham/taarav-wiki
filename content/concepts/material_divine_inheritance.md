@@ -27,6 +27,8 @@ The first fruits offering demonstrates that the most physical, material objects 
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/unified_collective_consciousness|Unified Collective Consciousness]]
 This concept represents a key advance in the hemshech's development.
 
 The hemshech advances the idea that the material world, when consecrated through specific actions, becomes a direct conduit for divine revelation and spiritual truth.

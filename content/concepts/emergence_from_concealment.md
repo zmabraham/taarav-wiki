@@ -28,6 +28,8 @@ The 'eighth day' represents the moment when the entirely new reality that was pr
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/primordial_soul_state|The Primordial Soul State]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar advances the concept of a higher state of revelation—the 'eighth'—which is not merely a continuation but a new reality that emerges from beyond the framework of the natural 'seven' days.

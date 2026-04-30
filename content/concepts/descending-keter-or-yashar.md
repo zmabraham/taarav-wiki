@@ -28,6 +28,8 @@ This maamar advances the hemshech by establishing how the highest divine light (
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/keter-reflection-descent|Keter's Descent Through Reflection]]
 This concept represents a key advance in the hemshech's development.
 
 The performance of mitzvot serves as the conduit for direct divine light to descend from Keter, creating a dwelling place for the Divine in the lowest realms.

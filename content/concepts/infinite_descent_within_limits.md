@@ -28,6 +28,8 @@ The maamar introduces the concept of how divine infinity paradoxically reveals i
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/holy_canvas_existence|The Holy Canvas of Existence]]
 This concept represents a key advance in the hemshech's development.
 
 The parasha's agricultural laws demonstrate how divine infinity operates through the metaphor of descending into physical constraints, revealing the paradox of infinite light within finite structure.

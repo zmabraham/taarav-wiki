@@ -28,6 +28,8 @@ The principle that the highest form of divine encounter occurs not through exter
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/lifes_as_continuation|Life's Continuation]]
 This concept represents a key advance in the hemshech's development.
 
 The main advance is shifting the focus of divine revelation from external appearances to an internal change in perception, where 'seeing' (וירא) becomes the key to accessing a higher reality.

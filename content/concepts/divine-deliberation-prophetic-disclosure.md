@@ -27,6 +27,8 @@ The grammatical peculiarity 'v'Hashem amar' (and God said, with conjunctive vav)
 
 ## Position in the Conceptual Chain
 
+
+- **Culmination**: Final concept in the hemshech — [[explorations/hemshech-taarav-conceptual-journey|see full journey]]
 The hemshech's account of prophetic disclosure as a structured divine process: Or Yashar does not simply descend but is preceded by an inner divine deliberation (v'Hashem amar) — love (ahavah) is the structural prerequisite for the channel of prophetic reception to open.
 
 ## Cross-References

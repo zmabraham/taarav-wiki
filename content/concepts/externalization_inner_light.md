@@ -28,6 +28,8 @@ This maamar advances the concept that the external placement of the Chanukah lam
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/unity_through_recognition|Unity Through Recognition]]
 This concept represents a key advance in the hemshech's development.
 
 The specific placement of the Chanukah lamp outside and to the left teaches the principle of internal divine light becoming manifest in the external, mundane world.

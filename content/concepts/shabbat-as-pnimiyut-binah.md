@@ -27,6 +27,8 @@ Shabbat is identified as the 'seventh sefirah from below' — the pnimiyut (inne
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/heel-level-connects-keter|The Heel Level Connects to Keter]]
 Shabbat's dual command — 'guard' (passive, receptive Or Chozer) and 'remember' (active, initiatory Or Yashar) — is resolved by identifying Shabbat with Binah's pnimiyut: the point where all distinctions between direct and reflected light dissolve into their supernal root.
 
 ## Cross-References

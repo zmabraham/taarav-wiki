@@ -54,4 +54,5 @@ capacity to return to earth, to continue their embodied divine service.
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
+- [[maamarim/maamar-3601330097|maamar 097]] — Shemot, העתר — tefillah and structured divine service
+- [[maamarim/maamar-3601330098|maamar 098]] — Va'era, העתר — prayer and Or Chozer

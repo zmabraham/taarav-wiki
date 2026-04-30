@@ -27,6 +27,8 @@ The process of sanctification is fundamentally defined by an act of separation t
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar introduces the idea that holiness is actualized and sustained not through inherent qualities, but through an active, continuous process of drawing boundaries and separating from the profane.

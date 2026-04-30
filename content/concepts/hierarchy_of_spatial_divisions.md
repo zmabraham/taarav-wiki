@@ -27,6 +27,8 @@ The boundaries between spiritual and physical realms are established through a h
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/commandment_as_essential_structuring|Commandment as Essential Structuring]]
 This concept represents a key advance in the hemshech's development.
 
 This maamar posits that the separation between different levels of reality is not random but is structured in a specific hierarchy, with each level's purpose defined by its position within this cosmic order.

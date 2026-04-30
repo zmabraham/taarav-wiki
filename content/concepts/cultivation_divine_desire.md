@@ -28,6 +28,8 @@ The perpetual, kindled fire on the altar represents the soul's own inherent, eve
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/deficiency_as_foundation|Deficiency as Foundation]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the concept that true divine service is not a one-time act but the continuous cultivation of an inner, self-generating fire of passion and connection.

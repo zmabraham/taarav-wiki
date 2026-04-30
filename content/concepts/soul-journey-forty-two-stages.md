@@ -27,6 +27,8 @@ The soul's avodah progresses through forty-two differentiated stages of divine l
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/mishneh-torah-keter-malkhut|Mishneh Torah: Keter–Malkhut Communication Chain]]
 The hemshech maps the soul's spiritual journey as a structured progression of forty-two stages, showing that each stage of divine service corresponds to a specific mode of divine light — exile and redemption as phases of Or Yashar and Or Chozer.
 
 ## Cross-References

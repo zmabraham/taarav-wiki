@@ -27,6 +27,8 @@ The seven sense-portals of the embodied soul are structured interfaces between t
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/one-desire-divine-dwelling|The One Singular Desire: Dwelling in God's House]]
 Or Yashar and Or Chozer are now mapped onto the physiology of the embodied soul: the seven gates require their own form of structured discernment to prevent the overflow of divine light from shattering the vessel, extending the hemshech's analysis into embodied divine service.
 
 ## Cross-References

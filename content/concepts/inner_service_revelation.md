@@ -28,6 +28,8 @@ This maamar develops the idea that the divine service described in Parashat Vaye
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/externalization_inner_light|Externalization of Inner Light]]
 This concept represents a key advance in the hemshech's development.
 
 The analysis of the parasha shifts focus from external acts to an inner, Kabbalistic framework where divine service is the process of drawing down hidden light.

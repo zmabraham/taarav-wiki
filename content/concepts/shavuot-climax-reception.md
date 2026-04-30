@@ -30,9 +30,10 @@ The hemshech's final Shavuot maamarim synthesize the entire conceptual journey -
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/kedusha-sanctification-world]]
 
 
+
+- **Advances**: [[concepts/revelation_total_consciousness|The Revelation of Total Consciousness]]
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330117|maamar 117]] — Night of 1st day of Shavuot, העת"ר

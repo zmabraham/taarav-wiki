@@ -28,6 +28,8 @@ The term 'Adam' refers to the essential, undifferentiated state of the soul prio
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/kedusha-sanctification-world|Kedusha: Sanctification of the World Through Action]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the conceptual framework by introducing the 'Adam' level as the primordial source-point from which all specific spiritual levels (Ish, Gever, Enosh) derive, establishing a hierarchy of soul-states.

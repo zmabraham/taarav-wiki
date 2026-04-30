@@ -27,6 +27,8 @@ The service of God involves the conscious and active effort of elevating the phy
 
 ## Position in the Conceptual Chain
 
+
+- **Advances**: [[concepts/divine_mission_as_inherent_category|Divine Mission as Inherent Category]]
 This concept represents a key advance in the hemshech's development.
 
 The core conceptual advance is that divine service is defined as the *function* of lifting and elevating, making it an active process of spiritual ascent rather than static fulfillment.
