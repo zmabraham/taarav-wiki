@@ -216,6 +216,14 @@ The hemshech is divided into two *chalakim* (volumes):
 
 ---
 
+## Explorations
+
+Deep-dive synthesis pages:
+
+- [[explorations/hemshech-taarav-conceptual-journey|The Conceptual Journey: All 140 Steps]] — A step-by-step walkthrough of the Rashab's 19-year philosophical construction, from the opening cosmology of Or Ein Sof through the final proof that physical mitzvot carry Atzmus most completely.
+
+---
+
 ## About the Rashab
 
 Rabbi Shalom DovBer Schneersohn (1860–1920), known as the Rashab, was the fifth Rebbe of Chabad-Lubavitch. He established the Tomchei Tmimim yeshiva system and was renowned for the extraordinary depth and systematic rigor of his chassidic discourses. The Hemshech Taarav represents the culmination of his intellectual and spiritual legacy.
