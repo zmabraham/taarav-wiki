@@ -70,6 +70,12 @@ The Rashab teaches that the elevated animal soul — one that has been fully tra
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330143|143]] — ש"פ וירא, עתר"ו
+- [[maamarim/maamar-3601330142|142]] — ש"פ לך, עתר"ו
+
 ## Cross-References
 
 - [[themes/nefesh-habehamit/behamit-vs-elokit|Behamit vs. Elokit]]

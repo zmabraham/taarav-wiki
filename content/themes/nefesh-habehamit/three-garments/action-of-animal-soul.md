@@ -52,3 +52,7 @@ most powerful divine service.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/three-garments/thought-of-animal-soul]], [[themes/nefesh-habehamit/three-garments/speech-of-animal-soul]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

@@ -62,6 +62,12 @@ This analysis gives a metaphysical grounding for the commandment to study Torah 
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/nefesh-habehamit/behamit-vs-elokit|Behamit vs. Elokit]]

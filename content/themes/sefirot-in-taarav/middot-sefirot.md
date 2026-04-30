@@ -71,6 +71,12 @@ Refining the animal soul's elements involves specifically cultivating the corres
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330050|050]] — ש"פ תבוא, תער"ג
+- [[maamarim/maamar-3601330049|049]] — ש"פ תצא, תער"ג
+
 ## Cross-References
 
 - [[themes/sefirot-in-taarav/chabad-sefirot|ChaBaD Sefirot]] — The intellectual source of the Middot

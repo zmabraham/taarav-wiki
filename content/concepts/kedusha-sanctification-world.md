@@ -33,6 +33,10 @@ Analyzes how the commandments of kedusha (holiness) work not by withdrawing from
 - **Advances**: [[concepts/tetzaveh-teruma-priesthood-light]]
 
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330113|maamar 113]] — Parshat Acharei-Kedoshim, העת"ר
+
 ## Cross-References
 
 - [[index|Main Index]]

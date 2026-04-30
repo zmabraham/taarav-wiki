@@ -65,6 +65,12 @@ This connection enables a powerful spiritual practice: by meditating on the divi
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/ohr-ein-sof/sovev-kol-almin|Sovev Kol Almin]] — The complementary transcendent presence

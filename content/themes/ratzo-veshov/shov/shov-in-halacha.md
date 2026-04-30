@@ -50,3 +50,7 @@ integration of both: ratzo-quality inspiration and shov-quality halachic groundi
 
 *See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/shov/shov-as-fulfillment]], [[themes/ratzo-veshov/shov/shov-and-the-world]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330143|143]] — ש"פ וירא, עתר"ו
+- [[maamarim/maamar-3601330142|142]] — ש"פ לך, עתר"ו

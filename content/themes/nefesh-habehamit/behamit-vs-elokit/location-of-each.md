@@ -52,3 +52,7 @@ the animal soul's emotions which precede and resist it.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/behamit-vs-elokit/the-battle]], [[themes/nefesh-habehamit/behamit-vs-elokit/beinoni-resolution]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330092|092]] — י"ט כסלו, העת"ר
+- [[maamarim/maamar-3601330032|032]] — ש"פ וישב, כ'' כסלו, תער"ג

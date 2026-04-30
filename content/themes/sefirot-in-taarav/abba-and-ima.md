@@ -65,6 +65,12 @@ The Rashab analyzes this union as the cosmic model for genuine intellectual crea
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330119|119]] — יום ב'' דחה"ש, בסעודה, העת"ר
+- [[maamarim/maamar-3601330118|118]] — ליל ב'' דחה"ש, העת"ר
+
 ## Cross-References
 
 - [[themes/sefirot-in-taarav/chabad-sefirot|ChaBaD Sefirot]]

@@ -51,3 +51,7 @@ reshimu within their soul retains the "memory" of the divine.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/reshimu/nature-of-reshimu]], [[themes/tzimtzum/reshimu/reshimu-as-root]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

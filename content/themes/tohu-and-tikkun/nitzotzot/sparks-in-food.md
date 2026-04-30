@@ -51,3 +51,7 @@ luminous husk) contain sparks that can be elevated.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-speech]], [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

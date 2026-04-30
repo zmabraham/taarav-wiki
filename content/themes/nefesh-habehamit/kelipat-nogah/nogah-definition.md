@@ -50,3 +50,7 @@ which is why the proper orientation to everyday activities is so spiritually sig
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/kelipat-nogah/nogah-in-daily-life]], [[themes/nefesh-habehamit/kelipat-nogah/elevating-nogah]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

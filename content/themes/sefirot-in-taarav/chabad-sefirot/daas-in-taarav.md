@@ -52,3 +52,7 @@ known and deeply felt divine connection.
 
 *See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/chochmah-in-taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/binah-in-taarav]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

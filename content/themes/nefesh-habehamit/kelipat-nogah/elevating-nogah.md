@@ -51,3 +51,7 @@ purpose of human existence.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/kelipat-nogah/nogah-definition]], [[themes/nefesh-habehamit/kelipat-nogah/nogah-in-daily-life]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

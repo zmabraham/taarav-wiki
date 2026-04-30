@@ -71,6 +71,12 @@ The Rashab was responding to intellectual challenges of his era — the early 20
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו
+
 ## Cross-References
 
 - [[themes/tzimtzum/tzimtzum-literal-vs-nonliteral|Literal vs. Non-Literal Tzimtzum]]

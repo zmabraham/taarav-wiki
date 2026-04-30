@@ -52,3 +52,7 @@ reality "above" the Tzimtzum.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/act-of-tzimtzum/what-contracted]], [[themes/tzimtzum/act-of-tzimtzum/why-tzimtzum]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330136|136]] — יום ב'' דר"ה, עתר"ו
+- [[maamarim/maamar-3601330135|135]] — ליל ב'' דר"ה, עתר"ו

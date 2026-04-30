@@ -50,3 +50,7 @@ and the reshimu within the Makom HaPanui.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/kav/kav-and-worlds]], [[themes/tzimtzum/kav/thinness-of-kav]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330143|143]] — ש"פ וירא, עתר"ו
+- [[maamarim/maamar-3601330142|142]] — ש"פ לך, עתר"ו

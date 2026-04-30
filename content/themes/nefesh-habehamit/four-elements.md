@@ -69,6 +69,12 @@ See: [[themes/nefesh-habehamit/kelipat-nogah|Kelipat Nogah]].
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו
+
 ## Cross-References
 
 - [[themes/nefesh-habehamit/kelipat-nogah|Kelipat Nogah]]

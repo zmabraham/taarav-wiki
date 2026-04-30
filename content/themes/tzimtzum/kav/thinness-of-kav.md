@@ -51,3 +51,7 @@ that the student's mind can absorb.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/kav/kav-entering-makom-hapanui]], [[themes/tzimtzum/kav/kav-and-worlds]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

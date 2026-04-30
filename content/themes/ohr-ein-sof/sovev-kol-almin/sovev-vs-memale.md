@@ -51,3 +51,7 @@ that cultivates both: transcendent awe and immanent love simultaneously.
 
 *See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-and-equality]], [[themes/ohr-ein-sof/memale-kol-almin|Memale Kol Almin]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

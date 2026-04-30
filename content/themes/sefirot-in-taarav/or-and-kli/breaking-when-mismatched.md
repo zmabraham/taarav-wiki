@@ -51,3 +51,7 @@ gradual vessel-expansion, not leaping to overwhelming spiritual intensity.
 
 *See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/or-and-kli/light-and-vessel-relationship]], [[themes/sefirot-in-taarav/or-and-kli/vessel-as-limitation]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

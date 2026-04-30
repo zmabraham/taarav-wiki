@@ -51,3 +51,7 @@ more hidden.
 
 *See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/five-levels/ruach]], [[themes/souls-of-israel/five-levels/chaya]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330119|119]] — יום ב'' דחה"ש, בסעודה, העת"ר
+- [[maamarim/maamar-3601330118|118]] — ליל ב'' דחה"ש, העת"ר

@@ -69,6 +69,12 @@ The Rashab's analysis of ChaBaD is directly connected to the Chabad path of divi
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330119|119]] — יום ב'' דחה"ש, בסעודה, העת"ר
+- [[maamarim/maamar-3601330118|118]] — ליל ב'' דחה"ש, העת"ר
+
 ## Cross-References
 
 - [[themes/sefirot-in-taarav/middot-sefirot|Middot Sefirot]] — The emotional sefirot that ChaBaD generates

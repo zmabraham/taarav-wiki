@@ -60,6 +60,12 @@ The Rashab draws an implication for understanding human free will. Human beings 
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330033|033]] — ש"פ מקץ, שבת חנוכה, תער"ג
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+
 ## Cross-References
 
 - [[themes/ohr-ein-sof/before-tzimtzum|Or Ein Sof Before Tzimtzum]]

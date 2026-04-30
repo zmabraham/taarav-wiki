@@ -33,6 +33,10 @@ The hemshech's final Shavuot maamarim synthesize the entire conceptual journey -
 - **Advances**: [[concepts/kedusha-sanctification-world]]
 
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330117|maamar 117]] — Night of 1st day of Shavuot, העת"ר
+
 ## Cross-References
 
 - [[index|Main Index]]

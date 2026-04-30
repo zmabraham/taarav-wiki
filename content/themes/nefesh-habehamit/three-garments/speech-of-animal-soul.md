@@ -51,3 +51,7 @@ transformation of the animal soul's speech-garment.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/three-garments/thought-of-animal-soul]], [[themes/nefesh-habehamit/three-garments/action-of-animal-soul]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330092|092]] — י"ט כסלו, העת"ר
+- [[maamarim/maamar-3601330032|032]] — ש"פ וישב, כ'' כסלו, תער"ג

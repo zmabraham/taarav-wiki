@@ -51,3 +51,7 @@ the concealment became.
 
 *See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-and-bitul]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-vs-memale]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330136|136]] — יום ב'' דר"ה, עתר"ו
+- [[maamarim/maamar-3601330135|135]] — ליל ב'' דר"ה, עתר"ו

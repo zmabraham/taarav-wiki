@@ -65,6 +65,12 @@ The spiritual work of elevating the physical world — using material things for
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/sefirot-in-taarav/partzufim|Partzufim]]

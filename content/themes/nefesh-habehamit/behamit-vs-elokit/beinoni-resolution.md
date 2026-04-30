@@ -53,3 +53,7 @@ of the divine soul.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/behamit-vs-elokit/location-of-each]], [[themes/nefesh-habehamit/behamit-vs-elokit/the-battle]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

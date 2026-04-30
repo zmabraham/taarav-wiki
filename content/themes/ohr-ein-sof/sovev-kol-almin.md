@@ -63,6 +63,12 @@ Together, they express the full theological picture: God is both the transcenden
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330136|136]] — יום ב'' דר"ה, עתר"ו
+- [[maamarim/maamar-3601330135|135]] — ליל ב'' דר"ה, עתר"ו
+
 ## Cross-References
 
 - [[themes/ohr-ein-sof/memale-kol-almin|Memaleh Kol Almin]] — The complementary immanent presence

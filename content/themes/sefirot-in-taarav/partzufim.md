@@ -80,6 +80,12 @@ Understanding these correspondences transforms prayer from a personal petition i
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/sefirot-in-taarav/arich-anpin|Arich Anpin]]
@@ -88,3 +94,10 @@ Understanding these correspondences transforms prayer from a personal petition i
 - [[themes/sefirot-in-taarav/nukva|Nukva]]
 - [[themes/tohu-and-tikkun/vessels-of-tikkun|Vessels of Tikkun]] — The Partzufim as Tikkun-vessels
 - [[themes/sefirot-in-taarav/index|Sefirot in Taarav — Hub]]
+
+### Detailed Partzuf Pages
+
+- [[themes/sefirot-in-taarav/partzufim/arich-anpin|Arich Anpin — detailed]]
+- [[themes/sefirot-in-taarav/partzufim/abba-and-ima|Abba and Ima — detailed]]
+- [[themes/sefirot-in-taarav/partzufim/zeir-anpin|Ze'ir Anpin — detailed]]
+- [[themes/sefirot-in-taarav/partzufim/nukva|Nukva — detailed]]

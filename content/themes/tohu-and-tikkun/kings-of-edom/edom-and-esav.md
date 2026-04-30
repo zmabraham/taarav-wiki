@@ -51,3 +51,7 @@ contribute their extraordinary intensity in a purified form.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/kings-of-edom/seven-kings]], [[themes/tohu-and-tikkun/kings-of-edom/kings-as-archetypes]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

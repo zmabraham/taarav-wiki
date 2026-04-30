@@ -84,6 +84,12 @@ This image — of Tohu and Tikkun as lights emerging from different "organs" of 
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/tohu-and-tikkun/world-of-tohu|World of Tohu]] — Emerged from Adam Kadmon

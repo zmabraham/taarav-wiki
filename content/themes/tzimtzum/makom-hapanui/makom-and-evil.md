@@ -50,3 +50,7 @@ by the introduction of divine presence, just as darkness is dispelled by light.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/makom-hapanui/what-is-in-the-void]], [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע

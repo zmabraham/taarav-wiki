@@ -81,6 +81,12 @@ This gives every Jewish act of holiness a cosmic significance: each elevated nit
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
+- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+
 ## Cross-References
 
 - [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]] — How the nitzotzot were scattered

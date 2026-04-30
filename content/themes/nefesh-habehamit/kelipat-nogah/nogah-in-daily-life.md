@@ -53,3 +53,7 @@ orientation toward it.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/kelipat-nogah/nogah-definition]], [[themes/nefesh-habehamit/kelipat-nogah/elevating-nogah]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330139|139]] — שמע"צ, עתר"ו
+- [[maamarim/maamar-3601330138|138]] — ליל ב'' דסוכות, עתר"ו

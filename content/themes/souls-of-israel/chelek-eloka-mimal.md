@@ -64,6 +64,12 @@ The Rashab emphasizes the word *mamash* (literally, actually) as a guard against
 
 ---
 
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330119|119]] — יום ב'' דחה"ש, בסעודה, העת"ר
+- [[maamarim/maamar-3601330118|118]] — ליל ב'' דחה"ש, העת"ר
+
 ## Cross-References
 
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Levels in Taarav]]

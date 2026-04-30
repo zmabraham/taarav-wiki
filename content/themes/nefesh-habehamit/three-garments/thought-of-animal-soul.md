@@ -51,3 +51,7 @@ mental faculty from animal-oriented to divine-oriented content.
 
 *See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/three-garments/speech-of-animal-soul]], [[themes/nefesh-habehamit/three-garments/action-of-animal-soul]]*
 
+## Related Maamarim
+
+- [[maamarim/maamar-3601330119|119]] — יום ב'' דחה"ש, בסעודה, העת"ר
+- [[maamarim/maamar-3601330118|118]] — ליל ב'' דחה"ש, העת"ר
