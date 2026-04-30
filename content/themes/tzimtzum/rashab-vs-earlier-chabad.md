@@ -1,6 +1,6 @@
 ---
 title: "Rashab vs. Earlier Chabad on Tzimtzum"
-hebrew: "הרש"ב לעומת חסידות חב\"ד הקדומה"
+hebrew: 'הרש"ב לעומת חסידות חב"ד הקדומה'
 tags: [taarav, themes, tzimtzum, history]
 parent: "[[themes/tzimtzum/index]]"
 ---
