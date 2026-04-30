@@ -86,3 +86,14 @@ See: [[themes/sefirot-in-taarav|Sefirot in Taarav]] and [[themes/sefirot-in-taar
 - [[themes/sefirot-in-taarav/or-and-kli|Or and Kli in the Sefirot]]
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Soul-Levels in Taarav]]
 - [[themes/or-yashar-or-chozer/index|Or Yashar / Or Chozer — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330024|maamar 024]] — via [[concepts/or-mekif-framework|Or Mekif Framework]]
+- [[maamarim/maamar-3601330113|maamar 113]] — via [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330037|maamar 037]] — via [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]

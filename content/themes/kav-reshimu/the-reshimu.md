@@ -74,3 +74,9 @@ The Tikkun world represents a more refined relationship between the Reshimu's te
 - [[themes/tzimtzum/reshimu|Reshimu in Tzimtzum Context]]
 - [[themes/kav-reshimu/reshimu-as-foundation|Reshimu as Foundation]]
 - [[themes/kav-reshimu/index|Kav and Reshimu — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

@@ -52,3 +52,8 @@ than the last.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-food]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-speech]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]

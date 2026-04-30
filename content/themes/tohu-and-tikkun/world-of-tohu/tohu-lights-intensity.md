@@ -50,3 +50,9 @@ breaking of the vessels — that defines the transition from Tohu to Tikkun.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-vessels-weakness]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-as-divine-excess]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]

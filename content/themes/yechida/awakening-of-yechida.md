@@ -78,3 +78,9 @@ This is why the Rashab (and the broader Chabad tradition) emphasizes simcha not 
 - [[themes/yechida/yechida-and-moshiach|Yechida and Moshiach]] — How individual access anticipates collective revelation
 - [[themes/ratzo-veshov/ratzo|Ratzo — The Yearning]] — The soul-movement associated with Yechida awakening
 - [[themes/or-yashar-or-chozer/mekif-and-pnimi|Mekif and Pnimi]] — How Yechida relates to encompassing vs. inner light
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

@@ -51,3 +51,8 @@ innermost point of the soul.
 
 *See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-and-ein-sof/yechida-as-atzmus]], [[themes/souls-of-israel/five-levels/yechida-level|Yechida Level]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

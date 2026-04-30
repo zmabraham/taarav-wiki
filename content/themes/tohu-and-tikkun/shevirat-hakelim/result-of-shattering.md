@@ -51,3 +51,8 @@ sparks through Torah and mitzvot, gradually restoring the wholeness that was bro
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/shevirat-hakelim/why-vessels-shattered]], [[themes/tohu-and-tikkun/shevirat-hakelim/shattering-as-purposeful]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

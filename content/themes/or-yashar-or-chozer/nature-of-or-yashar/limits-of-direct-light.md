@@ -53,3 +53,13 @@ precarious position, analogous to the unstable vessels of Tohu.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-yashar/downward-flow]], [[themes/or-yashar-or-chozer/nature-of-or-chozer|Nature of Or Chozer]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330035|maamar 035]] — via [[concepts/ascending-light-mechanism|Ascending Light Mechanism]]
+- [[maamarim/maamar-3601330037|maamar 037]] — via [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330016|maamar 016]] — via [[concepts/light-reflection-principle|Light Reflection Principle]]

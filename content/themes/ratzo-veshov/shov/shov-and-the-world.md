@@ -51,3 +51,8 @@ generations — is the progressive transformation of the physical world into a
 
 *See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/shov/shov-as-fulfillment]], [[themes/ratzo-veshov/shov/shov-in-halacha]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

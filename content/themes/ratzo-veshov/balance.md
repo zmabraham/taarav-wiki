@@ -29,3 +29,9 @@ The Rashab further teaches that in the messianic era, the opposition between *ra
 - **תנועה** (*tenu'ah*) — movement, motion; the dynamic quality of the *ratzo/shov* rhythm
 - **עצמות** (*atzmiut*) — essence; the deepest integration happens at the level of essential soul
 - **שלמות** (*shleimut*) — wholeness/completion; neither movement alone is whole
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

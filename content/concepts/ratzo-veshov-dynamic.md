@@ -37,6 +37,8 @@ Introduces the fundamental dynamic of spiritual life - the soul's upward yearnin
 
 
 ## Cross-References
+- [[themes/ratzo-veshov/ratzo-veshov-in-Torah|Ratzo v'Shov in Torah Study]]
+- [[themes/ratzo-veshov/ratzo-veshov-in-prayer|Ratzo v'Shov in Prayer]]
 
 - [[index|Main Index]]
 - [[themes/ratzo-veshov|Ratzo v'Shov]]

@@ -80,3 +80,9 @@ This makes the Tzimtzum not a tragedy (loss of the undifferentiated Or Ein Sof) 
 - [[themes/tzimtzum/tzimtzum-literal-vs-nonliteral|Literal vs. Non-Literal Tzimtzum]]
 - [[themes/ohr-ein-sof/before-tzimtzum|Or Ein Sof Before Tzimtzum]]
 - [[themes/tzimtzum/index|Tzimtzum — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330054|maamar 054]] — via [[concepts/sacred_contraction|Sacred Contraction]]

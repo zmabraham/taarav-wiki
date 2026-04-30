@@ -60,3 +60,14 @@ This is the ultimate meaning of *dirah b'tachtonim* (God's dwelling in the lower
 - [[themes/tzimtzum/act-of-tzimtzum|The Act of Tzimtzum]]
 - [[themes/ohr-ein-sof/koach-hagavul|Koach HaGavul]]
 - [[themes/ohr-ein-sof/index|Or Ein Sof — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330006|maamar 006]] — via [[concepts/atzilut-double-intermediary|Atzilut as Double Intermediary: Garment and Curtain]]
+- [[maamarim/maamar-3601330025|maamar 025]]
+- [[maamarim/maamar-3601330055|maamar 055]]
+- [[maamarim/maamar-3601330056|maamar 056]]
+- [[maamarim/maamar-3601330082|maamar 082]]
+- [[maamarim/maamar-3601330083|maamar 083]]

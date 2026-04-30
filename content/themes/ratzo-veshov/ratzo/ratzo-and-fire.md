@@ -51,3 +51,9 @@ becomes a positive, life-giving spiritual force rather than a consuming one.
 
 *See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/ratzo/ratzo-in-shemoneh-esrei]], [[themes/ratzo-veshov/ratzo/dangers-of-excessive-ratzo]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330026|maamar 026]] — via [[concepts/ascent-lower-will|Ascent of Lower Will]]
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

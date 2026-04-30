@@ -52,3 +52,8 @@ portions.
 
 *See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/chelek-eloka-mimal/literal-portion]], [[themes/souls-of-israel/chelek-eloka-mimal/implications-for-avodah]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330095|maamar 095]] — via [[concepts/unity_through_recognition|Unity Through Recognition]]

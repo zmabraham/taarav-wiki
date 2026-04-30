@@ -50,3 +50,8 @@ so much divine intensity that it dissolves back into the Infinite.
 
 *See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-reshimu/reshimu-and-free-choice]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

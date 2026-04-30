@@ -31,3 +31,14 @@ See the main overview: [[themes/souls-of-israel|Souls of Israel — Overview]]
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — Souls of Tohu vs. Tikkun
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The soul's upward-downward movement
 - [[concepts/index|Full Concepts Index]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]
+- [[maamarim/maamar-3601330125|maamar 125]] — via [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
+- [[maamarim/maamar-3601330021|maamar 021]] — via [[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]
+- [[maamarim/maamar-3601330106|maamar 106]] — via [[concepts/synthesis_individual_collective|Synthesis of Individual and Collective]]
+- [[maamarim/maamar-3601330057|maamar 057]] — via [[concepts/aromatic_sanctification|Aromatic Sanctification]]
+- [[maamarim/maamar-3601330073|maamar 073]] — via [[concepts/cognitive_transformation|Cognitive Transformation]]

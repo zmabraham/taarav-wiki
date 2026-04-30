@@ -74,3 +74,9 @@ The deeper dimension of Torah — its hidden, Kabbalistic aspects — reaches *i
 - [[themes/tohu-and-tikkun/nitzotzot|Nitzotzot]] — What Tikkun must elevate
 - [[themes/sefirot-in-taarav/partzufim|Partzufim]] — The structures of the Tikkun world
 - [[themes/tohu-and-tikkun/index|Tohu and Tikkun — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]

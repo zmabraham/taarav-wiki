@@ -51,3 +51,9 @@ sense of divine presence.
 
 *See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/five-levels/neshamah]], [[themes/souls-of-israel/five-levels/yechida-level]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330125|maamar 125]] — via [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
+- [[maamarim/maamar-3601330112|maamar 112]] — via [[concepts/primordial_soul_state|The Primordial Soul State]]

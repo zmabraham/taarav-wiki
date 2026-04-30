@@ -80,3 +80,9 @@ Genuine spiritual growth requires both: the person must build their *reshimu* ca
 - [[themes/kav-reshimu/kav-and-sefirot|Kav and Sefirot]]
 - [[themes/or-yashar-or-chozer/interaction-of-lights|Interaction of Or Yashar and Or Chozer]] — The analogous cosmic pattern
 - [[themes/kav-reshimu/index|Kav and Reshimu — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

@@ -52,3 +52,8 @@ Torah study in the broad sense.
 
 *See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/memale-kol-almin/memale-as-life-force]], [[themes/ohr-ein-sof/memale-kol-almin/memale-and-mitzvot]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330069|maamar 069]] — via [[concepts/nature_of_effective_divine_intervention|Nature of Effective Divine Intervention]]

@@ -80,3 +80,9 @@ The better calibrated the kli (the better the vessel fits the or), the more robu
 - [[themes/sefirot-in-taarav/sefirot-in-tohu-vs-tikkun|Sefirot in Tohu vs. Tikkun]]
 - [[themes/sefirot-in-taarav/chabad-sefirot|ChaBaD Sefirot]]
 - [[themes/sefirot-in-taarav/index|Sefirot in Taarav — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330094|maamar 094]] — via [[concepts/externalization_inner_light|Externalization of Inner Light]]

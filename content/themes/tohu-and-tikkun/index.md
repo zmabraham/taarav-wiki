@@ -41,3 +41,14 @@ See the main overview: [[themes/tohu-and-tikkun|Tohu and Tikkun — Overview]]
 - [[themes/souls-of-israel|Souls of Israel]] — Tohu vs. Tikkun souls
 - [[themes/kav-reshimu|Kav and Reshimu]] — The forces that produced Tohu and Tikkun
 - [[concepts/index|Full Concepts Index]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
+- [[maamarim/maamar-3601330079|maamar 079]] — via [[concepts/cosmic_redemption_through_return|Cosmic Redemption Through Return]]
+- [[maamarim/maamar-3601330109|maamar 109]] — via [[concepts/deficiency_as_foundation|Deficiency as Foundation]]
+- [[maamarim/maamar-3601330097|maamar 097]] — via [[concepts/extracting_light_darkness|Extracting Light from Darkness]]
+- [[maamarim/maamar-3601330089|maamar 089]] — via [[concepts/generations_of_struggle|Generations of Struggle]]

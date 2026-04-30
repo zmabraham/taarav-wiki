@@ -79,3 +79,9 @@ Yechida's revelation is both a *collective* event (for the Jewish people as a wh
 - [[themes/yechida/awakening-of-yechida|Awakening of Yechida]] — Individual anticipation of the collective revelation
 - [[themes/tohu-and-tikkun/nitzotzot|Nitzotzot]] — The sparks that, when gathered, trigger redemption
 - [[themes/ohr-ein-sof/sovev-kol-almin|Sovev Kol Almin]] — The transcendent light revealed in the Messianic era
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

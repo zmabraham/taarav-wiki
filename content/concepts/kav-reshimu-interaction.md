@@ -38,6 +38,8 @@ Analyzes the interaction between the Kav (line of light) and Reshimu (impression
 
 
 ## Cross-References
+- [[themes/kav-reshimu/kav-and-sefirot|Kav and Sefirot — How the Kav Builds the Sefirot]]
+- [[themes/kav-reshimu/relationship-between-kav-reshimu|The Relationship Between Kav and Reshimu]]
 
 - [[index|Main Index]]
 - [[themes/kav-reshimu|Kav and Reshimu]]

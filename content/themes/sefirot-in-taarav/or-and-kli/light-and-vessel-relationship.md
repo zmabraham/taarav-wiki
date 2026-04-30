@@ -51,3 +51,8 @@ essentially the process of vessel-expansion to accommodate ever greater divine l
 
 *See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/or-and-kli/vessel-as-limitation]], [[themes/sefirot-in-taarav/or-and-kli/breaking-when-mismatched]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330094|maamar 094]] — via [[concepts/externalization_inner_light|Externalization of Inner Light]]

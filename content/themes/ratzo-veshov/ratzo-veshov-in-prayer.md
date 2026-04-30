@@ -32,3 +32,9 @@ The prayers following the *Amidah* — *Tachanun*, *Ashrei*, *Aleinu*, and *Kadd
 - **שמע** (*Shema*) — Hear/Listen; the declaration of divine unity at the peak of *ratzo*
 - **עמידה** (*Amidah*) — standing; the silent *ratzo* that pivots into *shov* through petition
 - **תיקון עולם** (*tikkun olam*) — repair of the world; the mission carried back in *shov*
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

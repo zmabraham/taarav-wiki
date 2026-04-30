@@ -52,3 +52,8 @@ declaration of its own unity with the divine.
 
 *See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-in-exile/concealment-of-yechida]], [[themes/yechida/yechida-and-moshiach/moshiach-and-collective-yechida|Moshiach and Collective Yechida]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

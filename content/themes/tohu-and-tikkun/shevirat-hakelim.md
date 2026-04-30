@@ -76,3 +76,9 @@ This analysis grounds the Rashab's teaching that evil has no genuine ontological
 - [[themes/tohu-and-tikkun/world-of-tikkun|World of Tikkun]] — The response to the breaking
 - [[themes/nefesh-habehamit/kelipat-nogah|Kelipat Nogah]] — The refined form of the klipot
 - [[themes/tohu-and-tikkun/index|Tohu and Tikkun — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

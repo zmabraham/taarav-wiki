@@ -52,3 +52,12 @@ their earthly experience back upward, enriching the divine encounter.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/generation-of-reflected-light]], [[themes/or-yashar-or-chozer/interaction-of-lights/the-kiss]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330035|maamar 035]] — via [[concepts/ascending-light-mechanism|Ascending Light Mechanism]]
+- [[maamarim/maamar-3601330036|maamar 036]] — via [[concepts/ascent-of-or-chozer|Ascent of Or Chozer]]
+- [[maamarim/maamar-3601330133|maamar 133]] — via [[concepts/bikurim-or-chozer-culmination|Bikurim: Or Chozer's Culminating Ascent]]
+- [[maamarim/maamar-3601330141|maamar 141]] — via [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
+- [[maamarim/maamar-3601330030|maamar 030]] — via [[concepts/or-chozer-divine-drawing|Or Chozer As Divine Drawing]]

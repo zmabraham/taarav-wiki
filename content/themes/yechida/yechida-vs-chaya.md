@@ -83,3 +83,14 @@ The Rashab connects different spiritual practices to these different soul-levels
 - [[themes/sefirot-in-taarav/abba-and-ima|Abba and Ima]] — Chaya's corresponding Partzuf
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Soul-Levels in Taarav]] — The full hierarchy
 - [[themes/ratzo-veshov/ratzo|Ratzo — The Yearning]] — The soul-movement of Yechida
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]
+- [[maamarim/maamar-3601330021|maamar 021]]
+- [[maamarim/maamar-3601330022|maamar 022]]
+- [[maamarim/maamar-3601330023|maamar 023]]
+- [[maamarim/maamar-3601330051|maamar 051]]
+- [[maamarim/maamar-3601330052|maamar 052]]

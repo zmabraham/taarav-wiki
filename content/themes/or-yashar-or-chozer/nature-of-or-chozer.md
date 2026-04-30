@@ -72,3 +72,14 @@ See: [[themes/tohu-and-tikkun/world-of-tohu|World of Tohu]] and [[themes/tohu-an
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The experiential expression of Or Chozer (ratzo)
 - [[themes/tzimtzum|Tzimtzum]] — The enabling condition for Or Chozer
 - [[themes/or-yashar-or-chozer/index|Or Yashar / Or Chozer — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330037|maamar 037]] — via [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
+- [[maamarim/maamar-3601330113|maamar 113]] — via [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]
+- [[maamarim/maamar-3601330035|maamar 035]] — via [[concepts/ascending-light-mechanism|Ascending Light Mechanism]]

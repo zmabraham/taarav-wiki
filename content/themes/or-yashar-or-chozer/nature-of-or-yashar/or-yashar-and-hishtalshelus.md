@@ -50,3 +50,13 @@ the entire sequence of worlds into concrete, material action.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-yashar/downward-flow]], [[themes/or-yashar-or-chozer/nature-of-or-yashar/limits-of-direct-light]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330014|maamar 014]] — via [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
+- [[maamarim/maamar-3601330141|maamar 141]] — via [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
+- [[maamarim/maamar-3601330007|maamar 007]]
+- [[maamarim/maamar-3601330008|maamar 008]]
+- [[maamarim/maamar-3601330009|maamar 009]]
+- [[maamarim/maamar-3601330010|maamar 010]]

@@ -30,3 +30,9 @@ See the main overview: [[themes/kav-reshimu|Kav and Reshimu — Overview]]
 - [[themes/ohr-ein-sof|Or Ein Sof]] — The source of the Kav
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — What the Kav/Reshimu interaction produced
 - [[concepts/index|Full Concepts Index]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

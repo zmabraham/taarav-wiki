@@ -76,3 +76,9 @@ The Rashab identifies several spiritual symptoms of Yechida's exile:
 - [[themes/yechida/awakening-of-yechida|Awakening of Yechida]] — How Yechida begins to be accessed even now
 - [[themes/sefirot-in-taarav/nukva|Nukva]] — The Shechinah whose exile parallels Yechida's
 - [[themes/ohr-ein-sof/sovev-kol-almin|Sovev Kol Almin]] — The transcendent light that becomes "hidden" in galut
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

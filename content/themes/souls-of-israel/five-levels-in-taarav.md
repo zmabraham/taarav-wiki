@@ -70,3 +70,12 @@ This mapping makes the five-level framework directly practical rather than merel
 - [[themes/souls-of-israel/root-of-souls|Root of Souls]]
 - [[themes/or-yashar-or-chozer/mekif-and-pnimi|Mekif and Pnimi]] — Chaya as Or Mekif
 - [[themes/souls-of-israel/index|Souls of Israel — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330125|maamar 125]] — via [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
+- [[maamarim/maamar-3601330112|maamar 112]] — via [[concepts/primordial_soul_state|The Primordial Soul State]]
+- [[maamarim/maamar-3601330064|maamar 064]] — via [[concepts/sanctification_through_separation|Sanctification through Separation]]
+- [[maamarim/maamar-3601330095|maamar 095]] — via [[concepts/unity_through_recognition|Unity Through Recognition]]

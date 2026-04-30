@@ -75,3 +75,10 @@ The Rashab develops this in connection with the teaching that the 613 mitzvot co
 - [[themes/tohu-and-tikkun/lights-of-tikkun|Lights of Tikkun]]
 - [[themes/sefirot-in-taarav/partzufim|Partzufim]] — The detailed structure
 - [[themes/tohu-and-tikkun/world-of-tikkun|World of Tikkun — Overview]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

@@ -51,3 +51,8 @@ they are now *within* the world rather than above it.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/shevirat-hakelim/why-vessels-shattered]], [[themes/tohu-and-tikkun/shevirat-hakelim/result-of-shattering]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

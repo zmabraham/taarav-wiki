@@ -52,3 +52,8 @@ finite without destroying it.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/mekif-and-pnimi/mekif-transcendent]], [[themes/or-yashar-or-chozer/mekif-and-pnimi/pnimi-internalized]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330024|maamar 024]] — via [[concepts/or-mekif-framework|Or Mekif Framework]]

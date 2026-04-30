@@ -52,3 +52,8 @@ the Messianic era requires Yechida-level spiritual engagement.
 
 *See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-and-moshiach/moshiach-and-collective-yechida]], [[themes/yechida/yechida-in-exile/concealment-of-yechida|Concealment of Yechida]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

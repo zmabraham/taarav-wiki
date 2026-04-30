@@ -52,3 +52,9 @@ but the productive cooperation of all qualities in service of God.
 
 *See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-lights-intensity]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-vessels-weakness]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

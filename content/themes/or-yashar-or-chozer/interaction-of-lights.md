@@ -90,3 +90,14 @@ The Rashab draws explicit practical consequences from this analysis:
 - [[themes/sefirot-in-taarav|Sefirot in Taarav]] — Where the interaction is structured
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The human experiential version of this dynamic
 - [[themes/or-yashar-or-chozer/index|Or Yashar / Or Chozer — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330014|maamar 014]] — via [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330141|maamar 141]] — via [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
+- [[maamarim/maamar-3601330032|maamar 032]] — via [[concepts/reflection-divine-dwelling|Reflection as Divine Dwelling]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]

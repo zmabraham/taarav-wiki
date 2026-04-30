@@ -51,3 +51,10 @@ why Yechida accesses divine reality at its most primordial and most transcendent
 
 *See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/abba-and-ima]], [[themes/sefirot-in-taarav/zeir-anpin]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330005|maamar 005]] — via [[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]
+- [[maamarim/maamar-3601330004|maamar 004]] — via [[concepts/introduces-keter-structure|Introduces Keter Structure]]
+- [[maamarim/maamar-3601330023|maamar 023]] — via [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]

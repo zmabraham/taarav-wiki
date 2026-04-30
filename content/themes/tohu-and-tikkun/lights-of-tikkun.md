@@ -66,3 +66,9 @@ The orot of Tikkun are distributed across the four worlds:
 - [[themes/tohu-and-tikkun/vessels-of-tikkun|Vessels of Tikkun]]
 - [[themes/sefirot-in-taarav/partzufim|Partzufim]] — The mediating structures
 - [[themes/tohu-and-tikkun/world-of-tikkun|World of Tikkun — Overview]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]

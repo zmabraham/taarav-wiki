@@ -50,3 +50,8 @@ capacity to return to earth, to continue their embodied divine service.
 
 *See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/ratzo/dangers-of-excessive-ratzo]], [[themes/ratzo-veshov/ratzo/ratzo-and-fire]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

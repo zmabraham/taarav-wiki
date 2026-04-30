@@ -70,3 +70,9 @@ Finally, the Rashab teaches that the ultimate divine goal — the *dirah b'tacht
 - [[themes/ohr-ein-sof/after-tzimtzum|Or Ein Sof After Tzimtzum]]
 - [[themes/yechida/yechida-and-ein-sof|Yechida and Ein Sof]] — The Reshimu of the Yechida
 - [[themes/kav-reshimu/index|Kav and Reshimu — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

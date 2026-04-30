@@ -88,3 +88,14 @@ The resolution of this debate has profound implications for:
 - [[themes/ohr-ein-sof|Or Ein Sof]] — What was and wasn't withdrawn
 - [[themes/ohr-ein-sof/before-tzimtzum|Or Ein Sof Before Tzimtzum]]
 - [[themes/tzimtzum/index|Tzimtzum — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330084|maamar 084]] — via [[concepts/existent_non_existent|Existent Non-Existent]]
+- [[maamarim/maamar-3601330033|maamar 033]]
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]
+- [[maamarim/maamar-3601330006|maamar 006]]
+- [[maamarim/maamar-3601330025|maamar 025]]

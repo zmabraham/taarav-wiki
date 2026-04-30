@@ -67,3 +67,10 @@ The Rashab also connects the Kings of Edom to the figure of Esau (*Eisav*) — w
 - [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]]
 - [[themes/nefesh-habehamit|Nefesh HaBehamit]] — Esau as the animal soul
 - [[themes/tohu-and-tikkun/index|Tohu and Tikkun — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]

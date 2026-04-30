@@ -47,3 +47,13 @@ from the Makom HaPanui is the active radiance, not the Essence itself.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/act-of-tzimtzum/why-tzimtzum]], [[themes/tzimtzum/act-of-tzimtzum/tzimtzum-and-will]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]
+- [[maamarim/maamar-3601330006|maamar 006]]
+- [[maamarim/maamar-3601330025|maamar 025]]
+- [[maamarim/maamar-3601330033|maamar 033]]
+- [[maamarim/maamar-3601330035|maamar 035]]

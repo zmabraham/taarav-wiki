@@ -80,3 +80,9 @@ The spiritual work of any individual is thus both to *develop their primary sefi
 - [[themes/sefirot-in-taarav/chabad-sefirot|Chabad Sefirot]]
 - [[themes/souls-of-israel/root-of-souls|Root of Souls]]
 - [[themes/souls-of-israel/index|Souls of Israel — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]

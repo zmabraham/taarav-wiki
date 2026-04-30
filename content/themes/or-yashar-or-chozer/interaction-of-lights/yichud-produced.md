@@ -52,3 +52,9 @@ or yashar; and in their meeting, both are enriched.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/interaction-of-lights/the-kiss]], [[themes/sefirot-in-taarav/chabad-sefirot|Chabad Sefirot]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330024|maamar 024]] — via [[concepts/or-mekif-framework|Or Mekif Framework]]
+- [[maamarim/maamar-3601330113|maamar 113]] — via [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]

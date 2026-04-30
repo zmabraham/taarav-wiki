@@ -32,3 +32,9 @@ The ideal Torah scholar, in the Rashab's vision, is a person in whom *ratzo* and
 - **חידוש** (*chidush*) — novel insight; the fruit of the *ratzo* moment in learning
 - **חברותא** (*chavruta*) — study partnership; a social enactment of *ratzo/shov*
 - **נגלה / נסתר** (*nigleh / nistar*) — revealed/esoteric Torah; both dimensions require *ratzo v'shov*
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

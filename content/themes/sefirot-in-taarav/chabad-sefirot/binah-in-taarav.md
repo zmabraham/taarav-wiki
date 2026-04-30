@@ -48,3 +48,8 @@ in the service of divine understanding.
 
 *See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/chochmah-in-taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/daas-in-taarav]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330128|maamar 128]] — via [[concepts/shabbat-as-pnimiyut-binah|Shabbat as the Pnimiyut of Binah]]

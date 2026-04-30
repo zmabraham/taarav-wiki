@@ -52,3 +52,10 @@ not the fundamental existential dependence of creation on Memale.
 
 *See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/memale-kol-almin/memale-and-nature]], [[themes/ohr-ein-sof/memale-kol-almin/memale-and-mitzvot]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330049|maamar 049]] — via [[concepts/divine_force_transference|Divine Force Transference]]
+- [[maamarim/maamar-3601330062|maamar 062]] — via [[concepts/exodus_as_creation_paradigm|Exodus as Creation Paradigm]]
+- [[maamarim/maamar-3601330056|maamar 056]] — via [[concepts/shared_reality_creation|Shared Reality Creation]]

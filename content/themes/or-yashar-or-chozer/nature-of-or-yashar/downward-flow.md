@@ -52,3 +52,13 @@ a movement *against* the natural direction of or yashar.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-yashar/limits-of-direct-light]], [[themes/or-yashar-or-chozer/nature-of-or-yashar/or-yashar-and-hishtalshelus]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330014|maamar 014]] — via [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330141|maamar 141]] — via [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]

@@ -75,3 +75,10 @@ The Tohu vessels were not failures — they were the mechanism by which the high
 - [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]]
 - [[themes/tohu-and-tikkun/vessels-of-tikkun|Vessels of Tikkun]] — The contrast
 - [[themes/tohu-and-tikkun/world-of-tohu|World of Tohu — Overview]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]

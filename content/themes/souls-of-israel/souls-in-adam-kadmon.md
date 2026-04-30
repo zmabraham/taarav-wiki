@@ -72,3 +72,9 @@ The study of *Torat HaSod* (the hidden dimension of Torah, including Chassidus) 
 - [[themes/yechida|Yechida]] — The soul-level corresponding to Adam Kadmon
 - [[themes/souls-of-israel/root-of-souls|Root of Souls]]
 - [[themes/souls-of-israel/index|Souls of Israel — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]

@@ -82,3 +82,14 @@ See: [[themes/ratzo-veshov/ratzo-veshov-in-prayer|Ratzo v'Shov in Prayer]] for a
 - [[themes/ratzo-veshov/ratzo-veshov-in-prayer|Ratzo v'Shov in Prayer]]
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The dynamic framework
 - [[themes/or-yashar-or-chozer/index|Or Yashar / Or Chozer — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330014|maamar 014]] — via [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330037|maamar 037]] — via [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
+- [[maamarim/maamar-3601330113|maamar 113]] — via [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]

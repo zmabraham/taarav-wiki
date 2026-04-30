@@ -52,3 +52,8 @@ own Yechida for the coming revelation.
 
 *See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-and-moshiach/geulah-reveals-yechida]], [[themes/yechida/yechida-in-exile/accessing-yechida-now|Accessing Yechida Now]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

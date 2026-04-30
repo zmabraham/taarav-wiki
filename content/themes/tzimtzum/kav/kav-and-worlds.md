@@ -50,3 +50,13 @@ creative interplay.
 
 *See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/kav/kav-entering-makom-hapanui]], [[themes/tzimtzum/kav/thinness-of-kav]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]]
+- [[maamarim/maamar-3601330008|maamar 008]]
+- [[maamarim/maamar-3601330009|maamar 009]]
+- [[maamarim/maamar-3601330010|maamar 010]]
+- [[maamarim/maamar-3601330011|maamar 011]]
+- [[maamarim/maamar-3601330012|maamar 012]]

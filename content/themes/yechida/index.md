@@ -43,3 +43,11 @@ The Rashab connects this to the divine attribute of *Yachid* (יחיד — the O
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Soul-Levels in Taarav]] — Where Yechida fits in the soul hierarchy
 - [[themes/ohr-ein-sof/before-tzimtzum|Before Tzimtzum]] — The divine level that Yechida most directly relates to
 - [[themes/ratzo-veshov/ratzo|Ratzo — The Yearning]] — The soul-movement most associated with Yechida
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]
+- [[maamarim/maamar-3601330051|maamar 051]] — via [[concepts/shavuot-torah-reception-inner|Shavuot Revisited: The Inner Dynamics of Torah Reception]]
+- [[maamarim/maamar-3601330139|maamar 139]] — via [[concepts/pnimiyut-atik-revealed-to-israel|Pnimiyut Atik Revealed to Israel on Shemini Atzeret]]

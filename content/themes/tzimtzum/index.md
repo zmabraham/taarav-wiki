@@ -32,3 +32,14 @@ See the main overview: [[themes/tzimtzum|Tzimtzum — Overview]]
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — What emerged from the Tzimtzum
 - [[themes/or-yashar-or-chozer|Or Yashar / Or Chozer]] — What the Tzimtzum made possible
 - [[concepts/index|Full Concepts Index]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330054|maamar 054]] — via [[concepts/sacred_contraction|Sacred Contraction]]
+- [[maamarim/maamar-3601330059|maamar 059]] — via [[concepts/concealment_for_revelation|Concealment for Revelation]]
+- [[maamarim/maamar-3601330111|maamar 111]] — via [[concepts/emergence_from_concealment|Emergence from Concealment]]
+- [[maamarim/maamar-3601330084|maamar 084]] — via [[concepts/existent_non_existent|Existent Non-Existent]]
+- [[maamarim/maamar-3601330115|maamar 115]] — via [[concepts/infinite_descent_within_limits|Infinite Descent Within Limits]]
+- [[maamarim/maamar-3601330020|maamar 020]] — via [[concepts/ketzitz-creation-paradox|Ki Tetze: Going Forth and the Creative Paradox]]

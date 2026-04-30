@@ -74,3 +74,14 @@ One practically important expression of the Yechida-Ein Sof relationship, in the
 - [[themes/tzimtzum/act-of-tzimtzum|The Act of Tzimtzum]] — What Yechida precedes (in structural correspondence)
 - [[themes/souls-of-israel/chelek-eloka-mimal|Chelek Eloka Mimal]] — The soul as a divine portion
 - [[themes/yechida/yechida-vs-chaya|Yechida vs. Chaya]] — Distinguishing Yechida from the next soul-level
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]
+- [[maamarim/maamar-3601330006|maamar 006]]
+- [[maamarim/maamar-3601330035|maamar 035]]
+- [[maamarim/maamar-3601330036|maamar 036]]

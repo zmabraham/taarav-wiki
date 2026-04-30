@@ -30,3 +30,9 @@ In Hemshech Taarav, the Rashab (Rabbi Shalom DovBer Schneersohn) elevates *ratzo
 - **רצון** (*ratzon*) — will/desire, sharing the root of *ratzo*
 - **כלות הנפש** (*klot hanefesh*) — the soul's "expiration" in longing, the extreme of *ratzo*
 - **חיות הקודש** (*Chayot HaKodesh*) — the holy living beings of Ezekiel's vision
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

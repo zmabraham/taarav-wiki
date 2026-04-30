@@ -50,3 +50,8 @@ contact with the Sovev level through prayer, Torah study, and meditation.
 
 *See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-and-equality]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-vs-memale]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330040|maamar 040]] — via [[concepts/transcendent_statutory_law|Transcendent Statutory Law]]

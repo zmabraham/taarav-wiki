@@ -51,3 +51,13 @@ even the highest divine levels.
 
 *See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/or-chozer-ascending]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/quality-of-or-chozer]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
+- [[maamarim/maamar-3601330037|maamar 037]] — via [[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]
+- [[maamarim/maamar-3601330113|maamar 113]] — via [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]
+- [[maamarim/maamar-3601330035|maamar 035]] — via [[concepts/ascending-light-mechanism|Ascending Light Mechanism]]

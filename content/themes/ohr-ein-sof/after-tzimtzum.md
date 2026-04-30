@@ -67,3 +67,14 @@ This is the Rashab's application of the Chabad principle of *Achdus HaShem* (div
 - [[themes/kav-reshimu|Kav and Reshimu]]
 - [[themes/tzimtzum/tzimtzum-literal-vs-nonliteral|Literal vs. Non-Literal Tzimtzum]]
 - [[themes/ohr-ein-sof/index|Or Ein Sof — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330006|maamar 006]] — via [[concepts/atzilut-double-intermediary|Atzilut as Double Intermediary: Garment and Curtain]]
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]
+- [[maamarim/maamar-3601330025|maamar 025]]
+- [[maamarim/maamar-3601330035|maamar 035]]
+- [[maamarim/maamar-3601330036|maamar 036]]

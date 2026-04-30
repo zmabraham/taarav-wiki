@@ -81,3 +81,14 @@ The Rashab uses this to address the apparent paradox of physical existence: if G
 - [[themes/tzimtzum/kav|Kav in Tzimtzum Context]]
 - [[themes/ohr-ein-sof/sovev-kol-almin|Sovev Kol Almin]] — Related to the Igulim concept
 - [[themes/kav-reshimu/index|Kav and Reshimu — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]
+- [[maamarim/maamar-3601330004|maamar 004]]
+- [[maamarim/maamar-3601330005|maamar 005]]
+- [[maamarim/maamar-3601330006|maamar 006]]
+- [[maamarim/maamar-3601330025|maamar 025]]
+- [[maamarim/maamar-3601330035|maamar 035]]

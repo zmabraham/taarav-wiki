@@ -30,6 +30,8 @@ The flood (mabul) typifies the total inundation of Or Yashar overwhelming the ke
 The Noach narrative provides the typological frame for the Or Yashar/Or Chozer dynamic: when Or Yashar flows without the vessels' capacity to receive it, it 'floods' and destroys — the ark's function is precisely to preserve the Or Chozer process within the overwhelming flow.
 
 ## Cross-References
+- [[themes/or-yashar-or-chozer/interaction-of-lights|Interaction of Or Yashar and Or Chozer]]
+- [[themes/or-yashar-or-chozer/interaction-of-lights/the-kiss|The Kiss: Meeting of Or Yashar and Or Chozer]]
 
 - [[concepts/index|Concept Index]]
 - [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

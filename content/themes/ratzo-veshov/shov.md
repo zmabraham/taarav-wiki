@@ -34,3 +34,9 @@ See also: [[themes/ratzo-veshov/ratzo]]
 - **הלכה** (*halacha*) — Jewish law, the domain where transcendent wisdom becomes grounded practice
 - **מצוות** (*mitzvot*) — commandments, the primary vehicle of *shov* in practice
 - **כלי** (*kli*) — vessel; *shov* is the soul becoming a vessel for the light it encountered in *ratzo*
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]

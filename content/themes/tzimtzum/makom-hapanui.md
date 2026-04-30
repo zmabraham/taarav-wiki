@@ -76,3 +76,9 @@ The response to *hester panim* in the Taarav's framework is not to deny the expe
 - [[themes/tzimtzum/kav|The Kav]] — The active divine presence in the chalal
 - [[themes/ohr-ein-sof/after-tzimtzum|Or Ein Sof After Tzimtzum]]
 - [[themes/tzimtzum/index|Tzimtzum — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330114|maamar 114]] — via [[concepts/time_as_spiritual_space|Time as Spiritual Space]]

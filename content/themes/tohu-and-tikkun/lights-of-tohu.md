@@ -71,3 +71,14 @@ See: [[themes/souls-of-israel/root-of-souls|Root of Souls]].
 - [[themes/tohu-and-tikkun/nitzotzot|Nitzotzot]]
 - [[themes/tohu-and-tikkun/lights-of-tikkun|Lights of Tikkun]] — The contrast
 - [[themes/tohu-and-tikkun/world-of-tohu|World of Tohu — Overview]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330010|maamar 010]] — via [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
+- [[maamarim/maamar-3601330060|maamar 060]] — via [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]
+- [[maamarim/maamar-3601330053|maamar 053]]
+- [[maamarim/maamar-3601330054|maamar 054]]
+- [[maamarim/maamar-3601330057|maamar 057]]
+- [[maamarim/maamar-3601330058|maamar 058]]

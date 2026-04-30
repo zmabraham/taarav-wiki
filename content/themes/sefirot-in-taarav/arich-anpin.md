@@ -61,3 +61,10 @@ The spiritual practice of *ta'anug b'Elokus* (divine delight — finding genuine
 - [[themes/yechida|Yechida]] — The soul-level corresponding to Arich Anpin
 - [[themes/sefirot-in-taarav/abba-and-ima|Abba and Ima]] — The next Partzufim below Arich Anpin
 - [[themes/sefirot-in-taarav/index|Sefirot in Taarav — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330005|maamar 005]] — via [[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]
+- [[maamarim/maamar-3601330023|maamar 023]] — via [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]

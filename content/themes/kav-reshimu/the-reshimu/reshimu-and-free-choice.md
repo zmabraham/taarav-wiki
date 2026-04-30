@@ -50,3 +50,8 @@ for activating the Reshimu — for making the latent divine potential become man
 
 *See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-reshimu/reshimu-enabling-existence]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

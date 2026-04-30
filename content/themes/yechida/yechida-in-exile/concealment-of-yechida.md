@@ -50,3 +50,8 @@ The concealment is a concealment of *experience*, not of reality.
 
 *See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-in-exile/accessing-yechida-now]], [[themes/yechida/yechida-and-moshiach/geulah-reveals-yechida|Geulah Reveals Yechida]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330025|maamar 025]] — via [[concepts/yechida-transcendence|Yechida Transcendence]]

@@ -50,3 +50,8 @@ of divine creative intentionality.
 
 *See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-kav/kav-as-divine-will]], [[themes/kav-reshimu/the-kav/kav-and-adam-kadmon]]*
 
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

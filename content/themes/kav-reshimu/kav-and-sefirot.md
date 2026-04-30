@@ -64,3 +64,9 @@ This has implications for spiritual practice: the Sefirot of the soul are not fi
 - [[themes/sefirot-in-taarav|Sefirot in Taarav]]
 - [[themes/kav-reshimu/reshimu-as-foundation|Reshimu as Foundation]]
 - [[themes/kav-reshimu/index|Kav and Reshimu — Hub]]
+
+---
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330009|maamar 009]] — via [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]

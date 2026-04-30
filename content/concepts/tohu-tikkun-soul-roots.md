@@ -38,6 +38,7 @@ Deepens the analysis of souls rooted in Tohu versus Tikkun, explaining how each 
 
 
 ## Cross-References
+- [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks|The Tikkun of Sparks: Human Mission in Creation]]
 
 - [[index|Main Index]]
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]]
