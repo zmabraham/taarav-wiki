@@ -29,6 +29,10 @@ Maamar Shoftim (1901-02) draws a precise distinction between two modes of divine
 
 
 - **Advances**: [[concepts/ketzitz-creation-paradox|Ki Tetze: Going Forth and the Creative Paradox]]
+## Related Maamarim
+
+- [[maamarim/maamar-3601330017|maamar 017]] — Parshat Shoftim, תער"ב
+
 ## Cross-References
 
 - [[index|Main Index]]

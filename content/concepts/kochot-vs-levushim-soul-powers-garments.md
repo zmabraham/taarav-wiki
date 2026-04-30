@@ -28,6 +28,10 @@ Maamar Vayishlach (1902-03) constructs the distinction between *kochot ha-nefesh
 
 
 - **Advances**: [[concepts/reflection-divine-dwelling|Reflection as Divine Dwelling]]
+## Related Maamarim
+
+- [[maamarim/maamar-3601330031|maamar 031]] — Parshat Vayishlach, תער"ג
+
 ## Cross-References
 
 - [[index|Main Index]]
