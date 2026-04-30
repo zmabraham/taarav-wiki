@@ -49,5 +49,5 @@ contribute their extraordinary intensity in a purified form.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[seven-kings]], [[kings-as-archetypes]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/kings-of-edom/seven-kings]], [[themes/tohu-and-tikkun/kings-of-edom/kings-as-archetypes]]*
 

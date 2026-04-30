@@ -49,5 +49,5 @@ becomes a positive, life-giving spiritual force rather than a consuming one.
 
 ---
 
-*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[ratzo-in-shemoneh-esrei]], [[dangers-of-excessive-ratzo]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/ratzo/ratzo-in-shemoneh-esrei]], [[themes/ratzo-veshov/ratzo/dangers-of-excessive-ratzo]]*
 

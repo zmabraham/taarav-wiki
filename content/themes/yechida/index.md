@@ -2,7 +2,7 @@
 title: "Yechida — The Singular Soul-Level"
 hebrew: "יחידה"
 tags: [taarav, themes, yechida]
-parent: "[[themes/index]]"
+parent: "[[index]]"
 ---
 
 # יחידה — Yechida: The Singular Soul-Level
@@ -42,4 +42,4 @@ The Rashab connects this to the divine attribute of *Yachid* (יחיד — the O
 - [[themes/sefirot-in-taarav/arich-anpin|Arich Anpin]] — The Partzuf corresponding to Yechida
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Soul-Levels in Taarav]] — Where Yechida fits in the soul hierarchy
 - [[themes/ohr-ein-sof/before-tzimtzum|Before Tzimtzum]] — The divine level that Yechida most directly relates to
-- [[themes/ratzo-veshov/ratzo-the-yearning|Ratzo — The Yearning]] — The soul-movement most associated with Yechida
+- [[themes/ratzo-veshov/ratzo|Ratzo — The Yearning]] — The soul-movement most associated with Yechida

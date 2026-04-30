@@ -50,5 +50,5 @@ divine essence.
 
 ---
 
-*See also: [[themes/souls-of-israel|Souls of Israel]], [[literal-portion]], [[portion-and-unity]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/chelek-eloka-mimal/literal-portion]], [[themes/souls-of-israel/chelek-eloka-mimal/portion-and-unity]]*
 

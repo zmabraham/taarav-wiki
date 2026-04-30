@@ -69,5 +69,5 @@ The Rashab emphasizes the word *mamash* (literally, actually) as a guard against
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Levels in Taarav]]
 - [[themes/souls-of-israel/root-of-souls|Root of Souls]]
 - [[themes/yechida|Yechida]] — The soul-level most directly expressing the chelek relationship
-- [[themes/ratzo-veshov/ratzo-the-yearning|Ratzo — The Yearning]] — The natural expression of the chelek soul
+- [[themes/ratzo-veshov/ratzo|Ratzo — The Yearning]] — The natural expression of the chelek soul
 - [[themes/souls-of-israel/index|Souls of Israel — Hub]]

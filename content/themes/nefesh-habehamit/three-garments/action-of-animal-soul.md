@@ -50,5 +50,5 @@ most powerful divine service.
 
 ---
 
-*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[thought-of-animal-soul]], [[speech-of-animal-soul]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[themes/nefesh-habehamit/three-garments/thought-of-animal-soul]], [[themes/nefesh-habehamit/three-garments/speech-of-animal-soul]]*
 

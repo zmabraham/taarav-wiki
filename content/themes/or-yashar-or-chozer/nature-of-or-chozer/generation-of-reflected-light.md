@@ -49,5 +49,5 @@ even the highest divine levels.
 
 ---
 
-*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[or-chozer-ascending]], [[quality-of-or-chozer]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/or-chozer-ascending]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/quality-of-or-chozer]]*
 

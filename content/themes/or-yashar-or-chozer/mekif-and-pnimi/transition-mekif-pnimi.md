@@ -50,5 +50,5 @@ finite without destroying it.
 
 ---
 
-*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[mekif-transcendent]], [[pnimi-internalized]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/mekif-and-pnimi/mekif-transcendent]], [[themes/or-yashar-or-chozer/mekif-and-pnimi/pnimi-internalized]]*
 

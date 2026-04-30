@@ -49,5 +49,5 @@ they are now *within* the world rather than above it.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[why-vessels-shattered]], [[result-of-shattering]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/shevirat-hakelim/why-vessels-shattered]], [[themes/tohu-and-tikkun/shevirat-hakelim/result-of-shattering]]*
 

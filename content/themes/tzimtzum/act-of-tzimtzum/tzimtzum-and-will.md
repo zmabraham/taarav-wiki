@@ -50,5 +50,5 @@ reality "above" the Tzimtzum.
 
 ---
 
-*See also: [[themes/tzimtzum|Tzimtzum]], [[what-contracted]], [[why-tzimtzum]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/act-of-tzimtzum/what-contracted]], [[themes/tzimtzum/act-of-tzimtzum/why-tzimtzum]]*
 

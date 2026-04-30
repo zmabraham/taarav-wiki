@@ -2,7 +2,7 @@
 title: "Ratzo v'Shov — Running and Returning"
 hebrew: "רצוא ושוב"
 tags: [taarav, themes, ratzo-veshov]
-parent: "[[themes/index]]"
+parent: "[[index]]"
 ---
 
 # רצוא ושוב — Ratzo v'Shov: Running and Returning
@@ -46,6 +46,6 @@ Neither movement alone is the goal. Both are essential, and their alternation �
 ## Cross-References
 
 - [[themes/or-yashar-or-chozer/interaction-of-lights|Interaction of Or Yashar and Or Chozer]] — The structural parallel to Ratzo v'Shov
-- [[themes/yechida/ratzo-the-yearning|Ratzo and Yechida]] — The soul-level most associated with Ratzo
+- [[themes/ratzo-veshov/ratzo|Ratzo and Yechida]] — The soul-level most associated with Ratzo
 - [[themes/souls-of-israel/five-levels-in-taarav|Five Soul-Levels in Taarav]]
 - [[themes/sefirot-in-taarav/partzufim|Partzufim]] — How Ratzo v'Shov operates between Partzufim

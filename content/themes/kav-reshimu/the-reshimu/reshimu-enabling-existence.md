@@ -48,5 +48,5 @@ so much divine intensity that it dissolves back into the Infinite.
 
 ---
 
-*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[reshimu-and-free-choice]]*
+*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-reshimu/reshimu-and-free-choice]]*
 

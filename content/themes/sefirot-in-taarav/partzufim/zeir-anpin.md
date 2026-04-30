@@ -48,5 +48,5 @@ actively manages and relates to creation.
 
 ---
 
-*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[abba-and-ima]], [[nukva]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/abba-and-ima]], [[themes/sefirot-in-taarav/nukva]]*
 

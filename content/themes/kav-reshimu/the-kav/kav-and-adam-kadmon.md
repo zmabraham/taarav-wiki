@@ -47,5 +47,5 @@ make the divine presence accessible to successively lower levels of existence.
 
 ---
 
-*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[kav-as-divine-will]], [[kav-differentiating-worlds]]*
+*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-kav/kav-as-divine-will]], [[themes/kav-reshimu/the-kav/kav-differentiating-worlds]]*
 

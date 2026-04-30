@@ -48,5 +48,5 @@ of divine creative intentionality.
 
 ---
 
-*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[kav-as-divine-will]], [[kav-and-adam-kadmon]]*
+*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-kav/kav-as-divine-will]], [[themes/kav-reshimu/the-kav/kav-and-adam-kadmon]]*
 

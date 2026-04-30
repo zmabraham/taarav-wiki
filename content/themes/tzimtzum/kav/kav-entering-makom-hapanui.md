@@ -48,5 +48,5 @@ and the reshimu within the Makom HaPanui.
 
 ---
 
-*See also: [[themes/tzimtzum|Tzimtzum]], [[kav-and-worlds]], [[thinness-of-kav]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/kav/kav-and-worlds]], [[themes/tzimtzum/kav/thinness-of-kav]]*
 

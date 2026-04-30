@@ -48,5 +48,5 @@ them.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[sparks-in-food]], [[tikkun-of-sparks]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-food]], [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks]]*
 

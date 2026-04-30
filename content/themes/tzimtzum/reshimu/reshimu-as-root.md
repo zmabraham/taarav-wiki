@@ -45,5 +45,5 @@ be severed.
 
 ---
 
-*See also: [[themes/tzimtzum|Tzimtzum]], [[nature-of-reshimu]], [[reshimu-and-memory]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/reshimu/nature-of-reshimu]], [[themes/tzimtzum/reshimu/reshimu-and-memory]]*
 

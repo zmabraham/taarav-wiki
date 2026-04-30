@@ -50,5 +50,5 @@ divine light, rather than to transcend that vessel.
 
 ---
 
-*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[light-and-vessel-relationship]], [[breaking-when-mismatched]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/or-and-kli/light-and-vessel-relationship]], [[themes/sefirot-in-taarav/or-and-kli/breaking-when-mismatched]]*
 

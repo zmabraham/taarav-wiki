@@ -50,5 +50,5 @@ or yashar; and in their meeting, both are enriched.
 
 ---
 
-*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[the-kiss]], [[themes/sefirot-in-taarav/chabad-sefirot|Chabad Sefirot]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/interaction-of-lights/the-kiss]], [[themes/sefirot-in-taarav/chabad-sefirot|Chabad Sefirot]]*
 

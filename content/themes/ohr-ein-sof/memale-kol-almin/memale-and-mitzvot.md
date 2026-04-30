@@ -51,5 +51,5 @@ than any purely spiritual practice can.
 
 ---
 
-*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[memale-as-life-force]], [[memale-and-nature]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/memale-kol-almin/memale-as-life-force]], [[themes/ohr-ein-sof/memale-kol-almin/memale-and-nature]]*
 

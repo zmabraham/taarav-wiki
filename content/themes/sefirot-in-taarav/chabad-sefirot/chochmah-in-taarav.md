@@ -45,5 +45,5 @@ a profound self-transparency, a sense of the divine thought "thinking through th
 
 ---
 
-*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[binah-in-taarav]], [[daas-in-taarav]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/binah-in-taarav]], [[themes/sefirot-in-taarav/chabad-sefirot/daas-in-taarav]]*
 

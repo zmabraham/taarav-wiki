@@ -45,5 +45,5 @@ that builds a stable world.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[kings-as-archetypes]], [[edom-and-esav]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/kings-of-edom/kings-as-archetypes]], [[themes/tohu-and-tikkun/kings-of-edom/edom-and-esav]]*
 

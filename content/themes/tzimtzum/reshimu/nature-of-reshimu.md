@@ -47,5 +47,5 @@ it carries the "genetic code" of all that was, compressed into a minimal trace.
 
 ---
 
-*See also: [[themes/tzimtzum|Tzimtzum]], [[reshimu-as-root]], [[reshimu-and-memory]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/reshimu/reshimu-as-root]], [[themes/tzimtzum/reshimu/reshimu-and-memory]]*
 

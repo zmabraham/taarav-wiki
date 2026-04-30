@@ -49,5 +49,5 @@ and transmit it to the world below.
 
 ---
 
-*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[abba-and-ima]], [[zeir-anpin]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[themes/sefirot-in-taarav/abba-and-ima]], [[themes/sefirot-in-taarav/zeir-anpin]]*
 

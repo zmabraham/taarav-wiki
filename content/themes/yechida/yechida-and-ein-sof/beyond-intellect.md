@@ -49,5 +49,5 @@ innermost point of the soul.
 
 ---
 
-*See also: [[themes/yechida|Yechida]], [[yechida-as-atzmus]], [[themes/souls-of-israel/five-levels/yechida-level|Yechida Level]]*
+*See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-and-ein-sof/yechida-as-atzmus]], [[themes/souls-of-israel/five-levels/yechida-level|Yechida Level]]*
 

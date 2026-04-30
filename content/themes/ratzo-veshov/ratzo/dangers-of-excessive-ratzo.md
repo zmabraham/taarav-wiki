@@ -48,5 +48,5 @@ existence with their divine experience integrated, not consumed.
 
 ---
 
-*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[ratzo-in-shemoneh-esrei]], [[ratzo-and-fire]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[themes/ratzo-veshov/ratzo/ratzo-in-shemoneh-esrei]], [[themes/ratzo-veshov/ratzo/ratzo-and-fire]]*
 

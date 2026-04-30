@@ -49,5 +49,5 @@ the concealment became.
 
 ---
 
-*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[sovev-and-bitul]], [[sovev-vs-memale]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-and-bitul]], [[themes/ohr-ein-sof/sovev-kol-almin/sovev-vs-memale]]*
 

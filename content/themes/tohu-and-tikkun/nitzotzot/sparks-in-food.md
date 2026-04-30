@@ -49,5 +49,5 @@ luminous husk) contain sparks that can be elevated.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[sparks-in-speech]], [[tikkun-of-sparks]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-speech]], [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks]]*
 

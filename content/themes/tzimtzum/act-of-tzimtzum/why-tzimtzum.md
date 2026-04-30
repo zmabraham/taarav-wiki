@@ -49,5 +49,5 @@ generosity is not giving from one's surplus but creating space for the other to 
 
 ---
 
-*See also: [[themes/tzimtzum|Tzimtzum]], [[what-contracted]], [[tzimtzum-and-will]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[themes/tzimtzum/act-of-tzimtzum/what-contracted]], [[themes/tzimtzum/act-of-tzimtzum/tzimtzum-and-will]]*
 

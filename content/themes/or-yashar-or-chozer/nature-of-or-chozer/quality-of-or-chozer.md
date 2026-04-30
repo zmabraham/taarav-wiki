@@ -51,5 +51,5 @@ through deep teshuvah (return/repentance) generates or chozer of exceptional qua
 
 ---
 
-*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[generation-of-reflected-light]], [[or-chozer-ascending]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/generation-of-reflected-light]], [[themes/or-yashar-or-chozer/nature-of-or-chozer/or-chozer-ascending]]*
 

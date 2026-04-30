@@ -50,5 +50,5 @@ configuration: bright but brittle.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[tohu-lights-intensity]], [[tohu-as-divine-excess]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-lights-intensity]], [[themes/tohu-and-tikkun/world-of-tohu/tohu-as-divine-excess]]*
 

@@ -48,5 +48,5 @@ for activating the Reshimu — for making the latent divine potential become man
 
 ---
 
-*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[reshimu-enabling-existence]]*
+*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[themes/kav-reshimu/the-reshimu/reshimu-enabling-existence]]*
 

@@ -50,5 +50,5 @@ portions.
 
 ---
 
-*See also: [[themes/souls-of-israel|Souls of Israel]], [[literal-portion]], [[implications-for-avodah]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/chelek-eloka-mimal/literal-portion]], [[themes/souls-of-israel/chelek-eloka-mimal/implications-for-avodah]]*
 

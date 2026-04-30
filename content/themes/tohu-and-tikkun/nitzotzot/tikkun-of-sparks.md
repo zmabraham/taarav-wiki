@@ -50,5 +50,5 @@ than the last.
 
 ---
 
-*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[sparks-in-food]], [[sparks-in-speech]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-food]], [[themes/tohu-and-tikkun/nitzotzot/sparks-in-speech]]*
 

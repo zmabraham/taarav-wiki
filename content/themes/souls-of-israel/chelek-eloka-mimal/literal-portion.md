@@ -46,5 +46,5 @@ form.
 
 ---
 
-*See also: [[themes/souls-of-israel|Souls of Israel]], [[implications-for-avodah]], [[portion-and-unity]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[themes/souls-of-israel/chelek-eloka-mimal/implications-for-avodah]], [[themes/souls-of-israel/chelek-eloka-mimal/portion-and-unity]]*
 

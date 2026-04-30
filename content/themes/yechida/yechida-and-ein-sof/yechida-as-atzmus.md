@@ -50,5 +50,5 @@ the Yechida level, where the soul *is* divine Atzmus in its particularized form.
 
 ---
 
-*See also: [[themes/yechida|Yechida]], [[beyond-intellect]], [[themes/yechida/yechida-and-moshiach/geulah-reveals-yechida|Geulah Reveals Yechida]]*
+*See also: [[themes/yechida|Yechida]], [[themes/yechida/yechida-and-ein-sof/beyond-intellect]], [[themes/yechida/yechida-and-moshiach/geulah-reveals-yechida|Geulah Reveals Yechida]]*
 
