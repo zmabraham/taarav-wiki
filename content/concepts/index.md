@@ -156,3 +156,21 @@ The concepts form a progression:
 - [[themes/souls-of-israel|Souls of Israel]]
 - [[themes/sefirot-in-taarav|Sefirot in Taarav]]
 - [[themes/ratzo-veshov|Ratzo v'Shov]]
+123. **[[concepts/soul-journey-forty-two-stages|Soul Journey Through Forty-Two Stages]]**
+124. **[[concepts/mishneh-torah-keter-malkhut|Mishneh Torah: Keter–Malkhut Communication Chain]]**
+125. **[[concepts/shabbat-as-pnimiyut-binah|Shabbat as the Pnimiyut of Binah]]**
+126. **[[concepts/heel-level-connects-keter|The Heel Level Connects to Keter]]**
+127. **[[concepts/service-beyond-discernment|Divine Service Beyond Intellectual Discernment]]**
+128. **[[concepts/soul-gates-divine-interfaces|Soul's Seven Gates as Structured Divine Interfaces]]**
+129. **[[concepts/one-desire-divine-dwelling|The One Singular Desire: Dwelling in God's House]]**
+130. **[[concepts/bikurim-or-chozer-culmination|Bikurim: Or Chozer's Culminating Ascent]]**
+131. **[[concepts/three-tier-ratzo-simultaneity|Three-Tier Ratzo: Simultaneous Standing Before God]]**
+132. **[[concepts/da-at-elyon-tachton-rosh-hashana|Da'at Elyon and Da'at Tachton on Rosh Hashana]]**
+133. **[[concepts/atzmus-malchut-structured-interface|Atzmus and Malchut: Infinite Will's Structured Interface]]**
+134. **[[concepts/anochi-doubled-divine-forgiveness|Anochi Anochi: Forgiveness as Divine Self-Regard]]**
+135. **[[concepts/four-species-ayin-yesh-da-at|Four Species: Ayin and Yesh Through Da'at]]**
+136. **[[concepts/pnimiyut-atik-revealed-to-israel|Pnimiyut Atik Revealed to Israel on Shemini Atzeret]]**
+137. **[[concepts/physical-mitzvot-atzmus-priority|Physical Mitzvot Carry Atzmus More Fully Than Spiritual Lights]]**
+138. **[[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]**
+139. **[[concepts/doubled-redemption-or-pnimi-makif|Doubled Letter: Redemption Through Or Pnimi and Or Makif]]**
+140. **[[concepts/divine-deliberation-prophetic-disclosure|Divine Inner Deliberation Preceding Prophetic Disclosure]]**
