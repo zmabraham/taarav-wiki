@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ohr-ein-sof"
 ---
 
 # Doubled Letter: Redemption Through Or Pnimi and Or Makif

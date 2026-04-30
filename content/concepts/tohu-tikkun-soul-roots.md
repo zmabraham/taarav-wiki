@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tohu-and-tikkun"
 ---
 
 # Tohu and Tikkun: Two Types of Souls and Their Mission

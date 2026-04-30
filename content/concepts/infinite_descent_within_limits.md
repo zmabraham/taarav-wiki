@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tzimtzum"
 ---
 
 # Infinite Descent Within Limits

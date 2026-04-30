@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "souls-of-israel"
 ---
 
 # Divine Mission as Inherent Category

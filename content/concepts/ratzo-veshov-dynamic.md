@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ratzo-veshov"
 ---
 
 # Ratzo v'Shov: The Soul's Running and Returning

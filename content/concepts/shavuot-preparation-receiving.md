@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "souls-of-israel"
 ---
 
 # Erev Shavuot: The Preparation That Makes Receiving Possible

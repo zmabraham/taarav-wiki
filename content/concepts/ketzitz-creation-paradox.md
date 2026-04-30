@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tzimtzum"
 ---
 
 # Ki Tetze: Going Forth and the Creative Paradox

@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "kav-reshimu"
 ---
 
 # Kav and Reshimu: How Divine Light Structures Reality

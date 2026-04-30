@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "yechida"
 ---
 
 # Shavuot Revisited: The Inner Dynamics of Torah Reception

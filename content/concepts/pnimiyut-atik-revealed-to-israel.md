@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "yechida"
 ---
 
 # Pnimiyut Atik Revealed to Israel on Shemini Atzeret

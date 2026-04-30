@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ohr-ein-sof"
 ---
 
 # Wisdom's Absolute Superiority

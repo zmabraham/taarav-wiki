@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ratzo-veshov"
 ---
 
 # The One Singular Desire: Dwelling in God's House

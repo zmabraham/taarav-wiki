@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "or-yashar-or-chozer"
 ---
 
 # Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved

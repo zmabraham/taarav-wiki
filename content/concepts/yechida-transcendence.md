@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "yechida"
 ---
 
 # Yechida Transcendence

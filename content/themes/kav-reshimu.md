@@ -77,3 +77,14 @@ This analysis becomes the basis for understanding why the worlds of Tohu and Tik
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]]
 - [[themes/sefirot-in-taarav|Sefirot in Taarav]]
 - [[index|Main Index]]
+
+---
+
+
+## Related Concepts
+
+
+These 2 concept nodes develop this theme across the hemshech:
+
+- [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]] — [[maamarim/maamar-3601330141|maamar 141]]
+- [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]] — [[maamarim/maamar-3601330009|maamar 009]]

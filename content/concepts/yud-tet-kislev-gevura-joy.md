@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ratzo-veshov"
 ---
 
 # Yud-Tet Kislev: Gevura that Produces Joy

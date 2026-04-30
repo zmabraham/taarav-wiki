@@ -70,3 +70,13 @@ The Rashab emphasizes that the animal soul is not an obstacle to be destroyed bu
 - [[themes/ratzo-veshov|Ratzo v'Shov]]
 - [[themes/yechida|Yechida — The Highest Soul-Level]]
 - [[index|Main Index]]
+
+---
+
+
+## Related Concepts
+
+
+These 1 concept nodes develop this theme across the hemshech:
+
+- [[concepts/soul-gates-divine-interfaces|Soul's Seven Gates as Structured Divine Interfaces]] — [[maamarim/maamar-3601330131|maamar 131]]

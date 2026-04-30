@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "or-yashar-or-chozer"
 ---
 
 # Three-Tier Ratzo: Simultaneous Standing Before God

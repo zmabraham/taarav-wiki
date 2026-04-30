@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "sefirot-in-taarav"
 ---
 
 # Externalization of Inner Light

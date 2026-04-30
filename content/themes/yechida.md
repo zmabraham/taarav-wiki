@@ -91,3 +91,20 @@ The Rashab teaches that the entire purpose of the descent of the soul into the p
 - [[themes/nefesh-habehamit|Nefesh HaBehamit]]
 - [[themes/ohr-ein-sof|Or Ein Sof]]
 - [[index|Main Index]]
+
+---
+
+
+## Related Concepts
+
+
+These 8 concept nodes develop this theme across the hemshech:
+
+- [[concepts/heel-level-connects-keter|The Heel Level Connects to Keter]] — [[maamarim/maamar-3601330129|maamar 129]]
+- [[concepts/pnimiyut-atik-revealed-to-israel|Pnimiyut Atik Revealed to Israel on Shemini Atzeret]] — [[maamarim/maamar-3601330139|maamar 139]]
+- [[concepts/primordial_soul_state|The Primordial Soul State]] — [[maamarim/maamar-3601330112|maamar 112]]
+- [[concepts/selected_essence|Selected Essence]] — [[maamarim/maamar-3601330081|maamar 081]]
+- [[concepts/shavuot-climax-reception|Shavuot Climax: The Ultimate Reception and Integration]]
+- [[concepts/shavuot-torah-reception-inner|Shavuot Revisited: The Inner Dynamics of Torah Reception]] — [[maamarim/maamar-3601330051|maamar 051]]
+- [[concepts/transcendental_vision|Transcendental Vision]] — [[maamarim/maamar-3601330046|maamar 046]]
+- [[concepts/yechida-transcendence|Yechida Transcendence]] — [[maamarim/maamar-3601330025|maamar 025]]

@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "yechida"
 ---
 
 # Shavuot Climax: The Ultimate Reception and Integration

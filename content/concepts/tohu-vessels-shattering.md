@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tohu-and-tikkun"
 ---
 
 # Shevirat HaKelim: Why the Vessels of Tohu Shattered

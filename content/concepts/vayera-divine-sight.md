@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ohr-ein-sof"
 ---
 
 # Vayera: Divine Seeing and the Test of Revelation

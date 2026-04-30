@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "ohr-ein-sof"
 ---
 
 # Physical Mitzvot Carry Atzmus More Fully Than Spiritual Lights

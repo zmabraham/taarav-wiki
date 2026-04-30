@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tohu-and-tikkun"
 ---
 
 # Kedusha: Sanctification of the World Through Action

@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "tohu-and-tikkun"
 ---
 
 # Teshuva: The Return Path and Rectification of Past

@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "sefirot-in-taarav"
 ---
 
 # Rosh Hashana: Coronation and the Birth of Divine Will

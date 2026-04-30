@@ -77,3 +77,27 @@ The Rashab devotes enormous effort in the hemshech to explaining:
 - [[themes/souls-of-israel|Souls of Israel]]
 - [[themes/ohr-ein-sof|Or Ein Sof]]
 - [[index|Main Index]]
+
+---
+
+
+## Related Concepts
+
+
+These 15 concept nodes develop this theme across the hemshech:
+
+- [[concepts/cosmic_redemption_through_return|Cosmic Redemption Through Return]] — [[maamarim/maamar-3601330079|maamar 079]]
+- [[concepts/deficiency_as_foundation|Deficiency as Foundation]] — [[maamarim/maamar-3601330109|maamar 109]]
+- [[concepts/deliberate_descent|The Concept of a Deliberate Descent]] — [[maamarim/maamar-3601330099|maamar 099]]
+- [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]] — [[maamarim/maamar-3601330065|maamar 065]]
+- [[concepts/extracting_light_darkness|Extracting Light from Darkness]] — [[maamarim/maamar-3601330097|maamar 097]]
+- [[concepts/generations_of_struggle|Generations of Struggle]] — [[maamarim/maamar-3601330089|maamar 089]]
+- [[concepts/integration_opposites|Integration of Opposites]] — [[maamarim/maamar-3601330110|maamar 110]]
+- [[concepts/kedusha-sanctification-world|Kedusha: Sanctification of the World Through Action]]
+- [[concepts/material_divine_inheritance|Material Divine Inheritance]] — [[maamarim/maamar-3601330075|maamar 075]]
+- [[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]] — [[maamarim/maamar-3601330027|maamar 027]]
+- [[concepts/the_cosmic_dialectic|The Cosmic Dialectic]] — [[maamarim/maamar-3601330123|maamar 123]]
+- [[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]] — [[maamarim/maamar-3601330060|maamar 060]]
+- [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]] — [[maamarim/maamar-3601330010|maamar 010]]
+- [[concepts/transformative_opposition|Transformative Opposition]] — [[maamarim/maamar-3601330039|maamar 039]]
+- [[concepts/yud-tet-kislev-redemption-pattern|Yud-Tet Kislev: The Pattern of Redemption in History]] — [[maamarim/maamar-3601330092|maamar 092]]

@@ -4,6 +4,7 @@ tags:
   - concepts
   - taarav
   - knowledge-graph
+primary_theme: "sefirot-in-taarav"
 ---
 
 # Atzmus and Malchut: Infinite Will's Structured Interface
