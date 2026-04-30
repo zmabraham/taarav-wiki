@@ -34,3 +34,5 @@ Divine statutes represent the transcendent, unchanging foundation of existence t
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/souls-of-israel|Souls of Israel]]

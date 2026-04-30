@@ -50,5 +50,5 @@ but the productive cooperation of all qualities in service of God.
 
 ---
 
-*See also: [[../tohu-and-tikkun|Tohu and Tikkun]], [[tohu-lights-intensity]], [[tohu-vessels-weakness]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[tohu-lights-intensity]], [[tohu-vessels-weakness]]*
 

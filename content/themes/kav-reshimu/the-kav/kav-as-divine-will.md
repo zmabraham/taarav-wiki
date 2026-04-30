@@ -48,5 +48,5 @@ intended products of a specific divine intention.
 
 ---
 
-*See also: [[../kav-reshimu|Kav and Reshimu]], [[kav-and-adam-kadmon]], [[kav-differentiating-worlds]]*
+*See also: [[themes/kav-reshimu|Kav and Reshimu]], [[kav-and-adam-kadmon]], [[kav-differentiating-worlds]]*
 

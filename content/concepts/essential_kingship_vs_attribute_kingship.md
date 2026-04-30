@@ -33,3 +33,5 @@ This maamar introduces the conceptual advance that divine kingship is not an att
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

@@ -39,5 +39,5 @@ Analyzes the critical role of preparation (havdalah) before revelation - how the
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

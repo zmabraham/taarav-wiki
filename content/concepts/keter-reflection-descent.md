@@ -34,3 +34,5 @@ The ultimate divine purpose of Dira BaTachtonim is achieved only through the asc
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

@@ -31,4 +31,4 @@ See the main overview page: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer �
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The experiential analogue
 - [[themes/ohr-ein-sof|Or Ein Sof]] — The source of Or Yashar
 - [[themes/sefirot-in-taarav|Sefirot in Taarav]] — How each sefirah embodies both lights
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

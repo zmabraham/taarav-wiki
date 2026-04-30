@@ -34,3 +34,4 @@ The kindling of the Menorah represents the primordial act of conscious intent th
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

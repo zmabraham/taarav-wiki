@@ -34,3 +34,4 @@ The maamar advances the argument by showing that the individual's unique role, w
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

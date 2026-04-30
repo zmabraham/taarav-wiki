@@ -24,16 +24,16 @@ The hemshech is organized around several interconnected conceptual poles:
 
 | Theme | Description |
 |-------|-------------|
-| **[[themes/or-yashar-or-chozer\|Or Yashar v'Or Chozer]]** | The dynamic of direct and reflected divine light — the foundational metaphor |
-| **[[themes/tzimtzum\|Tzimtzum]]** | The primordial contraction and its implications for creation |
-| **[[themes/tohu-and-tikkun\|Tohu and Tikkun]]** | The worlds of chaos and repair — their lights, vessels, and souls |
-| **[[themes/ohr-ein-sof\|Or Ein Sof]]** | The Infinite Light and its relationship to the finite worlds |
-| **[[themes/souls-of-israel\|Souls of Israel]]** | The unique divine nature of Jewish souls and their mission |
-| **[[themes/yechida\|Yechida]]** | The highest soul-level and its connection to the divine Essence |
-| **[[themes/kav-reshimu\|Kav and Reshimu]]** | The line and impression — the residual divine trace after Tzimtzum |
-| **[[themes/sefirot-in-taarav\|Sefirot in Taarav]]** | The ten divine attributes as analyzed in this hemshech |
-| **[[themes/nefesh-habehamit\|Nefesh HaBehamit]]** | The animal soul in the hemshech's framework |
-| **[[themes/ratzo-veshov\|Ratzo v'Shov]]** | Running and returning — the rhythm of spiritual life |
+| **[[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]** | The dynamic of direct and reflected divine light — the foundational metaphor |
+| **[[themes/tzimtzum|Tzimtzum]]** | The primordial contraction and its implications for creation |
+| **[[themes/tohu-and-tikkun|Tohu and Tikkun]]** | The worlds of chaos and repair — their lights, vessels, and souls |
+| **[[themes/ohr-ein-sof|Or Ein Sof]]** | The Infinite Light and its relationship to the finite worlds |
+| **[[themes/souls-of-israel|Souls of Israel]]** | The unique divine nature of Jewish souls and their mission |
+| **[[themes/yechida|Yechida]]** | The highest soul-level and its connection to the divine Essence |
+| **[[themes/kav-reshimu|Kav and Reshimu]]** | The line and impression — the residual divine trace after Tzimtzum |
+| **[[themes/sefirot-in-taarav|Sefirot in Taarav]]** | The ten divine attributes as analyzed in this hemshech |
+| **[[themes/nefesh-habehamit|Nefesh HaBehamit]]** | The animal soul in the hemshech's framework |
+| **[[themes/ratzo-veshov|Ratzo v'Shov]]** | Running and returning — the rhythm of spiritual life |
 
 ---
 

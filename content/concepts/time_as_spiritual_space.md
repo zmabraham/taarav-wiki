@@ -34,3 +34,5 @@ This maamar advances the concept that time itself can be transformed into a vess
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

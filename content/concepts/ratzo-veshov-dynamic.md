@@ -38,5 +38,4 @@ Introduces the fundamental dynamic of spiritual life - the soul's upward yearnin
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

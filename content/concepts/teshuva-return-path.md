@@ -39,5 +39,5 @@ Analyzes teshuva not merely as repentance but as the cosmic mechanism that recti
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

@@ -34,3 +34,4 @@ Sinai enabled the Or Chozer to ascend to unprecedented heights, creating the per
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

@@ -48,5 +48,5 @@ for the world — it translates spiritual experience into embodied reality.
 
 ---
 
-*See also: [[../ratzo-veshov|Ratzo VeShov]], [[shov-in-halacha]], [[shov-and-the-world]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[shov-in-halacha]], [[shov-and-the-world]]*
 

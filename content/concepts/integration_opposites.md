@@ -34,3 +34,5 @@ The maamar advances the conceptual framework by showing that the complete Exodus
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

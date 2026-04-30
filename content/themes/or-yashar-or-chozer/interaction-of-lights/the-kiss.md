@@ -50,5 +50,5 @@ illumination (or yashar) and a kiss-like union occurs.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[yichud-produced]], [[../../ratzo-veshov/ratzo|Ratzo]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[yichud-produced]], [[themes/ratzo-veshov/ratzo|Ratzo]]*
 

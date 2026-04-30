@@ -34,3 +34,4 @@ The wilderness serves as the fundamental framework of potential existence that m
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

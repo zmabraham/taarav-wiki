@@ -34,3 +34,5 @@ The narrative of God smelling the Noah sacrifice is reinterpreted to establish t
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

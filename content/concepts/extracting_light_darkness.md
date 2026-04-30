@@ -34,3 +34,4 @@ The analysis of Parashat Shemot reframes the Egyptian exile as a necessary stage
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

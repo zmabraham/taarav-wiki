@@ -48,5 +48,5 @@ creative interplay.
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[kav-entering-makom-hapanui]], [[thinness-of-kav]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[kav-entering-makom-hapanui]], [[thinness-of-kav]]*
 

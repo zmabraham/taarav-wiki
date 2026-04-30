@@ -49,5 +49,5 @@ sparks through Torah and mitzvot, gradually restoring the wholeness that was bro
 
 ---
 
-*See also: [[../tohu-and-tikkun|Tohu and Tikkun]], [[why-vessels-shattered]], [[shattering-as-purposeful]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[why-vessels-shattered]], [[shattering-as-purposeful]]*
 

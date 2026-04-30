@@ -49,5 +49,5 @@ essentially the process of vessel-expansion to accommodate ever greater divine l
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[vessel-as-limitation]], [[breaking-when-mismatched]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[vessel-as-limitation]], [[breaking-when-mismatched]]*
 

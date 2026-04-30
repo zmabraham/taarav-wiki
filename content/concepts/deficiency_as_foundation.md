@@ -34,3 +34,4 @@ This maamar advances the paradoxical idea that it is the state of not having eno
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

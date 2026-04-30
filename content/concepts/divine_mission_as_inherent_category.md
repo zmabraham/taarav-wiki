@@ -33,3 +33,4 @@ The hemshech advances the concept that a divine mission is not a temporary task 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

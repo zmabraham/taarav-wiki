@@ -50,5 +50,5 @@ not the fundamental existential dependence of creation on Memale.
 
 ---
 
-*See also: [[../ohr-ein-sof|Ohr Ein Sof]], [[memale-and-nature]], [[memale-and-mitzvot]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[memale-and-nature]], [[memale-and-mitzvot]]*
 

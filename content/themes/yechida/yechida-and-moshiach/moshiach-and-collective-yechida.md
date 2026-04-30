@@ -50,5 +50,5 @@ own Yechida for the coming revelation.
 
 ---
 
-*See also: [[../yechida|Yechida]], [[geulah-reveals-yechida]], [[../yechida-in-exile/accessing-yechida-now|Accessing Yechida Now]]*
+*See also: [[themes/yechida|Yechida]], [[geulah-reveals-yechida]], [[themes/yechida/yechida-in-exile/accessing-yechida-now|Accessing Yechida Now]]*
 

@@ -34,3 +34,5 @@ The maamar advances the concept that true divine service is not a one-time act b
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

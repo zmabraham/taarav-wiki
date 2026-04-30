@@ -34,3 +34,4 @@ Sinai created a fundamental shift in cosmic consciousness, establishing a new pa
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

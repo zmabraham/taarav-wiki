@@ -34,3 +34,5 @@ The teaching from Ki Tavo is re-conceptualized to show that the bringing of the 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/souls-of-israel|Souls of Israel]]

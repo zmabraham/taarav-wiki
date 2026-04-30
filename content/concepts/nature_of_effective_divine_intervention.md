@@ -33,3 +33,4 @@ The maamar introduces the idea that the most potent divine act is one that insti
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

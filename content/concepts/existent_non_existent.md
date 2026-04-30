@@ -34,3 +34,5 @@ The conceptual advance is resolving the tension between 'created' (bara) and 'wa
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

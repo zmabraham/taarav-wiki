@@ -33,3 +33,5 @@ The performance of physical mitzvot transforms divine light from a passive, dire
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

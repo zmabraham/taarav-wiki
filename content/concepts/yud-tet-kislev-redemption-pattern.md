@@ -39,5 +39,5 @@ Establishes Yud-Tet Kislev as the paradigm for all redemption - showing how pers
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/souls-of-israel|Souls of Israel]]

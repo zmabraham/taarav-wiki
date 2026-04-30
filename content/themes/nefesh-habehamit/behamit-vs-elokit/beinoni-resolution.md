@@ -51,5 +51,5 @@ of the divine soul.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[location-of-each]], [[the-battle]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[location-of-each]], [[the-battle]]*
 

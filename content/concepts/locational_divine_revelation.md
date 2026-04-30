@@ -34,3 +34,4 @@ The textual difficulty regarding the menorah's lights serves to establish that t
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

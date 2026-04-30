@@ -29,4 +29,4 @@ See the main overview: [[themes/kav-reshimu|Kav and Reshimu — Overview]]
 - [[themes/tzimtzum|Tzimtzum]] — What the Kav and Reshimu emerged from
 - [[themes/ohr-ein-sof|Or Ein Sof]] — The source of the Kav
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — What the Kav/Reshimu interaction produced
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

@@ -34,3 +34,4 @@ Divine kingship is the dimension of God that interfaces with creation, accessibl
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

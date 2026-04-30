@@ -33,3 +33,4 @@ The human soul's divine service draws down Keter-level light, establishing the d
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

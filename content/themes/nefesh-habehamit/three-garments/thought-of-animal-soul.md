@@ -49,5 +49,5 @@ mental faculty from animal-oriented to divine-oriented content.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[speech-of-animal-soul]], [[action-of-animal-soul]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[speech-of-animal-soul]], [[action-of-animal-soul]]*
 

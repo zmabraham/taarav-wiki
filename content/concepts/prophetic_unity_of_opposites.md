@@ -33,3 +33,5 @@ The conceptual advance is that prophecy creates a higher reality where apparent 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

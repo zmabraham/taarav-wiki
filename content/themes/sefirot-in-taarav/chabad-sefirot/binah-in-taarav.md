@@ -46,5 +46,5 @@ in the service of divine understanding.
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[chochmah-in-taarav]], [[daas-in-taarav]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[chochmah-in-taarav]], [[daas-in-taarav]]*
 

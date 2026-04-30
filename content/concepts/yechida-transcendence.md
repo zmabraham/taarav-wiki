@@ -34,3 +34,5 @@ The 'eighth' day represents the divine invitation to access the Yechida dimensio
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/yechida|Yechida]]
+- [[themes/souls-of-israel|Souls of Israel]]

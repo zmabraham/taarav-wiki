@@ -34,3 +34,4 @@ The parable of the king's banquet is explained to teach that the service on Atze
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

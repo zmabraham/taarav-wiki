@@ -33,3 +33,5 @@ The parasha's mitzvah demonstrates the mechanism by which Keter's direct light i
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

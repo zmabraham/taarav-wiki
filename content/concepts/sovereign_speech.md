@@ -33,3 +33,4 @@ This maamar introduces the idea that human speech, particularly in contexts of l
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

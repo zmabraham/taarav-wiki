@@ -33,3 +33,4 @@ The maamar advances the hemshech by proving that reflected light is the essentia
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

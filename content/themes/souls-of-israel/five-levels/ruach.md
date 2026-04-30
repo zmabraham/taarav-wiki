@@ -48,5 +48,5 @@ body's actions their ultimate worth.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[nefesh]], [[neshamah]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[nefesh]], [[neshamah]]*
 

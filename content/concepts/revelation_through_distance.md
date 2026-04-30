@@ -33,3 +33,5 @@ The conceptual advance is that divine revelation is more profound when mediated 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

@@ -50,5 +50,5 @@ portions.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[literal-portion]], [[implications-for-avodah]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[literal-portion]], [[implications-for-avodah]]*
 

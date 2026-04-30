@@ -34,3 +34,5 @@ Keter's connection to the lowest reality is not merely a descent of light but a 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

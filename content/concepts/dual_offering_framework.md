@@ -34,3 +34,4 @@ The maamar advances the conceptual framework by distinguishing between two types
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

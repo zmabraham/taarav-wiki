@@ -40,4 +40,4 @@ Develops Chanukah light as representing 'Or Chadash' - new light that cannot be 
 
 - [[index|Main Index]]
 - [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

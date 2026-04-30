@@ -38,5 +38,5 @@ Analyzes the concept of 'standing' (nitzavim) before God as establishing collect
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

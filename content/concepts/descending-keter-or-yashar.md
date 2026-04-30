@@ -34,3 +34,5 @@ The performance of mitzvot serves as the conduit for direct divine light to desc
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

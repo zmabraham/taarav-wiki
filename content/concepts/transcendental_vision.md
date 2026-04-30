@@ -34,3 +34,5 @@ Moses's request to 'see the land' is interpreted not as a desire for geography b
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/yechida|Yechida]]

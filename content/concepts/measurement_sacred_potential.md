@@ -34,3 +34,4 @@ Divine service involves the precise measurement and elevation of the world's spi
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

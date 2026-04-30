@@ -34,3 +34,4 @@ The maamar advances the hemshech by defining the precise human action that facil
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

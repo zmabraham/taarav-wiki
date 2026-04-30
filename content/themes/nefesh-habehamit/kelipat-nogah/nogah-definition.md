@@ -48,5 +48,5 @@ which is why the proper orientation to everyday activities is so spiritually sig
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[nogah-in-daily-life]], [[elevating-nogah]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[nogah-in-daily-life]], [[elevating-nogah]]*
 

@@ -50,5 +50,5 @@ on a collective level.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[chaya]], [[../../yechida/yechida-and-ein-sof|Yechida and Ein Sof]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[chaya]], [[themes/yechida/yechida-and-ein-sof|Yechida and Ein Sof]]*
 

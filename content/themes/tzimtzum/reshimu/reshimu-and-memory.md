@@ -49,5 +49,5 @@ reshimu within their soul retains the "memory" of the divine.
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[nature-of-reshimu]], [[reshimu-as-root]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[nature-of-reshimu]], [[reshimu-as-root]]*
 

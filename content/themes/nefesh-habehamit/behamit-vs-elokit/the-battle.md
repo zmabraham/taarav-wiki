@@ -50,5 +50,5 @@ practice.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[location-of-each]], [[beinoni-resolution]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[location-of-each]], [[beinoni-resolution]]*
 

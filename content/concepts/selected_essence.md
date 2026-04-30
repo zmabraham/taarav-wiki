@@ -34,3 +34,5 @@ The main conceptual advance is establishing that the selection of the Four Speci
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/yechida|Yechida]]

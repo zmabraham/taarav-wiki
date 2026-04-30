@@ -29,4 +29,4 @@ See the main overview: [[themes/nefesh-habehamit|Nefesh HaBehamit — Overview]]
 - [[themes/souls-of-israel|Souls of Israel]] — The divine soul in contrast
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — The animal soul's roots in the post-breaking world
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The animal soul's role in the ratzo-shov dynamic
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

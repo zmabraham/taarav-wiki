@@ -34,3 +34,5 @@ This maamar advances the concept of a higher state of revelationâ€”the 'eighth'â
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

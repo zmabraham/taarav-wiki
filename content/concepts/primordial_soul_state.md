@@ -34,3 +34,5 @@ The maamar advances the conceptual framework by introducing the 'Adam' level as 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/yechida|Yechida]]

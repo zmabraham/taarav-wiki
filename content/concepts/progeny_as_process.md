@@ -34,3 +34,4 @@ The main advance is reinterpreting 'These are the generations of Noach' from a g
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

@@ -49,5 +49,5 @@ sense of divine presence.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[neshamah]], [[yechida-level]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[neshamah]], [[yechida-level]]*
 

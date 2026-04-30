@@ -33,3 +33,4 @@ The hemshech advances the concept that the specific divine name used (Elokim vs.
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

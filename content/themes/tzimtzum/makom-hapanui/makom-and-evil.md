@@ -48,5 +48,5 @@ by the introduction of divine presence, just as darkness is dispelled by light.
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[what-is-in-the-void]], [[../../tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[what-is-in-the-void]], [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim]]*
 

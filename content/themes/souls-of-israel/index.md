@@ -30,4 +30,4 @@ See the main overview: [[themes/souls-of-israel|Souls of Israel — Overview]]
 - [[themes/nefesh-habehamit|Nefesh HaBehamit]] — The animal soul
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — Souls of Tohu vs. Tikkun
 - [[themes/ratzo-veshov|Ratzo v'Shov]] — The soul's upward-downward movement
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

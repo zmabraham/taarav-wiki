@@ -51,5 +51,5 @@ orientation toward it.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[nogah-definition]], [[elevating-nogah]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[nogah-definition]], [[elevating-nogah]]*
 

@@ -34,3 +34,5 @@ The discourse on Shabbat Teshuva establishes that the service of Teshuva must be
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

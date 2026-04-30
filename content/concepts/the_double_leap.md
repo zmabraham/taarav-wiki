@@ -34,3 +34,4 @@ The conceptual advance is parsing the repetition in 'Lech Lecha' to signify not 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

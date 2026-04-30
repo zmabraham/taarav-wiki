@@ -21,72 +21,128 @@ This section contains the concept-based nodes that track the main ideas advanced
 
 The concepts form a progression:
 
-1. **[[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]** (from [[maamarim/maamar-3601330004]])
-   - The first maamar establishes that Keter contains two inner dimensions - Ta'anug (divine pleasure) and Ratzon (divine will) - which correspond to the two crowns given at Sinai. This is the foundation for understanding how divine will bridges Ein Sof and the Sefirot.
-
-2. **[[concepts/atzilut-double-intermediary|Atzilut as Double Intermediary: Garment and Curtain]]** (from [[maamarim/maamar-3601330005]])
-   - The second maamar develops Atzilut as simultaneously a garment (concealment) and a curtain (revelation), showing how Torah mediates between infinite divinity and finite reality through its dual structural nature.
-
-3. **[[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]** (from [[maamarim/maamar-3601330006]])
-   - Introduces the fundamental dynamic of spiritual life - the soul's upward yearning (ratzo) and necessary return to engaged service (shov), establishing the rhythm that defines all authentic avodah.
-
-4. **[[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]** (from [[maamarim/maamar-3601330007]])
-   - Analyzes the interaction between the Kav (line of light) and Reshimu (impression) after Tzimtzum, showing how this relationship produces all levels of spiritual reality and explains the difference between Tohu and Tikkun.
-
-5. **[[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]** (from [[maamarim/maamar-3601330009]])
-   - Explains the cosmic tragedy of Tohu - vessels too narrow to contain the overwhelming light, leading to shattering. This becomes the key to understanding why our world requires the balanced structure of Tikkun.
-
-6. **[[concepts/chukat-divine-contract|Chukat: The Logic of Divine Decree Beyond Reason]]** (from [[maamarim/maamar-3601330010]])
-   - Develops the concept of chok (statute) as representing divine wisdom that transcends human comprehension, yet structures the very framework of reality itself.
-
-7. **[[concepts/matot-masei-journey-stages|The Stages of Spiritual Journey: From Tribes to Journeys]]** (from [[maamarim/maamar-3601330013]])
-   - Analyzes the dual nature of Jewish existence - as rooted tribes (matot) and as journeys (masei), showing how stability and progress define the soul's mission in Tikkun.
-
-8. **[[concepts/ketzitz-creation-paradox|Ki Tetze: Going Forth and the Creative Paradox]]** (from [[maamarim/maamar-3601330018]])
-   - Explores the paradox that divine emanation requires both 'going forth' (exit from self) and 'going in' (indwelling), establishing the dialectic at the heart of all divine revelation.
-
-9. **[[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]** (from [[maamarim/maamar-3601330020]])
-   - Analyzes the concept of 'standing' (nitzavim) before God as establishing collective Jewish responsibility and the fundamental bond that enables the entire covenantal structure.
-
-10. **[[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]** (from [[maamarim/maamar-3601330021]])
-   - Develops Rosh Hashana as the moment when divine will for creation is renewed, showing how coronation expresses the emergence of Ratzon from Ta'anug.
-
-11. **[[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]]** (from [[maamarim/maamar-3601330023]])
-   - Analyzes teshuva not merely as repentance but as the cosmic mechanism that rectifies the past itself, showing how return transcends time and repairs the Tohu catastrophe.
-
-12. **[[concepts/vayera-divine-sight|Vayera: Divine Seeing and the Test of Revelation]]** (from [[maamarim/maamar-3601330027]])
-   - Explores the paradox of divine 'seeing' - how transcendence can be immanent, how the test of the Akeida reveals the very nature of divine-human encounter.
-
-13. **[[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]** (from [[maamarim/maamar-3601330033]])
-   - Develops Chanukah light as representing 'Or Chadash' - new light that cannot be harnessed for practical use, revealing the dimension of divine light that exists beyond all utility.
-
-14. **[[concepts/shavuot-torah-reception-inner|Shavuot Revisited: The Inner Dynamics of Torah Reception]]** (from [[maamarim/maamar-3601330037]])
-   - Returns to Sinai to analyze the inner mechanism of how the soul receives Torah - not as external information but as internal transformation, revealing the Yechida dimension of reception.
-
-15. **[[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]** (from [[maamarim/maamar-3601330051]])
-   - Deepens the analysis of souls rooted in Tohu versus Tikkun, explaining how each type serves the ultimate rectification through different spiritual capacities and challenges.
-
-16. **[[concepts/shavuot-preparation-receiving|Erev Shavuot: The Preparation That Makes Receiving Possible]]** (from [[maamarim/maamar-3601330060]])
-   - Analyzes the critical role of preparation (havdalah) before revelation - how the work of readiness creates the vessel capable of containing the divine light.
-
-17. **[[concepts/yud-tet-kislev-redemption-pattern|Yud-Tet Kislev: The Pattern of Redemption in History]]** (from [[maamarim/maamar-3601330077]])
-   - Establishes Yud-Tet Kislev as the paradigm for all redemption - showing how personal liberation reveals the pattern of cosmic redemption and the ultimate purpose of descent.
-
-18. **[[concepts/yud-tet-kislev-gevura-joy|Yud-Tet Kislev: Gevura that Produces Joy]]** (from [[maamarim/maamar-3601330092]])
-   - Develops the paradox that true joy emerges from Gevura - the constriction that produces the ultimate expansion, revealing how limitation itself becomes the vehicle for redemption.
-
-19. **[[concepts/yitro-revelation-hierarchy|Yitro: The Hierarchy of Revelation and Its Descent]]** (from [[maamarim/maamar-3601330101]])
-   - Analyzes the descent of revelation at Sinai - how the highest truth descends level by level until it can be received by the lowest, establishing the pattern for all divine transmission.
-
-20. **[[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]** (from [[maamarim/maamar-3601330104]])
-   - Develops the concept of kehuna (priesthood) as the mechanism that channels divine light into the world - how the priest's garments and service create the conduit for revelation.
-
-21. **[[concepts/ kedusha-sanctification-world|Kedusha: Sanctification of the World Through Action]]** (from [[maamarim/maamar-3601330113]])
-   - Analyzes how the commandments of kedusha (holiness) work not by withdrawing from the world but by sanctifying it from within - the very essence of Tikkun's approach to Tohu's excess.
-
-22. **[[concepts/shavuot-climax-reception|Shavuot Climax: The Ultimate Reception and Integration]]** (from [[maamarim/maamar-3601330117]])
-   - The hemshech's final Shavuot maamarim synthesize the entire conceptual journey - showing how the reception of Torah integrates all previous concepts into a unified understanding of divine service.
-
+1. **[[concepts/aromatic_sanctification|Aromatic Sanctification]]**
+2. **[[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]**
+3. **[[concepts/ascending-light-mechanism|Ascending Light Mechanism]]**
+4. **[[concepts/ascent-lower-will|Ascent of Lower Will]]**
+5. **[[concepts/ascent-of-or-chozer|Ascent of Or Chozer]]**
+6. **[[concepts/atzilut-double-intermediary|Atzilut as Double Intermediary: Garment and Curtain]]**
+7. **[[concepts/chanukah-or-chadash|Chanukah: The New Light that Cannot Be Used]]**
+8. **[[concepts/chukat-divine-contract|Chukat: The Logic of Divine Decree Beyond Reason]]**
+9. **[[concepts/cognitive_transformation|Cognitive Transformation]]**
+10. **[[concepts/commandment_as_essential_structuring|Commandment as Essential Structuring]]**
+11. **[[concepts/concealment_for_revelation|Concealment for Revelation]]**
+12. **[[concepts/consequential_covenant|Consequential Covenant]]**
+13. **[[concepts/cosmic_redemption_through_return|Cosmic Redemption Through Return]]**
+14. **[[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]**
+15. **[[concepts/covenantal_verification|Covenantal Verification]]**
+16. **[[concepts/cultivation_divine_desire|Cultivation of Divine Desire]]**
+17. **[[concepts/deficiency_as_foundation|Deficiency as Foundation]]**
+18. **[[concepts/deliberate_descent|The Concept of a Deliberate Descent]]**
+19. **[[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]**
+20. **[[concepts/detachment_as_spiritual_scouting|Detachment as Spiritual Scouting]]**
+21. **[[concepts/divine-descent-ascent-integration|Divine Descent Ascent Integration]]**
+22. **[[concepts/divine-light-infusion|Divine Light Infusion]]**
+23. **[[concepts/divine_force_transference|Divine Force Transference]]**
+24. **[[concepts/divine_mission_as_inherent_category|Divine Mission as Inherent Category]]**
+25. **[[concepts/divine_service_as_uplifting|Divine Service as Uplifting]]**
+26. **[[concepts/dream_as_intermediary|Dream as Intermediary]]**
+27. **[[concepts/dual-divine-truth|Dual Divine Truth]]**
+28. **[[concepts/dual_offering_framework|Dual Offering Framework]]**
+29. **[[concepts/eighth_day_essence|Eighth Day Essence]]**
+30. **[[concepts/emergence_from_concealment|Emergence from Concealment]]**
+31. **[[concepts/essential_kingship_vs_attribute_kingship|Essential vs. Attribute Kingship]]**
+32. **[[concepts/existent_non_existent|Existent Non-Existent]]**
+33. **[[concepts/exodus_as_creation_paradigm|Exodus as Creation Paradigm]]**
+34. **[[concepts/exodus_self_actualization|Exodus as Self-Actualization]]**
+35. **[[concepts/externalization_inner_light|Externalization of Inner Light]]**
+36. **[[concepts/extracting_light_darkness|Extracting Light from Darkness]]**
+37. **[[concepts/generations_of_struggle|Generations of Struggle]]**
+38. **[[concepts/grace_filled_praise|Grace-Filled Praise]]**
+39. **[[concepts/hierarchy_of_spatial_divisions|Hierarchy of Spatial Divisions]]**
+40. **[[concepts/holy_canvas_existence|The Holy Canvas of Existence]]**
+41. **[[concepts/humility_divine_vessel|Humility as Divine Vessel]]**
+42. **[[concepts/ignition_of_conscious_service|Ignition of Conscious Service]]**
+43. **[[concepts/immutable_covenant_foundation|Immutable Covenant Foundation]]**
+44. **[[concepts/infinite_descent_within_limits|Infinite Descent Within Limits]]**
+45. **[[concepts/inner_service_revelation|The Inner Service of Revelation]]**
+46. **[[concepts/integration_opposites|Integration of Opposites]]**
+47. **[[concepts/introduces-keter-structure|Introduces Keter Structure]]**
+48. **[[concepts/judicial_revelation|Judicial Revelation]]**
+49. **[[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]**
+50. **[[concepts/kedusha-sanctification-world|Kedusha: Sanctification of the World Through Action]]**
+51. **[[concepts/keter-descent|Keter's Descent]]**
+52. **[[concepts/keter-downward-ascent|Keter's Downward Ascent]]**
+53. **[[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]**
+54. **[[concepts/keter-incarnation|Keter's Incarnation]]**
+55. **[[concepts/keter-reflection-descent|Keter's Descent Through Reflection]]**
+56. **[[concepts/ketzitz-creation-paradox|Ki Tetze: Going Forth and the Creative Paradox]]**
+57. **[[concepts/legal_framework_divine_structure|Legal Framework as Divine Structure]]**
+58. **[[concepts/lifes_as_continuation|Life's Continuation]]**
+59. **[[concepts/light-integration-divine-service|Light Integration in Divine Service]]**
+60. **[[concepts/light-reflection-principle|Light Reflection Principle]]**
+61. **[[concepts/locational_divine_revelation|Locational Divine Revelation]]**
+62. **[[concepts/material_divine_inheritance|Material Divine Inheritance]]**
+63. **[[concepts/matot-masei-journey-stages|The Stages of Spiritual Journey: From Tribes to Journeys]]**
+64. **[[concepts/measurement_sacred_potential|The Measurement of Sacred Potential]]**
+65. **[[concepts/name_as_essential_container|Name as Essential Container]]**
+66. **[[concepts/nature_of_effective_divine_intervention|Nature of Effective Divine Intervention]]**
+67. **[[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]**
+68. **[[concepts/or-chozer-divine-drawing|Or Chozer As Divine Drawing]]**
+69. **[[concepts/or-mekif-framework|Or Mekif Framework]]**
+70. **[[concepts/praise_transformative_force|Praise as Transformative Force]]**
+71. **[[concepts/present_divine_immanence|Present Divine Immanence]]**
+72. **[[concepts/primordial_foundation|Primordial Foundation]]**
+73. **[[concepts/primordial_soul_state|The Primordial Soul State]]**
+74. **[[concepts/progeny_as_process|Progeny as Process]]**
+75. **[[concepts/prophetic_self_actualization|Prophetic Self-Actualization]]**
+76. **[[concepts/prophetic_unity_of_opposites|Prophetic Unity of Opposites]]**
+77. **[[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]**
+78. **[[concepts/reciprocal_divine_journey|Reciprocal Divine Journey]]**
+79. **[[concepts/reflection-divine-dwelling|Reflection as Divine Dwelling]]**
+80. **[[concepts/revelation_through_distance|Revelation Through Distance]]**
+81. **[[concepts/revelation_through_promise|Revelation Through Promise]]**
+82. **[[concepts/revelation_total_consciousness|The Revelation of Total Consciousness]]**
+83. **[[concepts/revelational-access-of-kingship|Revelational Access of Kingship]]**
+84. **[[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]**
+85. **[[concepts/sacred_contraction|Sacred Contraction]]**
+86. **[[concepts/sanctification_through_separation|Sanctification through Separation]]**
+87. **[[concepts/sanctified_individuality|Sanctified Individuality]]**
+88. **[[concepts/selected_essence|Selected Essence]]**
+89. **[[concepts/service_cosmos_link|Service-Cosmos Link]]**
+90. **[[concepts/shared_reality_creation|Shared Reality Creation]]**
+91. **[[concepts/shavuot-climax-reception|Shavuot Climax: The Ultimate Reception and Integration]]**
+92. **[[concepts/shavuot-preparation-receiving|Erev Shavuot: The Preparation That Makes Receiving Possible]]**
+93. **[[concepts/shavuot-torah-reception-inner|Shavuot Revisited: The Inner Dynamics of Torah Reception]]**
+94. **[[concepts/song_as_ascension|Song as Ascension]]**
+95. **[[concepts/souls_exodus_process|Soul's Exodus Process]]**
+96. **[[concepts/sovereign_speech|Sovereign Speech]]**
+97. **[[concepts/structural_differentiation|Structural Differentiation]]**
+98. **[[concepts/structures_universal_continuity|Structures of Universal Continuity]]**
+99. **[[concepts/supernal_descent|Supernal Descent]]**
+100. **[[concepts/synthesis_individual_collective|Synthesis of Individual and Collective]]**
+101. **[[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]]**
+102. **[[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]**
+103. **[[concepts/the_cosmic_dialectic|The Cosmic Dialectic]]**
+104. **[[concepts/the_double_leap|The Double Leap]]**
+105. **[[concepts/the_inner_revelation|The Inner Revelation]]**
+106. **[[concepts/time_as_spiritual_space|Time as Spiritual Space]]**
+107. **[[concepts/tohu-tikkun-soul-roots|Tohu and Tikkun: Two Types of Souls and Their Mission]]**
+108. **[[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]**
+109. **[[concepts/transcendent_immanence|Transcendent Immanence]]**
+110. **[[concepts/transcendent_statutory_law|Transcendent Statutory Law]]**
+111. **[[concepts/transcendental_vision|Transcendental Vision]]**
+112. **[[concepts/transformative_opposition|Transformative Opposition]]**
+113. **[[concepts/unified_collective_consciousness|Unified Collective Consciousness]]**
+114. **[[concepts/unity_through_recognition|Unity Through Recognition]]**
+115. **[[concepts/vayera-divine-sight|Vayera: Divine Seeing and the Test of Revelation]]**
+116. **[[concepts/volitional_revelation_principle|Volitional Revelation Principle]]**
+117. **[[concepts/wisdoms_absolute_superiority|Wisdom's Absolute Superiority]]**
+118. **[[concepts/yechida-transcendence|Yechida Transcendence]]**
+119. **[[concepts/yitro-revelation-hierarchy|Yitro: The Hierarchy of Revelation and Its Descent]]**
+120. **[[concepts/yud-tet-kislev-gevura-joy|Yud-Tet Kislev: Gevura that Produces Joy]]**
+121. **[[concepts/yud-tet-kislev-redemption-pattern|Yud-Tet Kislev: The Pattern of Redemption in History]]**
+122. **[[concepts/zealous_divine_justice|Zealous Divine Justice]]**
 
 ---
 
@@ -95,3 +151,8 @@ The concepts form a progression:
 - [[index|Main Index]]
 - [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
 - [[themes/tzimtzum|Tzimtzum]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

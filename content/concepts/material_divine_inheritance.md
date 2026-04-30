@@ -33,3 +33,5 @@ The hemshech advances the idea that the material world, when consecrated through
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/souls-of-israel|Souls of Israel]]

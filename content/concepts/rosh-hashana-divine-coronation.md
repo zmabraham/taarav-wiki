@@ -39,5 +39,5 @@ Develops Rosh Hashana as the moment when divine will for creation is renewed, sh
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

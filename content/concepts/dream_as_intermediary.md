@@ -34,3 +34,5 @@ The conceptual advance is establishing the dream as a structured gateway, a 'pla
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/tzimtzum|Tzimtzum]]

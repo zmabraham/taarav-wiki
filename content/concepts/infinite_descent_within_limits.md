@@ -34,3 +34,5 @@ The parasha's agricultural laws demonstrate how divine infinity operates through
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

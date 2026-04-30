@@ -49,5 +49,5 @@ generations — is the progressive transformation of the physical world into a
 
 ---
 
-*See also: [[../ratzo-veshov|Ratzo VeShov]], [[shov-as-fulfillment]], [[shov-in-halacha]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[shov-as-fulfillment]], [[shov-in-halacha]]*
 

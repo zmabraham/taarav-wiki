@@ -34,3 +34,5 @@ The specific placement of the Chanukah lamp outside and to the left teaches the 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

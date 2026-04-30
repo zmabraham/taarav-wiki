@@ -49,5 +49,5 @@ why Yechida accesses divine reality at its most primordial and most transcendent
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[abba-and-ima]], [[zeir-anpin]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[abba-and-ima]], [[zeir-anpin]]*
 

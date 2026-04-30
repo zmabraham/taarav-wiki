@@ -33,3 +33,5 @@ The discourse establishes that the superiority of wisdom is not contingent upon 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

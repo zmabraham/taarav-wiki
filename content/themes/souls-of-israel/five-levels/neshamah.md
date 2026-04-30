@@ -49,5 +49,5 @@ more hidden.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[ruach]], [[chaya]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[ruach]], [[chaya]]*
 

@@ -34,3 +34,4 @@ The main advance is defining Shemini Atzeret not as part of the Sukkot pilgrimag
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

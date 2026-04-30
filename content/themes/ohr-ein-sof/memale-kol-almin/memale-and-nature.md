@@ -50,5 +50,5 @@ Torah study in the broad sense.
 
 ---
 
-*See also: [[../ohr-ein-sof|Ohr Ein Sof]], [[memale-as-life-force]], [[memale-and-mitzvot]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[memale-as-life-force]], [[memale-and-mitzvot]]*
 

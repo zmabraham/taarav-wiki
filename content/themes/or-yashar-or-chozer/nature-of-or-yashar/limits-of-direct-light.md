@@ -51,5 +51,5 @@ precarious position, analogous to the unstable vessels of Tohu.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[downward-flow]], [[../nature-of-or-chozer|Nature of Or Chozer]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[downward-flow]], [[themes/or-yashar-or-chozer/nature-of-or-chozer|Nature of Or Chozer]]*
 

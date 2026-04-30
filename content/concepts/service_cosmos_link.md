@@ -34,3 +34,4 @@ The conceptual advance is the introduction of a direct, structural correspondenc
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

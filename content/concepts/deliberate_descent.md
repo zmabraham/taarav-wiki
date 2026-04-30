@@ -34,3 +34,5 @@ The plagues are understood not just as punishments but as a process of 'descendi
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

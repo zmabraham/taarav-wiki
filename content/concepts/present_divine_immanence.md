@@ -33,3 +33,4 @@ This maamar reveals the conceptual advance that divine blessing is not a distant
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

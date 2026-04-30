@@ -34,3 +34,5 @@ The text explains that the brothers' praise of Yehudah is what empowers him to '
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]
+- [[themes/souls-of-israel|Souls of Israel]]

@@ -51,5 +51,5 @@ shaped and limited by the person's spiritual vessel.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[mekif-transcendent]], [[transition-mekif-pnimi]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[mekif-transcendent]], [[transition-mekif-pnimi]]*
 

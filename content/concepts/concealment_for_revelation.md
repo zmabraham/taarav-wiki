@@ -33,3 +33,5 @@ The maamar introduces the idea that concealment is not merely the absence of rev
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

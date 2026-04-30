@@ -33,3 +33,5 @@ The conceptual advance is that a divine commandment is not just an instruction b
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

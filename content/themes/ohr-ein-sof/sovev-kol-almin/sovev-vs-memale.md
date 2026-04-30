@@ -49,5 +49,5 @@ that cultivates both: transcendent awe and immanent love simultaneously.
 
 ---
 
-*See also: [[../ohr-ein-sof|Ohr Ein Sof]], [[sovev-and-equality]], [[../memale-kol-almin|Memale Kol Almin]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[sovev-and-equality]], [[themes/ohr-ein-sof/memale-kol-almin|Memale Kol Almin]]*
 

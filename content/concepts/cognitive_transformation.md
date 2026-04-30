@@ -33,3 +33,5 @@ The hemshech advances the idea that true study culminates in a total transformat
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

@@ -34,3 +34,4 @@ This maamar advances the concept that the process of divine service requires a d
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

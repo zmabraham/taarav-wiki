@@ -49,5 +49,5 @@ other qualities.
 
 ---
 
-*See also: [[../tohu-and-tikkun|Tohu and Tikkun]], [[seven-kings]], [[edom-and-esav]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[seven-kings]], [[edom-and-esav]]*
 

@@ -35,5 +35,5 @@ Analyzes how the commandments of kedusha (holiness) work not by withdrawing from
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/souls-of-israel|Souls of Israel]]

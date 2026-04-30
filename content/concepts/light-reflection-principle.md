@@ -34,3 +34,4 @@ The maamar advances the hemshech by establishing that the physical world’s pur
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

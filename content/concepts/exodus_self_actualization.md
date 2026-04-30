@@ -34,3 +34,5 @@ The redundancy of 'Lech Lecha' is resolved to teach that the journey begins with
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

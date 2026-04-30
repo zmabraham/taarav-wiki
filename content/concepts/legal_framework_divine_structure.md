@@ -34,3 +34,5 @@ Parashat Mishpatim is analyzed as the establishment of a 'dwelling place for the
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

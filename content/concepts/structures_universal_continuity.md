@@ -34,3 +34,4 @@ The three pillars of existence are revealed as a hierarchical metaphysical syste
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

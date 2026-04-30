@@ -48,5 +48,5 @@ The concealment is a concealment of *experience*, not of reality.
 
 ---
 
-*See also: [[../yechida|Yechida]], [[accessing-yechida-now]], [[../yechida-and-moshiach/geulah-reveals-yechida|Geulah Reveals Yechida]]*
+*See also: [[themes/yechida|Yechida]], [[accessing-yechida-now]], [[themes/yechida/yechida-and-moshiach/geulah-reveals-yechida|Geulah Reveals Yechida]]*
 

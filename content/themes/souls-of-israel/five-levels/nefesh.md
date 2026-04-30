@@ -49,5 +49,5 @@ concealed within the physical structure of the body.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[ruach]], [[neshamah]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[ruach]], [[neshamah]]*
 

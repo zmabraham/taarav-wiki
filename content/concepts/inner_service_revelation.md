@@ -34,3 +34,4 @@ The analysis of the parasha shifts focus from external acts to an inner, Kabbali
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

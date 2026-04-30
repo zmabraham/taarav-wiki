@@ -33,3 +33,5 @@ This maamar posits that the separation between different levels of reality is no
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/tzimtzum|Tzimtzum]]

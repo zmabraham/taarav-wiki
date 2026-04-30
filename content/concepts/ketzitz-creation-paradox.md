@@ -39,5 +39,5 @@ Explores the paradox that divine emanation requires both 'going forth' (exit fro
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
 - [[themes/tzimtzum|Tzimtzum]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

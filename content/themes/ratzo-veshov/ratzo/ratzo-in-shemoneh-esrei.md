@@ -48,5 +48,5 @@ capacity to return to earth, to continue their embodied divine service.
 
 ---
 
-*See also: [[../ratzo-veshov|Ratzo VeShov]], [[dangers-of-excessive-ratzo]], [[ratzo-and-fire]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[dangers-of-excessive-ratzo]], [[ratzo-and-fire]]*
 

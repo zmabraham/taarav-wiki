@@ -48,5 +48,5 @@ contact with the Sovev level through prayer, Torah study, and meditation.
 
 ---
 
-*See also: [[../ohr-ein-sof|Ohr Ein Sof]], [[sovev-and-equality]], [[sovev-vs-memale]]*
+*See also: [[themes/ohr-ein-sof|Ohr Ein Sof]], [[sovev-and-equality]], [[sovev-vs-memale]]*
 

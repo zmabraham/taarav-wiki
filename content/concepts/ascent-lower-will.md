@@ -34,3 +34,5 @@ The maamar's chiddush is that physical mitzvot are not just passive recipients o
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

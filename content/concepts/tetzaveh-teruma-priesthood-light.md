@@ -40,4 +40,4 @@ Develops the concept of kehuna (priesthood) as the mechanism that channels divin
 
 - [[index|Main Index]]
 - [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

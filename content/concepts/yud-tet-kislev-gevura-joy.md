@@ -39,5 +39,5 @@ Develops the paradox that true joy emerges from Gevura - the constriction that p
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

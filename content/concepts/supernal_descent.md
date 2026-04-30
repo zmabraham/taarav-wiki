@@ -34,3 +34,5 @@ The difficulty with 'Shir Hama'alot' is resolved to teach that the Shabbat servi
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

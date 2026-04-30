@@ -39,5 +39,5 @@ Returns to Sinai to analyze the inner mechanism of how the soul receives Torah -
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/yechida|Yechida]]
+- [[themes/souls-of-israel|Souls of Israel]]

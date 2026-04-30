@@ -34,3 +34,5 @@ Apparent rebellion and disagreement are essential components of the dialectical 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

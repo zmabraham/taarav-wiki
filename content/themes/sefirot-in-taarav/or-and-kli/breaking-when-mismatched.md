@@ -49,5 +49,5 @@ gradual vessel-expansion, not leaping to overwhelming spiritual intensity.
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[light-and-vessel-relationship]], [[vessel-as-limitation]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[light-and-vessel-relationship]], [[vessel-as-limitation]]*
 

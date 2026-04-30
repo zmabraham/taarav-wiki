@@ -33,3 +33,5 @@ This maamar introduces the idea that holiness is actualized and sustained not th
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

@@ -48,5 +48,5 @@ integration of both: ratzo-quality inspiration and shov-quality halachic groundi
 
 ---
 
-*See also: [[../ratzo-veshov|Ratzo VeShov]], [[shov-as-fulfillment]], [[shov-and-the-world]]*
+*See also: [[themes/ratzo-veshov|Ratzo VeShov]], [[shov-as-fulfillment]], [[shov-and-the-world]]*
 

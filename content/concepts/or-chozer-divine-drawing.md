@@ -34,3 +34,4 @@ The Or Chozer dynamic is revealed as the active conduit through which lower worl
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

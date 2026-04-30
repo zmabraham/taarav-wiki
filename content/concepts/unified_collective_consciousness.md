@@ -33,3 +33,4 @@ The conceptual advance is the nullification of all individual differentiations w
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

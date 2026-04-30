@@ -50,5 +50,5 @@ their earthly experience back upward, enriching the divine encounter.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[generation-of-reflected-light]], [[../interaction-of-lights/the-kiss]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[generation-of-reflected-light]], [[themes/or-yashar-or-chozer/interaction-of-lights/the-kiss]]*
 

@@ -33,3 +33,4 @@ The hemshech advances the concept that divine revelation can be actualized throu
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

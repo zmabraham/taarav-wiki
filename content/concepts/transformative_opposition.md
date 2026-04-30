@@ -34,3 +34,4 @@ The question about Korach's dissention advances the hemshech's argument by showi
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

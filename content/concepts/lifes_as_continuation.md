@@ -34,3 +34,4 @@ The conceptual advance is reinterpreting Sarah's 'life' (חיי) not as a measur
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

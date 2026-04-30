@@ -45,5 +45,5 @@ from the Makom HaPanui is the active radiance, not the Essence itself.
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[why-tzimtzum]], [[tzimtzum-and-will]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[why-tzimtzum]], [[tzimtzum-and-will]]*
 

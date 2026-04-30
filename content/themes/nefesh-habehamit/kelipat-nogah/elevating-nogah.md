@@ -49,5 +49,5 @@ purpose of human existence.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[nogah-definition]], [[nogah-in-daily-life]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[nogah-definition]], [[nogah-in-daily-life]]*
 

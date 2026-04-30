@@ -34,3 +34,4 @@ The textual repetition of 'az yashir' establishes that the song itself is an act
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

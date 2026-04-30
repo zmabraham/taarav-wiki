@@ -34,3 +34,4 @@ The census is a profound metaphysical act that reassembles the scattered fragmen
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

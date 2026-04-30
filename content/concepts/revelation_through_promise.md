@@ -34,3 +34,5 @@ The name 'Elokim' revealed at the burning bush signifies a mode of divinity that
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/souls-of-israel|Souls of Israel]]

@@ -50,5 +50,5 @@ declaration of its own unity with the divine.
 
 ---
 
-*See also: [[../yechida|Yechida]], [[concealment-of-yechida]], [[../yechida-and-moshiach/moshiach-and-collective-yechida|Moshiach and Collective Yechida]]*
+*See also: [[themes/yechida|Yechida]], [[concealment-of-yechida]], [[themes/yechida/yechida-and-moshiach/moshiach-and-collective-yechida|Moshiach and Collective Yechida]]*
 

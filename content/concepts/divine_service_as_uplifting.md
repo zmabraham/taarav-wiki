@@ -33,3 +33,5 @@ The core conceptual advance is that divine service is defined as the *function* 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

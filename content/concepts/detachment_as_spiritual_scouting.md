@@ -34,3 +34,4 @@ True spiritual advancement requires a paradoxical act of detachment, where a par
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]

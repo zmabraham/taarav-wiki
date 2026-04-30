@@ -49,5 +49,5 @@ service.
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[zeir-anpin]], [[nukva]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[zeir-anpin]], [[nukva]]*
 

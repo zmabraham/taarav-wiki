@@ -39,5 +39,5 @@ The second maamar develops Atzilut as simultaneously a garment (concealment) and
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
 - [[themes/tzimtzum|Tzimtzum]]

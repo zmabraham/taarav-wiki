@@ -49,5 +49,5 @@ that the student's mind can absorb.
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[kav-entering-makom-hapanui]], [[kav-and-worlds]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[kav-entering-makom-hapanui]], [[kav-and-worlds]]*
 

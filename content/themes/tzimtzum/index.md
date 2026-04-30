@@ -31,4 +31,4 @@ See the main overview: [[themes/tzimtzum|Tzimtzum — Overview]]
 - [[themes/ohr-ein-sof|Or Ein Sof]] — What the Tzimtzum withdrew
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — What emerged from the Tzimtzum
 - [[themes/or-yashar-or-chozer|Or Yashar / Or Chozer]] — What the Tzimtzum made possible
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

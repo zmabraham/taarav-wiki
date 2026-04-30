@@ -34,3 +34,4 @@ The textual difficulty in Ki Tetze resolves to establish that divine assistance 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

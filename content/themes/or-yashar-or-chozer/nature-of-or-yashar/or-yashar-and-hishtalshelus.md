@@ -48,5 +48,5 @@ the entire sequence of worlds into concrete, material action.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[downward-flow]], [[limits-of-direct-light]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[downward-flow]], [[limits-of-direct-light]]*
 

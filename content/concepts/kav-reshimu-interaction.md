@@ -39,5 +39,5 @@ Analyzes the interaction between the Kav (line of light) and Reshimu (impression
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/kav-reshimu|Kav and Reshimu]]
 - [[themes/tzimtzum|Tzimtzum]]

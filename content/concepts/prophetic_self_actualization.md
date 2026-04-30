@@ -34,3 +34,5 @@ The question about the change in phrasing from 'And Hashem spoke to Moses' to 'A
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

@@ -46,5 +46,5 @@ form.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[implications-for-avodah]], [[portion-and-unity]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[implications-for-avodah]], [[portion-and-unity]]*
 

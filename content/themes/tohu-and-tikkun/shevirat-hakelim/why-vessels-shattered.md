@@ -48,5 +48,5 @@ purposeful from the perspective of the overall creative process.
 
 ---
 
-*See also: [[../tohu-and-tikkun|Tohu and Tikkun]], [[result-of-shattering]], [[shattering-as-purposeful]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[result-of-shattering]], [[shattering-as-purposeful]]*
 

@@ -50,5 +50,5 @@ the person without being fully processed intellectually.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[pnimi-internalized]], [[transition-mekif-pnimi]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[pnimi-internalized]], [[transition-mekif-pnimi]]*
 

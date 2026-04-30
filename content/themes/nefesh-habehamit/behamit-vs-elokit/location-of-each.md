@@ -50,5 +50,5 @@ the animal soul's emotions which precede and resist it.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[the-battle]], [[beinoni-resolution]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[the-battle]], [[beinoni-resolution]]*
 

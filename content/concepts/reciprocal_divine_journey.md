@@ -34,3 +34,4 @@ The textual reversal of 'journeys' and 'departures' introduces the advanced idea
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

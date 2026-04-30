@@ -34,3 +34,4 @@ The difficulty with the law of the Sukkah under the tree is resolved to teach th
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tzimtzum|Tzimtzum]]

@@ -40,4 +40,4 @@ See the main overview: [[themes/tohu-and-tikkun|Tohu and Tikkun — Overview]]
 - [[themes/or-yashar-or-chozer|Or Yashar / Or Chozer]] — The imbalance that caused the breaking
 - [[themes/souls-of-israel|Souls of Israel]] — Tohu vs. Tikkun souls
 - [[themes/kav-reshimu|Kav and Reshimu]] — The forces that produced Tohu and Tikkun
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

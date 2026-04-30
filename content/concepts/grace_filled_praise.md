@@ -34,3 +34,5 @@ The textual question of why the nations praise God is answered to establish that
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]
+- [[themes/souls-of-israel|Souls of Israel]]

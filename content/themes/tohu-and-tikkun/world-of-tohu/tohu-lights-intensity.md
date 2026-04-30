@@ -48,5 +48,5 @@ breaking of the vessels — that defines the transition from Tohu to Tikkun.
 
 ---
 
-*See also: [[../tohu-and-tikkun|Tohu and Tikkun]], [[tohu-vessels-weakness]], [[tohu-as-divine-excess]]*
+*See also: [[themes/tohu-and-tikkun|Tohu and Tikkun]], [[tohu-vessels-weakness]], [[tohu-as-divine-excess]]*
 

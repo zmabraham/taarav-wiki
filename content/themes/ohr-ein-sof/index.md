@@ -29,4 +29,4 @@ See the main overview: [[themes/ohr-ein-sof|Or Ein Sof — Overview]]
 - [[themes/tzimtzum|Tzimtzum]] — What the Tzimtzum did to Or Ein Sof
 - [[themes/kav-reshimu|Kav and Reshimu]] — How Or Ein Sof enters the chalal
 - [[themes/or-yashar-or-chozer|Or Yashar / Or Chozer]] — Modes of Or Ein Sof in relation to worlds
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

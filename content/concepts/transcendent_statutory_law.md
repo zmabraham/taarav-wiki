@@ -34,3 +34,4 @@ The analysis of the law of the red heifer introduces the conceptual advance that
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

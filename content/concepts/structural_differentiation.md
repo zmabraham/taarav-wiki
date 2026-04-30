@@ -34,3 +34,4 @@ The distinction between 'tribes' and 'standards' advances the argument by introd
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

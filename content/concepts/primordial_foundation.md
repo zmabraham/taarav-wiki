@@ -34,3 +34,5 @@ The maamar's question about 'from the Rock of your fathers' advances the hemshec
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/tzimtzum|Tzimtzum]]

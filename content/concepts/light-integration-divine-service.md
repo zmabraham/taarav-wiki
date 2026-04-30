@@ -34,3 +34,4 @@ The performance of Torah law is the mechanism that channels the highest divine l
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]

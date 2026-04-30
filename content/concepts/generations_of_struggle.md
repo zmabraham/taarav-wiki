@@ -34,3 +34,5 @@ The main advance is reframing the 'generations of Isaac' as not merely a family 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]
+- [[themes/souls-of-israel|Souls of Israel]]

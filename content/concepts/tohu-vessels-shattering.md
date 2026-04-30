@@ -38,5 +38,4 @@ Explains the cosmic tragedy of Tohu - vessels too narrow to contain the overwhel
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/tohu-and-tikkun|Tohu and Tikkun]]

@@ -34,3 +34,5 @@ The maamar's focus on the word 'עקב' (consequence) advances the hemshech by e
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/souls-of-israel|Souls of Israel]]

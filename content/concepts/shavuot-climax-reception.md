@@ -35,5 +35,5 @@ The hemshech's final Shavuot maamarim synthesize the entire conceptual journey -
 ## Cross-References
 
 - [[index|Main Index]]
-- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
-- [[themes/tzimtzum|Tzimtzum]]
+- [[themes/yechida|Yechida]]
+- [[themes/souls-of-israel|Souls of Israel]]

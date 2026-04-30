@@ -34,3 +34,5 @@ The textual difficulty regarding 'I am smaller than all the kindnesses and all t
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ratzo-veshov|Ratzo v'Shov]]

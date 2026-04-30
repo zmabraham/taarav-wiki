@@ -34,3 +34,5 @@ Pinchas's act of zealotry is presented as the necessary and advanced response to
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

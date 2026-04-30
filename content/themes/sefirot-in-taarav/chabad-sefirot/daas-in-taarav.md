@@ -50,5 +50,5 @@ known and deeply felt divine connection.
 
 ---
 
-*See also: [[../sefirot-in-taarav|Sefirot in Taarav]], [[chochmah-in-taarav]], [[binah-in-taarav]]*
+*See also: [[themes/sefirot-in-taarav|Sefirot in Taarav]], [[chochmah-in-taarav]], [[binah-in-taarav]]*
 

@@ -50,5 +50,5 @@ divine essence.
 
 ---
 
-*See also: [[../souls-of-israel|Souls of Israel]], [[literal-portion]], [[portion-and-unity]]*
+*See also: [[themes/souls-of-israel|Souls of Israel]], [[literal-portion]], [[portion-and-unity]]*
 

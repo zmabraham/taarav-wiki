@@ -33,4 +33,4 @@ See the main overview: [[themes/sefirot-in-taarav|Sefirot in Taarav — Overview
 - [[themes/kav-reshimu/kav-and-sefirot|Kav and Sefirot]] — The genetic origin of the Sefirot
 - [[themes/tohu-and-tikkun|Tohu and Tikkun]] — The two modes of Sefirot organization
 - [[themes/or-yashar-or-chozer|Or Yashar / Or Chozer]] — The dynamic within each sefirah
-- [[themes/concepts-map|Full Concepts Map]]
+- [[concepts/index|Full Concepts Index]]

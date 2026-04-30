@@ -34,3 +34,4 @@ This maamar advances the core principle that divine revelation originates from w
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

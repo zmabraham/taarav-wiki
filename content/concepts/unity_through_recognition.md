@@ -34,3 +34,5 @@ The narrative of Yehudah approaching Yosef is analyzed as a model of how divine 
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/souls-of-israel|Souls of Israel]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]

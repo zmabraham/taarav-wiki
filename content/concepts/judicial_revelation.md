@@ -34,3 +34,4 @@ The progression from the verse in Shoftim reveals that divine judgment is not me
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

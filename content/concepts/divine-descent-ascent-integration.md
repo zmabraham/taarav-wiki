@@ -34,3 +34,5 @@ The performance of Torah mitzvot creates a dynamic circuit, drawing infinite lig
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/sefirot-in-taarav|Sefirot in Taarav]]

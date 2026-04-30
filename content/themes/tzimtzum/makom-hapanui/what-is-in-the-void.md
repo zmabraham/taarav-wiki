@@ -48,5 +48,5 @@ precisely the domain in which divinity is most *concealed*, yet also most essent
 
 ---
 
-*See also: [[../tzimtzum|Tzimtzum]], [[makom-and-evil]]*
+*See also: [[themes/tzimtzum|Tzimtzum]], [[makom-and-evil]]*
 

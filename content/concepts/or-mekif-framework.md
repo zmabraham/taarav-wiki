@@ -34,3 +34,5 @@ The Sukkah's temporary structure uniquely facilitates an encounter with Or Mekif
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
+- [[themes/tzimtzum|Tzimtzum]]

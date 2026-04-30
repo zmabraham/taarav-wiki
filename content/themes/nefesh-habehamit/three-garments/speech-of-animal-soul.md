@@ -49,5 +49,5 @@ transformation of the animal soul's speech-garment.
 
 ---
 
-*See also: [[../nefesh-habehamit|Nefesh HaBehamit]], [[thought-of-animal-soul]], [[action-of-animal-soul]]*
+*See also: [[themes/nefesh-habehamit|Nefesh HaBehamit]], [[thought-of-animal-soul]], [[action-of-animal-soul]]*
 

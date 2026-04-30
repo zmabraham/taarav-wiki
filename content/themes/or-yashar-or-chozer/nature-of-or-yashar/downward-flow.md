@@ -50,5 +50,5 @@ a movement *against* the natural direction of or yashar.
 
 ---
 
-*See also: [[../or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[limits-of-direct-light]], [[or-yashar-and-hishtalshelus]]*
+*See also: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]], [[limits-of-direct-light]], [[or-yashar-and-hishtalshelus]]*
 

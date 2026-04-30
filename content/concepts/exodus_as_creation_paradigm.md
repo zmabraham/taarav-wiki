@@ -33,3 +33,5 @@ This maamar posits that the truest and most profound act of deliverance (Exodus)
 ## Cross-References
 
 - [[index|Main Index]]
+- [[themes/ohr-ein-sof|Or Ein Sof]]
+- [[themes/tzimtzum|Tzimtzum]]
