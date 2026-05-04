@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "המשך תער״ב — Hemshech Taarav",
+    pageTitle: "תולדות חב״ד — Chabad History Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "he-IL",
-    baseUrl: "zmabraham.github.io/taarav-wiki",
+    baseUrl: "chabad-history-wiki.netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
