@@ -56,6 +56,57 @@ The hemshech is divided into two *chalakim* (volumes):
 
 ---
 
+## Browse by Topic
+
+### Concepts (143 pages)
+
+The concept pages track the specific ideas advanced maamar by maamar — the building blocks of the hemshech's philosophical architecture.
+
+→ **[[concepts/index|Full Concepts Index]]** — all 143 concepts with the chain of progression
+
+Key concept clusters:
+- **Keter & Its Structure**: [[concepts/keter-dual-dimensions|Keter's Dual Dimensions]] · [[concepts/keter-descent|Keter Descent]] · [[concepts/keter-downward-ascent|Keter Downward-Ascent]] · [[concepts/keter-incarnation|Keter Incarnation]] · [[concepts/introduces-keter-structure|Introduces Keter Structure]]
+- **Or Yashar / Or Chozer**: [[concepts/ascent-of-or-chozer|Ascent of Or Chozer]] · [[concepts/ascending-light-mechanism|Ascending Light Mechanism]] · [[concepts/or-chozer-divine-drawing|Or Chozer Divine Drawing]] · [[concepts/or-mekif-framework|Or Mekif Framework]] · [[concepts/or-vs-shefa-light-without-depletion|Or vs. Shefa]]
+- **Tzimtzum & Creation**: [[concepts/sacred_contraction|Sacred Contraction]] · [[concepts/ketzitz-creation-paradox|Ketzitz Creation Paradox]] · [[concepts/kav-reshimu-interaction|Kav-Reshimu Interaction]] · [[concepts/existent_non_existent|Existent / Non-Existent]]
+- **Divine Service**: [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov Dynamic]] · [[concepts/ignition_of_conscious_service|Ignition of Conscious Service]] · [[concepts/physical-mitzvot-atzmus-priority|Physical Mitzvot — Atzmus Priority]] · [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]]
+- **Tohu & Tikkun**: [[concepts/tohu-vessels-shattering|Tohu Vessels Shattering]] · [[concepts/tohu-tikkun-soul-roots|Tohu-Tikkun Soul Roots]] · [[concepts/extracting_light_darkness|Extracting Light from Darkness]]
+- **Soul & Yechida**: [[concepts/yechida-transcendence|Yechida Transcendence]] · [[concepts/primordial_soul_state|Primordial Soul State]] · [[concepts/pnimiyut-atik-revealed-to-israel|Pnimiyut Atik Revealed to Israel]]
+- **Holidays**: [[concepts/rosh-hashana-divine-coronation|Rosh Hashana Divine Coronation]] · [[concepts/shavuot-climax-reception|Shavuot Climax Reception]] · [[concepts/chanukah-or-chadash|Chanukah: Or Chadash]] · [[concepts/yud-tet-kislev-redemption-pattern|Yud-Tet Kislev Redemption Pattern]]
+
+---
+
+### Themes (165 pages)
+
+Deep-dive clusters organized by the hemshech's major conceptual poles. Each hub links to subtopics and related maamarim.
+
+| Theme | Hub | Subtopics |
+|-------|-----|-----------|
+| **Or Yashar v'Or Chozer** | [[themes/or-yashar-or-chozer\|Or Yashar Hub]] | Nature of each light, Mekif/Pnimi, Interaction, Prayer/Torah applications |
+| **Tzimtzum** | [[themes/tzimtzum\|Tzimtzum Hub]] | Act of Tzimtzum, Makom HaPanui, Reshimu, Kav, Literal vs. Non-Literal |
+| **Tohu and Tikkun** | [[themes/tohu-and-tikkun\|Tohu/Tikkun Hub]] | Kings of Edom, Shevirat HaKelim, Nitzotzot, World of Tohu/Tikkun |
+| **Or Ein Sof** | [[themes/ohr-ein-sof\|Or Ein Sof Hub]] | Before/After Tzimtzum, Memale Kol Almin, Sovev Kol Almin |
+| **Sefirot in Taarav** | [[themes/sefirot-in-taarav\|Sefirot Hub]] | Chabad Sefirot, Partzufim, Or and Kli, Abba/Ima, Zeir/Nukva |
+| **Souls of Israel** | [[themes/souls-of-israel\|Souls Hub]] | Chelek Eloka Mimal, Five Levels, Root of Souls, Souls in Adam Kadmon |
+| **Yechida** | [[themes/yechida\|Yechida Hub]] | Yechida and Ein Sof, Yechida and Moshiach, Yechida in Exile |
+| **Kav and Reshimu** | [[themes/kav-reshimu\|Kav/Reshimu Hub]] | The Kav, The Reshimu, Kav-Sefirot relationship |
+| **Ratzo v'Shov** | [[themes/ratzo-veshov\|Ratzo/Shov Hub]] | Ratzo, Shov, Balance, In Prayer, In Torah Study |
+| **Nefesh HaBehamit** | [[themes/nefesh-habehamit\|Nefesh HaBehamit Hub]] | vs. Elokit, Kelipat Nogah, Three Garments, Four Elements |
+
+---
+
+## Explorations
+
+Synthesis essays that trace themes across the full 140-maamar arc:
+
+- [[explorations/hemshech-taarav-conceptual-journey|The Conceptual Journey: All 140 Steps]] — Step-by-step walkthrough of the Rashab's construction
+- [[explorations/development-of-or-chozer|The Arc of Or Chozer]] — How reflected light evolves from metaphor to cosmological proof
+- [[explorations/rashab-vs-tanya-tzimtzum|Rashab vs. Tanya: Two Positions on Tzimtzum]] — What the hemshech adds beyond the Alter Rebbe
+- [[explorations/physical-mitzvot-atzmus-argument|The Final Argument: Physical Mitzvot and Atzmus]] — Reconstructing the hemshech's culminating proof
+- [[explorations/yechida-and-geulah|Yechida and Geulah: The Eschatological Dimension]] — How the soul's highest level connects to redemption
+- [[explorations/keter-as-intermediary|Keter as Intermediary: The Load-Bearing Concept]] — Tracing the Keter theme from maamar 1 to 140
+
+---
+
 ## All Maamarim
 
 

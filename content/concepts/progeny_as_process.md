@@ -1,5 +1,5 @@
 ---
-title: "Progeny as Process"
+title: "Noach's Walking: Re'iyah Mode of Amidah vs. Shmi'ah Mode of Shema"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "souls-of-israel"
 ---
 
-# Progeny as Process
+# Noach's Walking: Re'iyah Mode of Amidah vs. Shmi'ah Mode of Shema
 
 ---
 
@@ -33,6 +33,11 @@ The understanding that the 'generations' (תולדות) of a righteous individua
 This concept represents a key advance in the hemshech's development.
 
 The main advance is reinterpreting 'These are the generations of Noach' from a genealogical record to a metaphysical description of the righteous individual's life as a continuous process of divine interaction and revelation.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330085|085]]
 
 ## Cross-References
 

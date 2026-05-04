@@ -37,7 +37,7 @@ Explores the paradox of divine 'seeing' - how transcendence can be immanent, how
 
 
 
-- **Advances**: [[concepts/keter-incarnation|Keter's Incarnation]]
+- **Advances**: [[concepts/divine-light-infusion|Divine Light Infusion]]
 ## Cross-References
 
 - [[index|Main Index]]

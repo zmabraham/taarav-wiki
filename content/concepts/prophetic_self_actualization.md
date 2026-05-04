@@ -29,7 +29,7 @@ The principle that the ultimate form of prophecy, as in Moses's final address, t
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/transcendental_vision|Transcendental Vision]]
+- **Advances**: [[concepts/transcendental_vision|Torah as Or Ein Sof's Channel Through the Sefirot: Moshe's Vision of the Land]]
 This concept represents a key advance in the hemshech's development.
 
 The question about the change in phrasing from 'And Hashem spoke to Moses' to 'And these are the words...' introduces the concept that Moses's final prophecy represents a perfected state where the medium and the message are one, achieving complete self-actualization.

@@ -1,5 +1,5 @@
 ---
-title: "Ascent of Lower Will"
+title: "Tzahar: Light in the Ark as the Model for Or Pnimi Ascending from the Lowest Level"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ratzo-veshov"
 ---
 
-# Ascent of Lower Will
+# Tzahar: Light in the Ark as the Model for Or Pnimi Ascending from the Lowest Level
 
 ---
 
@@ -29,10 +29,15 @@ This maamar advances the hemshech by elucidating how the 'lower will' of creatio
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/vayera-divine-sight|Vayera: Divine Seeing and the Test of Revelation]]
+- **Advances**: [[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar's chiddush is that physical mitzvot are not just passive recipients of divine light but can actively provoke an ascent of reflected light, thereby drawing the highest direct light into the lowest realm.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330026|026]]
 
 ## Cross-References
 

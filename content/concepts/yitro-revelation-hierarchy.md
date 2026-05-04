@@ -37,7 +37,7 @@ Analyzes the descent of revelation at Sinai - how the highest truth descends lev
 
 
 
-- **Advances**: [[concepts/legal_framework_divine_structure|Legal Framework as Divine Structure]]
+- **Advances**: [[concepts/souls_exodus_process|Ki Tisa: The Soul's Kofer — Counting Through Elevation]]
 ## Cross-References
 
 - [[index|Main Index]]

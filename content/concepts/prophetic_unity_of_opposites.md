@@ -1,5 +1,5 @@
 ---
-title: "Prophetic Unity of Opposites"
+title: "Haazinu: Moshe as the Kav — Total Bittul as Perfect Torah Transmission"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Prophetic Unity of Opposites
+# Haazinu: Moshe as the Kav — Total Bittul as Perfect Torah Transmission
 
 ---
 
@@ -28,7 +28,7 @@ Haazinu's song reveals how prophecy integrates divine judgment and mercy into a 
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/selected_essence|Selected Essence]]
+- **Advances**: [[concepts/selected_essence|Arba Minim: The Four Species as Unification of Inner and Outer Malchut]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is that prophecy creates a higher reality where apparent contradictions like justice and mercy are resolved into a unified, transcendent view.

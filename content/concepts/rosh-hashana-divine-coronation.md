@@ -37,7 +37,7 @@ Develops Rosh Hashana as the moment when divine will for creation is renewed, sh
 
 
 
-- **Advances**: [[concepts/revelational-access-of-kingship|Revelational Access of Kingship]]
+- **Advances**: [[concepts/or-mekif-framework|Sukkah as Or Mekif: The Superiority of Encompassing Light]]
 ## Cross-References
 
 - [[index|Main Index]]

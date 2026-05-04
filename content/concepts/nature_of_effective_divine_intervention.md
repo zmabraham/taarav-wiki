@@ -1,5 +1,5 @@
 ---
-title: "Nature of Effective Divine Intervention"
+title: "Balak: Re'iyah and Shmi'ah — Sight Grasps Essence, Hearing Grasps Existence"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Nature of Effective Divine Intervention
+# Balak: Re'iyah and Shmi'ah — Sight Grasps Essence, Hearing Grasps Existence
 
 ---
 
@@ -28,7 +28,7 @@ The true power of divine intervention is measured not by its external magnitude 
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/sanctified_individuality|Sanctified Individuality]]
+- **Advances**: [[concepts/sanctified_individuality|Pinchas: Chesed-Rooted Gevurah and the Brit Shalom]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar introduces the idea that the most potent divine act is one that instills genuine awe (*yirah*), thereby fundamentally changing a subject's perception and will, rather than merely overwhelming them with force.

@@ -1,5 +1,5 @@
 ---
-title: "Ascending Light Mechanism"
+title: "Shavuot: The Three Crowns and the Hidden Sefirot in the Kav"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "or-yashar-or-chozer"
 ---
 
-# Ascending Light Mechanism
+# Shavuot: The Three Crowns and the Hidden Sefirot in the Kav
 
 ---
 

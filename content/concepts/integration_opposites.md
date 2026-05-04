@@ -1,5 +1,5 @@
 ---
-title: "Integration of Opposites"
+title: "The Cloud That Illuminated: How Darkness Itself Gave Light at the Splitting Sea"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "tohu-and-tikkun"
 ---
 
-# Integration of Opposites
+# The Cloud That Illuminated: How Darkness Itself Gave Light at the Splitting Sea
 
 ---
 
@@ -33,6 +33,11 @@ The seder plate's array of bitter herbs and sweet charoset symbolizes the necess
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the conceptual framework by showing that the complete Exodus experience is achieved not by eliminating pain or sweetness, but by integrating both into a single, meaningful service.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330110|110]]
 
 ## Cross-References
 

@@ -1,5 +1,5 @@
 ---
-title: "Revelational Access of Kingship"
+title: "Ani l'Dodi: Halachah as the Bond of Mutual Love"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "sefirot-in-taarav"
 ---
 
-# Revelational Access of Kingship
+# Ani l'Dodi: Halachah as the Bond of Mutual Love
 
 ---
 
@@ -29,7 +29,7 @@ This maamar advances the idea that divine kingship (Malchut) is the specific Sef
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]]
+- **Advances**: [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]
 This concept represents a key advance in the hemshech's development.
 
 Divine kingship is the dimension of God that interfaces with creation, accessible through revelation without compromising transcendence.

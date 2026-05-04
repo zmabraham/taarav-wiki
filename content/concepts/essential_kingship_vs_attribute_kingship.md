@@ -1,5 +1,5 @@
 ---
-title: "Essential vs. Attribute Kingship"
+title: "Yesh Me'Ayin: Creation-from-Nothing Reveals Atzmus More Than Emanation"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Essential vs. Attribute Kingship
+# Yesh Me'Ayin: Creation-from-Nothing Reveals Atzmus More Than Emanation
 
 ---
 

@@ -36,7 +36,7 @@ Introduces the fundamental dynamic of spiritual life - the soul's upward yearnin
 
 
 
-- **Advances**: [[concepts/kav-reshimu-interaction|Kav and Reshimu: How Divine Light Structures Reality]]
+- **Advances**: [[concepts/dual-divine-truth|Dual Divine Truth]]
 ## Cross-References
 - [[themes/ratzo-veshov/ratzo-veshov-in-Torah|Ratzo v'Shov in Torah Study]]
 - [[themes/ratzo-veshov/ratzo-veshov-in-prayer|Ratzo v'Shov in Prayer]]

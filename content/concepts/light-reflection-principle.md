@@ -1,5 +1,5 @@
 ---
-title: "Light Reflection Principle"
+title: "Birurim: Elevating Divine Sparks Through Physical Mitzvot"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "or-yashar-or-chozer"
 ---
 
-# Light Reflection Principle
+# Birurim: Elevating Divine Sparks Through Physical Mitzvot
 
 ---
 

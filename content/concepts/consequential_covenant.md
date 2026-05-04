@@ -29,7 +29,7 @@ The idea that the covenant with God is not a static agreement but a dynamic, con
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/judicial_revelation|Judicial Revelation]]
+- **Advances**: [[concepts/judicial_revelation|Tzedek Tzedek: Double Justice and the Two Gates of Divine Service]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar's focus on the word 'עקב' (consequence) advances the hemshech by establishing that the covenant's survival is dependent not on passive acceptance but on the active, 'following' nature of divine service, linking observance directly to the covenant's vitality.

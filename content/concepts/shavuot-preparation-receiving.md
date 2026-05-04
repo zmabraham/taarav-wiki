@@ -37,7 +37,7 @@ Analyzes the critical role of preparation (havdalah) before revelation - how the
 
 
 
-- **Advances**: [[concepts/name_as_essential_container|Name as Essential Container]]
+- **Advances**: [[concepts/essential_kingship_vs_attribute_kingship|Yesh Me'Ayin: Creation-from-Nothing Reveals Atzmus More Than Emanation]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -37,7 +37,7 @@ Deepens the analysis of souls rooted in Tohu versus Tikkun, explaining how each 
 
 
 
-- **Advances**: [[concepts/supernal_descent|Supernal Descent]]
+- **Advances**: [[concepts/name_as_essential_container|Name as Essential Container]]
 ## Cross-References
 - [[themes/tohu-and-tikkun/nitzotzot/tikkun-of-sparks|The Tikkun of Sparks: Human Mission in Creation]]
 

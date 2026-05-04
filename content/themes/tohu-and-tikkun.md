@@ -87,12 +87,12 @@ The Rashab devotes enormous effort in the hemshech to explaining:
 These 15 concept nodes develop this theme across the hemshech:
 
 - [[concepts/cosmic_redemption_through_return|Cosmic Redemption Through Return]] — [[maamarim/maamar-3601330079|maamar 079]]
-- [[concepts/deficiency_as_foundation|Deficiency as Foundation]] — [[maamarim/maamar-3601330109|maamar 109]]
-- [[concepts/deliberate_descent|The Concept of a Deliberate Descent]] — [[maamarim/maamar-3601330099|maamar 099]]
+- [[concepts/deficiency_as_foundation|Pesach Revelation: How Geula is Possible in a Tzimtzum World]] — [[maamarim/maamar-3601330109|maamar 109]]
+- [[concepts/deliberate_descent|Bo El Paro: Or Pnimi Liberates by Entering Klipa from Within, Not From Without]] — [[maamarim/maamar-3601330099|maamar 099]]
 - [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]] — [[maamarim/maamar-3601330065|maamar 065]]
 - [[concepts/extracting_light_darkness|Extracting Light from Darkness]] — [[maamarim/maamar-3601330097|maamar 097]]
 - [[concepts/generations_of_struggle|Generations of Struggle]] — [[maamarim/maamar-3601330089|maamar 089]]
-- [[concepts/integration_opposites|Integration of Opposites]] — [[maamarim/maamar-3601330110|maamar 110]]
+- [[concepts/integration_opposites|The Cloud That Illuminated: How Darkness Itself Gave Light at the Splitting Sea]] — [[maamarim/maamar-3601330110|maamar 110]]
 - [[concepts/kedusha-sanctification-world|Kedusha: Sanctification of the World Through Action]]
 - [[concepts/material_divine_inheritance|Material Divine Inheritance]] — [[maamarim/maamar-3601330075|maamar 075]]
 - [[concepts/teshuva-return-path|Teshuva: The Return Path and Rectification of Past]] — [[maamarim/maamar-3601330027|maamar 027]]

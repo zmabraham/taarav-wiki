@@ -36,7 +36,7 @@ Analyzes the concept of 'standing' (nitzavim) before God as establishing collect
 
 
 
-- **Advances**: [[concepts/rosh-hashana-divine-coronation|Rosh Hashana: Coronation and the Birth of Divine Will]]
+- **Advances**: [[concepts/revelational-access-of-kingship|Ani l'Dodi: Halachah as the Bond of Mutual Love]]
 ## Cross-References
 
 - [[index|Main Index]]

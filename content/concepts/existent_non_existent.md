@@ -1,5 +1,5 @@
 ---
-title: "Existent Non-Existent"
+title: "Bereishit: Two Tzimtzumim of Malchut and Creation as Tohu Before Articulation"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "tzimtzum"
 ---
 
-# Existent Non-Existent
+# Bereishit: Two Tzimtzumim of Malchut and Creation as Tohu Before Articulation
 
 ---
 
@@ -29,7 +29,7 @@ The paradoxical concept of a primal state that simultaneously exists and lacks d
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/progeny_as_process|Progeny as Process]]
+- **Advances**: [[concepts/progeny_as_process|Noach's Walking: Re'iyah Mode of Amidah vs. Shmi'ah Mode of Shema]]
 This concept represents a key advance in the hemshech's development.
 
 The conceptual advance is resolving the tension between 'created' (bara) and 'was tohu' by framing 'tohu' not as non-existence but as a state of undifferentiated potentiality that precedes and enables structured existence.

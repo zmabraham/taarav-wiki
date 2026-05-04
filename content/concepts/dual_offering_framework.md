@@ -1,5 +1,5 @@
 ---
-title: "Dual Offering Framework"
+title: "Orot, Kelim, Levushim, Heikhalot: The Four Categories"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "sefirot-in-taarav"
 ---
 
-# Dual Offering Framework
+# Orot, Kelim, Levushim, Heikhalot: The Four Categories
 
 ---
 
@@ -29,7 +29,7 @@ The progression from 'תרומה' to 'תרומתי' reveals a distinction betwee
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/tetzaveh-teruma-priesthood-light|Tetzaveh-Teruma: Priesthood as the Channel of Light]]
+- **Advances**: [[concepts/yitro-revelation-hierarchy|Yitro: The Hierarchy of Revelation and Its Descent]]
 This concept represents a key advance in the hemshech's development.
 
 The maamar advances the conceptual framework by distinguishing between two types of offerings: one initiated by human will and one designated by divine will, establishing the parameters for how divine service operates.

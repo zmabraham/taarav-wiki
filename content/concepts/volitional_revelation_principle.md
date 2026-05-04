@@ -1,5 +1,5 @@
 ---
-title: "Volitional Revelation Principle"
+title: "Korbanot as Or Chozer: Sacrifice as the Paradigm of Ascent"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Volitional Revelation Principle
+# Korbanot as Or Chozer: Sacrifice as the Paradigm of Ascent
 
 ---
 

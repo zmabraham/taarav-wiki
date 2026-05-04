@@ -1,5 +1,5 @@
 ---
-title: "Soul's Exodus Process"
+title: "Ki Tisa: The Soul's Kofer — Counting Through Elevation"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "souls-of-israel"
 ---
 
-# Soul's Exodus Process
+# Ki Tisa: The Soul's Kofer — Counting Through Elevation
 
 ---
 

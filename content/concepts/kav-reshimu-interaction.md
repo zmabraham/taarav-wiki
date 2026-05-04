@@ -37,7 +37,7 @@ Analyzes the interaction between the Kav (line of light) and Reshimu (impression
 
 
 
-- **Advances**: [[concepts/dual-divine-truth|Dual Divine Truth]]
+- **Advances**: [[concepts/tohu-vessels-shattering|Shevirat HaKelim: Why the Vessels of Tohu Shattered]]
 ## Cross-References
 - [[themes/kav-reshimu/kav-and-sefirot|Kav and Sefirot — How the Kav Builds the Sefirot]]
 - [[themes/kav-reshimu/relationship-between-kav-reshimu|The Relationship Between Kav and Reshimu]]

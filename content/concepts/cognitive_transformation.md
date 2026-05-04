@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Transformation"
+title: "Pnimiyut HaKli: Inner Vessel Unifies With Light, Outer Vessel Creates"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "souls-of-israel"
 ---
 
-# Cognitive Transformation
+# Pnimiyut HaKli: Inner Vessel Unifies With Light, Outer Vessel Creates
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eighth Day Essence"
+title: "Shemini Atzeret: How Divine Voice Condenses Into Articulated Letters of Torah"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Eighth Day Essence
+# Shemini Atzeret: How Divine Voice Condenses Into Articulated Letters of Torah
 
 ---
 
@@ -29,7 +29,7 @@ The idea that the unique nature of Shemini Atzeret transcends the cyclical patte
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/existent_non_existent|Existent Non-Existent]]
+- **Advances**: [[concepts/existent_non_existent|Bereishit: Two Tzimtzumim of Malchut and Creation as Tohu Before Articulation]]
 This concept represents a key advance in the hemshech's development.
 
 The main advance is defining Shemini Atzeret not as part of the Sukkot pilgrimage cycle but as an independent, eighth-day reality that represents a leap beyond the seven-fold structure of divine service and time.

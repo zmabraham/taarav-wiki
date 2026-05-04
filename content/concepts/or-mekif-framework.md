@@ -1,5 +1,5 @@
 ---
-title: "Or Mekif Framework"
+title: "Sukkah as Or Mekif: The Superiority of Encompassing Light"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "or-yashar-or-chozer"
 ---
 
-# Or Mekif Framework
+# Sukkah as Or Mekif: The Superiority of Encompassing Light
 
 ---
 

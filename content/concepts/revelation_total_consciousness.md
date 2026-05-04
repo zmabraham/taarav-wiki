@@ -1,5 +1,5 @@
 ---
-title: "The Revelation of Total Consciousness"
+title: "Matan Torah's Permanent Channel: Or Chozer from Below Reaches the Highest Levels"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# The Revelation of Total Consciousness
+# Matan Torah's Permanent Channel: Or Chozer from Below Reaches the Highest Levels
 
 ---
 
@@ -33,6 +33,11 @@ The giving of the Torah is framed as the cosmic event that forged the ontologica
 This concept represents a key advance in the hemshech's development.
 
 Sinai created a fundamental shift in cosmic consciousness, establishing a new paradigm where the direct light of divine will could be consciously received and reciprocated through human action.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330118|118]]
 
 ## Cross-References
 

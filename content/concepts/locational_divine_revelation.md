@@ -1,5 +1,5 @@
 ---
-title: "Locational Divine Revelation"
+title: "Beha'alotcha: Aaron's Menorah and Pnimiyut HaChochmah"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Locational Divine Revelation
+# Beha'alotcha: Aaron's Menorah and Pnimiyut HaChochmah
 
 ---
 

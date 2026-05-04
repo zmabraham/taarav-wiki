@@ -27,6 +27,8 @@ This is a conceptual anchor establishing the initial framework for understanding
 
 ## Position in the Conceptual Chain
 
+- **Advances**: [[concepts/keter-dual-dimensions|Keter's Dual Dimensions: Ta'anug and Ratzon]]
+
 This concept introduces the foundational Keter structure that is then deepened by [[concepts/keter-dual-dimensions]].
 
 ## Cross-References

@@ -1,5 +1,5 @@
 ---
-title: "Judicial Revelation"
+title: "Tzedek Tzedek: Double Justice and the Two Gates of Divine Service"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "sefirot-in-taarav"
 ---
 
-# Judicial Revelation
+# Tzedek Tzedek: Double Justice and the Two Gates of Divine Service
 
 ---
 

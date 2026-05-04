@@ -29,7 +29,7 @@ This maamar develops the concept of the divine command 'Lech Lecha' as a paradox
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/concealment_for_revelation|Concealment for Revelation]]
+- **Advances**: [[concepts/concealment_for_revelation|Chokhmah Stimaah: Keter's Hidden Wisdom as Cosmic Intermediary]]
 This concept represents a key advance in the hemshech's development.
 
 The redundancy of 'Lech Lecha' is resolved to teach that the journey begins with a self-forgetful departure (lecha m'artzecha) but culminates in the discovery of a true, essential self (lecha).

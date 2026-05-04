@@ -80,4 +80,4 @@ The Rashab identified his own generation — facing modernity's challenges — a
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Ki Tisa: The Soul's Kofer — Counting Through Elevation]]

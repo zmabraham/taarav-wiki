@@ -74,8 +74,8 @@ The Rashab draws an analogy between the Reshimu and *zikaron* (memory) in human 
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330076|076]] — ש"פ נצו"י, תרד"ע
-- [[maamarim/maamar-3601330075|075]] — ש"פ תבוא, תרד"ע
+- [[maamarim/maamar-3601330129|129]] — ש"פ שמות, העת"ר
+- [[maamarim/maamar-3601330079|079]] — ש"פ וילך/שוש"ת, העת"ר
 
 ## Cross-References
 

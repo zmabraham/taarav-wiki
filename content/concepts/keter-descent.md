@@ -28,7 +28,7 @@ This maamar advances the hemshech by establishing how the highest Keter-level li
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/matot-masei-journey-stages|The Stages of Spiritual Journey: From Tribes to Journeys]]
+- **Advances**: [[concepts/chukat-divine-contract|Chukat: The Logic of Divine Decree Beyond Reason]]
 This concept represents a key advance in the hemshech's development.
 
 The parasha's mitzvah demonstrates the mechanism by which Keter's direct light is made to dwell in the physical world.

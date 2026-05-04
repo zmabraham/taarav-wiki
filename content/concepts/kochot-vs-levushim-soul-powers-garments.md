@@ -27,7 +27,7 @@ Maamar Vayishlach (1902-03) constructs the distinction between *kochot ha-nefesh
 
 
 
-- **Advances**: [[concepts/reflection-divine-dwelling|Reflection as Divine Dwelling]]
+- **Advances**: [[concepts/light-integration-divine-service|Dira Betachtonim Realized: How the Soul's Kochot-Levushim Transforms the Cosmic Sefirot]]
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330031|maamar 031]] — Parshat Vayishlach, תער"ג

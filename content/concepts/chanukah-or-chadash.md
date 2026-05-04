@@ -37,7 +37,7 @@ Develops Chanukah light as representing 'Or Chadash' - new light that cannot be 
 
 
 
-- **Advances**: [[concepts/divine-light-infusion|Divine Light Infusion]]
+- **Advances**: [[concepts/locational_divine_revelation|Beha'alotcha: Aaron's Menorah and Pnimiyut HaChochmah]]
 ## Cross-References
 
 - [[index|Main Index]]

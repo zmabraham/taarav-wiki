@@ -40,8 +40,8 @@ See the main overview: [[themes/sefirot-in-taarav|Sefirot in Taarav — Overview
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330136|maamar 136]] — via [[concepts/atzmus-malchut-structured-interface|Atzmus and Malchut: Infinite Will's Structured Interface]]
-- [[maamarim/maamar-3601330103|maamar 103]] — via [[concepts/dual_offering_framework|Dual Offering Framework]]
+- [[maamarim/maamar-3601330103|maamar 103]] — via [[concepts/dual_offering_framework|Orot, Kelim, Levushim, Heikhalot: The Four Categories]]
 - [[maamarim/maamar-3601330094|maamar 094]] — via [[concepts/externalization_inner_light|Externalization of Inner Light]]
 - [[maamarim/maamar-3601330067|maamar 067]] — via [[concepts/hierarchy_of_spatial_divisions|Hierarchy of Spatial Divisions]]
 - [[maamarim/maamar-3601330004|maamar 004]] — via [[concepts/introduces-keter-structure|Introduces Keter Structure]]
-- [[maamarim/maamar-3601330048|maamar 048]] — via [[concepts/judicial_revelation|Judicial Revelation]]
+- [[maamarim/maamar-3601330048|maamar 048]] — via [[concepts/judicial_revelation|Tzedek Tzedek: Double Justice and the Two Gates of Divine Service]]

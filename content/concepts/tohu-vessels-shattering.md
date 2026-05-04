@@ -36,7 +36,7 @@ Explains the cosmic tragedy of Tohu - vessels too narrow to contain the overwhel
 
 
 
-- **Advances**: [[concepts/chukat-divine-contract|Chukat: The Logic of Divine Decree Beyond Reason]]
+- **Advances**: [[concepts/keter-downward-ascent|Keter's Downward Ascent]]
 ## Cross-References
 - [[themes/tohu-and-tikkun/shevirat-hakelim/why-vessels-shattered|Why the Vessels Shattered]]
 - [[themes/tohu-and-tikkun/shevirat-hakelim|Shevirat HaKelim — The Breaking of the Vessels]]

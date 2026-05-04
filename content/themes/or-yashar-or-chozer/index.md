@@ -40,6 +40,6 @@ See the main overview page: [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer �
 - [[maamarim/maamar-3601330014|maamar 014]] — via [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
 - [[maamarim/maamar-3601330141|maamar 141]] — via [[concepts/flood-teiva-or-yashar-chozer|Flood and Teiva: Or Yashar Overwhelming, Or Chozer Preserved]]
 - [[maamarim/maamar-3601330034|maamar 034]] — via [[concepts/divine-light-infusion|Divine Light Infusion]]
-- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Light Integration in Divine Service]]
-- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Ascendent Light Dynamics]]
+- [[maamarim/maamar-3601330031|maamar 031]] — via [[concepts/light-integration-divine-service|Dira Betachtonim Realized: How the Soul's Kochot-Levushim Transforms the Cosmic Sefirot]]
+- [[maamarim/maamar-3601330029|maamar 029]] — via [[concepts/ascendent-light-dynamics|Orot and Kelim as Ayin and Yesh]]
 - [[maamarim/maamar-3601330036|maamar 036]] — via [[concepts/ascent-of-or-chozer|Ascent of Or Chozer]]

@@ -33,7 +33,7 @@ The hemshech's final Shavuot maamarim synthesize the entire conceptual journey -
 
 
 
-- **Advances**: [[concepts/revelation_total_consciousness|The Revelation of Total Consciousness]]
+- **Advances**: [[concepts/revelation_total_consciousness|Matan Torah's Permanent Channel: Or Chozer from Below Reaches the Highest Levels]]
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330117|maamar 117]] — Night of 1st day of Shavuot, העת"ר

@@ -37,7 +37,7 @@ Explores the paradox that divine emanation requires both 'going forth' (exit fro
 
 
 
-- **Advances**: [[concepts/divine-descent-ascent-integration|Divine Descent Ascent Integration]]
+- **Advances**: [[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]
 ## Cross-References
 
 - [[index|Main Index]]

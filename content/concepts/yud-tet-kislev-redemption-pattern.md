@@ -37,7 +37,7 @@ Establishes Yud-Tet Kislev as the paradigm for all redemption - showing how pers
 
 
 
-- **Advances**: [[concepts/essential_kingship_vs_attribute_kingship|Essential vs. Attribute Kingship]]
+- **Advances**: [[concepts/inner_service_revelation|Vayeishev: Yaakov's Desire for Peace and the Necessity of Descent Into Exile]]
 ## Cross-References
 
 - [[index|Main Index]]

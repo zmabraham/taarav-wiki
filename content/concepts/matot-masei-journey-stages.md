@@ -37,7 +37,7 @@ Analyzes the dual nature of Jewish existence - as rooted tribes (matot) and as j
 
 
 
-- **Advances**: [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
+- **Advances**: [[concepts/divine-descent-ascent-integration|Ki Tavo: Three Levels of Encompassing Light — Gift, Inheritance, and Dwelling]]
 ## Cross-References
 
 - [[index|Main Index]]

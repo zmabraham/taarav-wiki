@@ -55,8 +55,8 @@ Neither movement alone is the goal. Both are essential, and their alternation �
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330007|maamar 007]] — via [[concepts/ratzo-veshov-dynamic|Ratzo v'Shov: The Soul's Running and Returning]]
-- [[maamarim/maamar-3601330026|maamar 026]] — via [[concepts/ascent-lower-will|Ascent of Lower Will]]
+- [[maamarim/maamar-3601330026|maamar 026]] — via [[concepts/ascent-lower-will|Tzahar: Light in the Ark as the Model for Or Pnimi Ascending from the Lowest Level]]
 - [[maamarim/maamar-3601330065|maamar 065]] — via [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]]
 - [[maamarim/maamar-3601330055|maamar 055]] — via [[concepts/grace_filled_praise|Grace-Filled Praise]]
 - [[maamarim/maamar-3601330121|maamar 121]] — via [[concepts/ignition_of_conscious_service|Ignition of Conscious Service]]
-- [[maamarim/maamar-3601330093|maamar 093]] — via [[concepts/inner_service_revelation|The Inner Service of Revelation]]
+- [[maamarim/maamar-3601330093|maamar 093]] — via [[concepts/inner_service_revelation|Vayeishev: Yaakov's Desire for Peace and the Necessity of Descent Into Exile]]

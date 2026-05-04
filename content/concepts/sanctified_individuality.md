@@ -1,5 +1,5 @@
 ---
-title: "Sanctified Individuality"
+title: "Pinchas: Chesed-Rooted Gevurah and the Brit Shalom"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "souls-of-israel"
 ---
 
-# Sanctified Individuality
+# Pinchas: Chesed-Rooted Gevurah and the Brit Shalom
 
 ---
 

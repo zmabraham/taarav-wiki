@@ -1,5 +1,5 @@
 ---
-title: "Light Integration in Divine Service"
+title: "Dira Betachtonim Realized: How the Soul's Kochot-Levushim Transforms the Cosmic Sefirot"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "or-yashar-or-chozer"
 ---
 
-# Light Integration in Divine Service
+# Dira Betachtonim Realized: How the Soul's Kochot-Levushim Transforms the Cosmic Sefirot
 
 ---
 
@@ -28,9 +28,16 @@ This maamar advances the discussion by revealing how physical mitzvot actively d
 
 ## Position in the Conceptual Chain
 
+- **Advances**: [[concepts/reflection-divine-dwelling|Reflection as Divine Dwelling]]
+
 This concept represents a key advance in the hemshech's development.
 
 The performance of Torah law is the mechanism that channels the highest divine light into the lowest reality, completing the cosmic circuit of creation.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330031|031]]
 
 ## Cross-References
 

@@ -36,9 +36,9 @@ See the main overview: [[themes/souls-of-israel|Souls of Israel — Overview]]
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Ki Tisa: The Soul's Kofer — Counting Through Elevation]]
 - [[maamarim/maamar-3601330125|maamar 125]] — via [[concepts/counting_the_soul_fragments|Counting the Soul Fragments]]
 - [[maamarim/maamar-3601330021|maamar 021]] — via [[concepts/nitzavim-standing-divine-presence|Nitzavim: Standing Before God and Collective Responsibility]]
 - [[maamarim/maamar-3601330106|maamar 106]] — via [[concepts/synthesis_individual_collective|Synthesis of Individual and Collective]]
 - [[maamarim/maamar-3601330057|maamar 057]] — via [[concepts/aromatic_sanctification|Aromatic Sanctification]]
-- [[maamarim/maamar-3601330073|maamar 073]] — via [[concepts/cognitive_transformation|Cognitive Transformation]]
+- [[maamarim/maamar-3601330073|maamar 073]] — via [[concepts/cognitive_transformation|Pnimiyut HaKli: Inner Vessel Unifies With Light, Outer Vessel Creates]]

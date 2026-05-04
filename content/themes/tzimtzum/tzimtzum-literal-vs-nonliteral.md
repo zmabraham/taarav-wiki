@@ -93,7 +93,7 @@ The resolution of this debate has profound implications for:
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330084|maamar 084]] — via [[concepts/existent_non_existent|Existent Non-Existent]]
+- [[maamarim/maamar-3601330084|maamar 084]] — via [[concepts/existent_non_existent|Bereishit: Two Tzimtzumim of Malchut and Creation as Tohu Before Articulation]]
 - [[maamarim/maamar-3601330033|maamar 033]]
 - [[maamarim/maamar-3601330004|maamar 004]]
 - [[maamarim/maamar-3601330005|maamar 005]]

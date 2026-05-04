@@ -37,7 +37,7 @@ Analyzes teshuva not merely as repentance but as the cosmic mechanism that recti
 
 
 
-- **Advances**: [[concepts/or-mekif-framework|Or Mekif Framework]]
+- **Advances**: [[concepts/keter-incarnation|Keter's Incarnation]]
 ## Cross-References
 
 - [[index|Main Index]]

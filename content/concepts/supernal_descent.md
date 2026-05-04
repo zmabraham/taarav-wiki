@@ -1,5 +1,5 @@
 ---
-title: "Supernal Descent"
+title: "Keter as Memaatze'a: How One Level Bridges the Infinite and the Finite"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Supernal Descent
+# Keter as Memaatze'a: How One Level Bridges the Infinite and the Finite
 
 ---
 
@@ -33,6 +33,11 @@ This maamar articulates the concept of divine descent, explaining that the expre
 This concept represents a key advance in the hemshech's development.
 
 The difficulty with 'Shir Hama'alot' is resolved to teach that the Shabbat service facilitates a divine descent, where the infinite becomes manifest within the finite vessel of the day.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330052|052]]
 
 ## Cross-References
 

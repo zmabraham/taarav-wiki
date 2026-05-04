@@ -1,5 +1,5 @@
 ---
-title: "Primordial Foundation"
+title: "Avot as Foundation: Cause-and-Effect Where Effect Is Outgrowth, Not Other"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Primordial Foundation
+# Avot as Foundation: Cause-and-Effect Where Effect Is Outgrowth, Not Other
 
 ---
 

@@ -70,6 +70,7 @@ This elegant symmetry shows how the cosmic light-dynamics and the experiential s
 
 ## Cross-References
 
+- [[themes/ratzo-veshov/index|Ratzo v'Shov — Subtopics Index]]
 - [[themes/or-yashar-or-chozer|Or Yashar v'Or Chozer]]
 - [[themes/souls-of-israel|Souls of Israel]]
 - [[themes/yechida|Yechida]]
@@ -86,7 +87,7 @@ This elegant symmetry shows how the cosmic light-dynamics and the experiential s
 These 24 concept nodes develop this theme across the hemshech:
 
 - [[concepts/aromatic_sanctification|Aromatic Sanctification]] — [[maamarim/maamar-3601330057|maamar 057]]
-- [[concepts/ascent-lower-will|Ascent of Lower Will]] — [[maamarim/maamar-3601330026|maamar 026]]
+- [[concepts/ascent-lower-will|Tzahar: Light in the Ark as the Model for Or Pnimi Ascending from the Lowest Level]] — [[maamarim/maamar-3601330026|maamar 026]]
 - [[concepts/bikurim-or-chozer-culmination|Bikurim: Or Chozer's Culminating Ascent]] — [[maamarim/maamar-3601330133|maamar 133]]
 - [[concepts/cultivation_divine_desire|Cultivation of Divine Desire]] — [[maamarim/maamar-3601330108|maamar 108]]
 - [[concepts/divine_service_as_uplifting|Divine Service as Uplifting]] — [[maamarim/maamar-3601330065|maamar 065]]
@@ -94,7 +95,7 @@ These 24 concept nodes develop this theme across the hemshech:
 - [[concepts/grace_filled_praise|Grace-Filled Praise]] — [[maamarim/maamar-3601330055|maamar 055]]
 - [[concepts/humility_divine_vessel|Humility as Divine Vessel]] — [[maamarim/maamar-3601330091|maamar 091]]
 - [[concepts/ignition_of_conscious_service|Ignition of Conscious Service]] — [[maamarim/maamar-3601330121|maamar 121]]
-- [[concepts/inner_service_revelation|The Inner Service of Revelation]] — [[maamarim/maamar-3601330093|maamar 093]]
+- [[concepts/inner_service_revelation|Vayeishev: Yaakov's Desire for Peace and the Necessity of Descent Into Exile]] — [[maamarim/maamar-3601330093|maamar 093]]
 - [[concepts/matot-masei-journey-stages|The Stages of Spiritual Journey: From Tribes to Journeys]] — [[maamarim/maamar-3601330018|maamar 018]]
 - [[concepts/one-desire-divine-dwelling|The One Singular Desire: Dwelling in God's House]] — [[maamarim/maamar-3601330132|maamar 132]]
 - [[concepts/praise_transformative_force|Praise as Transformative Force]] — [[maamarim/maamar-3601330096|maamar 096]]

@@ -1,5 +1,5 @@
 ---
-title: "Transcendental Vision"
+title: "Torah as Or Ein Sof's Channel Through the Sefirot: Moshe's Vision of the Land"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Transcendental Vision
+# Torah as Or Ein Sof's Channel Through the Sefirot: Moshe's Vision of the Land
 
 ---
 
@@ -33,6 +33,11 @@ The concept that the highest form of spiritual perception is not about seeing a 
 This concept represents a key advance in the hemshech's development.
 
 Moses's request to 'see the land' is interpreted not as a desire for geography but as a profound request for a transcendent vision that would allow him to perceive the land's spiritual reality, a request that fundamentally alters the nature of perception.
+
+
+## Related Maamarim
+
+- [[maamarim/maamar-3601330046|046]]
 
 ## Cross-References
 

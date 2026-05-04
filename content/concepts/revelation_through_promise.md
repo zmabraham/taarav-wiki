@@ -1,5 +1,5 @@
 ---
-title: "Revelation Through Promise"
+title: "Va'era: The New Disclosure of Havaya vs. El Shaddai"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "ohr-ein-sof"
 ---
 
-# Revelation Through Promise
+# Va'era: The New Disclosure of Havaya vs. El Shaddai
 
 ---
 
@@ -29,7 +29,7 @@ This maamar presents the idea that divine revelation is not arbitrary but is con
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/deliberate_descent|The Concept of a Deliberate Descent]]
+- **Advances**: [[concepts/deliberate_descent|Bo El Paro: Or Pnimi Liberates by Entering Klipa from Within, Not From Without]]
 This concept represents a key advance in the hemshech's development.
 
 The name 'Elokim' revealed at the burning bush signifies a mode of divinity that is revealed in accordance with the covenant and promises made to the Patriarchs.

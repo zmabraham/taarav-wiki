@@ -36,7 +36,7 @@ Develops the concept of chok (statute) as representing divine wisdom that transc
 
 
 
-- **Advances**: [[concepts/keter-downward-ascent|Keter's Downward Ascent]]
+- **Advances**: [[concepts/descending-keter-or-yashar|Descending Keter Through Or Yashar]]
 ## Cross-References
 
 - [[index|Main Index]]

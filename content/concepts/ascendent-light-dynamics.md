@@ -1,5 +1,5 @@
 ---
-title: "Ascendent Light Dynamics"
+title: "Orot and Kelim as Ayin and Yesh"
 tags:
   - concepts
   - taarav
@@ -7,7 +7,7 @@ tags:
 primary_theme: "or-yashar-or-chozer"
 ---
 
-# Ascendent Light Dynamics
+# Orot and Kelim as Ayin and Yesh
 
 ---
 

@@ -77,4 +77,4 @@ The study of *Torat HaSod* (the hidden dimension of Torah, including Chassidus) 
 
 ## Related Maamarim
 
-- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Soul's Exodus Process]]
+- [[maamarim/maamar-3601330105|maamar 105]] — via [[concepts/souls_exodus_process|Ki Tisa: The Soul's Kofer — Counting Through Elevation]]

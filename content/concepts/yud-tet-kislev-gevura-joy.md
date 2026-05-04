@@ -37,7 +37,7 @@ Develops the paradox that true joy emerges from Gevura - the constriction that p
 
 
 
-- **Advances**: [[concepts/inner_service_revelation|The Inner Service of Revelation]]
+- **Advances**: [[concepts/legal_framework_divine_structure|Machatzit HaShekel: The Half-Shekel as the Structure of Or Chozer]]
 ## Cross-References
 
 - [[index|Main Index]]

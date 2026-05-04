@@ -37,7 +37,7 @@ Returns to Sinai to analyze the inner mechanism of how the soul receives Torah -
 
 
 
-- **Advances**: [[concepts/locational_divine_revelation|Locational Divine Revelation]]
+- **Advances**: [[concepts/supernal_descent|Keter as Memaatze'a: How One Level Bridges the Infinite and the Finite]]
 ## Cross-References
 
 - [[index|Main Index]]

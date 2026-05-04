@@ -29,7 +29,7 @@ The principle that divinely ordained statutes operate on a plane of consciousnes
 ## Position in the Conceptual Chain
 
 
-- **Advances**: [[concepts/primordial_foundation|Primordial Foundation]]
+- **Advances**: [[concepts/primordial_foundation|Avot as Foundation: Cause-and-Effect Where Effect Is Outgrowth, Not Other]]
 This concept represents a key advance in the hemshech's development.
 
 The analysis of the law of the red heifer introduces the conceptual advance that certain divine commands are 'statutes' whose primary purpose is to establish a connection with a supernal reality that cannot be logically derived from observable reality.

@@ -37,7 +37,7 @@ Develops the concept of kehuna (priesthood) as the mechanism that channels divin
 
 
 
-- **Advances**: [[concepts/souls_exodus_process|Soul's Exodus Process]]
+- **Advances**: [[concepts/time_as_spiritual_space|Time as Spiritual Space]]
 ## Cross-References
 
 - [[index|Main Index]]

@@ -28,7 +28,7 @@ Maamar Shoftim (1901-02) draws a precise distinction between two modes of divine
 
 
 
-- **Advances**: [[concepts/ketzitz-creation-paradox|Ki Tetze: Going Forth and the Creative Paradox]]
+- **Advances**: [[concepts/matot-masei-journey-stages|The Stages of Spiritual Journey: From Tribes to Journeys]]
 ## Related Maamarim
 
 - [[maamarim/maamar-3601330017|maamar 017]] — Parshat Shoftim, תער"ב
