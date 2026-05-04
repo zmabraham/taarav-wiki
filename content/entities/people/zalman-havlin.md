@@ -38,9 +38,19 @@ After the Rashab's death in 1920, Rabbi Havlin reconstituted Toras Emes in **Jer
 
 ---
 
+## Fundraising Trip to America (1928)
+
+In late spring of 5688 (1928), R' Shlomo Zalman Havlin came to America together with the yeshiva's Rosh Mesivta, R' Moshe DovBer Rivkin, to establish a stable American fundraising base for Toras Emes. The yeshiva's American support had been declining as the newly founded Agudas Chassidei Chabad directed donations toward the Rayatz's own institutions (Tomchei Temimim in Warsaw and the Rebbe's maamad).
+
+They stopped in Riga to receive the Rayatz before continuing to New York, where R' Yisrael Jacobson hosted them at his home. R' Shlomo Zalman was described by Jacobson as "a warmhearted, lovable, Chassidic Jew" (_a varimer hartziger chasidisher yid_) whose personal charm drew people to him. He had been educated by the venerable Chassid R' Hendl Kugel (of the Kugel family from Pleshchenitsy).
+
+The visit involved extensive negotiations with the leadership of Agudas Chassidei Chabad about whether Toras Emes should raise money independently or under the umbrella organization. R' Shlomo Zalman organized fundraising events at several shuls in Brooklyn, including a Shavuot gathering at Anshei Lubavitch on Watkins Street, Brownsville — presided over by its rav R' Tzvi Hirsch Dachavitch. He also organized events in other boroughs and eventually traveled across American cities.
+
+R' Shlomo Zalman's visit reawakened and warmed up a number of Temimim who had drifted from Chabad life — his personal warmth and the memories of Lubavitch his presence evoked drew many back toward Chassidic observance.
+
 ## Significance
 
-Rabbi Zalman Havlin's mission represents an early and significant expression of [[concepts/shlichus|shlichus]] — the concept of being sent as an emissary to accomplish a specific mission on behalf of the Rebbe. His willingness to leave Russia and establish an institution in the challenging environment of early twentieth-century Palestine required considerable personal sacrifice and faith.
+Rabbi Shlomo Zalman Havlin's career spans two continents and the major institutional phases of Chabad in the 20th century. He built and sustained Toras Emes through the turbulent transition from Czarist Russia, through WWI, through the British Mandate period — first in Hebron, then in Jerusalem. His 1928 America trip represents the early efforts to build a transatlantic support structure for Chabad institutions in Eretz Yisrael at a time when the American Chabad community was still tiny and disorganized.
 
 ---
 

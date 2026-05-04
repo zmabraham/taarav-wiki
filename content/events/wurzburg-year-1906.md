@@ -76,12 +76,43 @@ The Rashab returned to Lubavitch after Shavuot 5667 (1907), leaving Germany with
 
 ---
 
+## The Philanthropy Company
+
+During the Würzburg year, the Rashab organized a practical institutional mechanism: a formally registered German **Aktiengesellschaft** (joint-stock company) called "Philanthropy" — designed to provide a legal German corporate structure through which funds could support the [[concepts/tomchei-temimim|Tomchei Temimim]] yeshiva network in Russia without triggering Czarist suspicion of foreign funding.
+
+Two German Jewish businessmen served as directors. One was **Eliyakim (Philip) Wolf** — the Rashab's Würzburg host — who provided not only hospitality but active practical support for Chabad's institutional continuity.
+
+---
+
+## The Rashab's Würzburg Residences
+
+The Rashab lived at two addresses during his Würzburg stay:
+1. **Allee Str. 20** — his initial residence upon arrival
+2. **Sandre Glassis Str. 41** — the home of Eliyakim (Philip) Wolf, where he spent most of the year
+
+---
+
+## Michael Cohen of Fulda
+
+The Würzburg year also saw the Rashab meet **Rabbi Michael HaKohen of Fulda** — a meeting that initiated one of his warmest personal relationships among German rabbis. The two men formed a genuinely close friendship during and after the Würzburg period, documented in the warm personal tone of the Rashab's subsequent letters to Rabbi Michael.
+
+---
+
+## Shlomo Zalman Breuer in Frankfurt
+
+During the winter of 5667 (1906-07), the Rashab traveled to Frankfurt specifically to meet **Rabbi Shlomo Zalman Breuer** — his collaboration on the "Histaadus HaYereim" plan took place partly during in-person meetings and partly through ongoing correspondence.
+
+---
+
 ## Related Pages
 
 - [[entities/people/rebbe-rashab|Rebbe Rashab]]
 - [[entities/people/rayatz|Rayatz]] — joined his father in December 1906
 - [[entities/people/shlomo-zalman-breuer|Rabbi Shlomo Zalman Breuer]]
 - [[entities/people/yaakov-rosenheim|Rabbi Yaakov Rosenheim]]
+- [[entities/people/michael-hakohen-fulda|Rabbi Michael HaKohen of Fulda]] — warm friendship formed here
+- [[entities/people/eliyakim-wolf|Eliyakim Wolf]] — the Rashab's Würzburg host and Philanthropy company director
 - [[entities/places/germany|Germany]]
+- [[entities/places/wurzburg|Würzburg]] — the place page
 - [[events/poalei-tzion-confrontation-1906|Poalei Tzion Confrontation (1906)]]
 - [[summaries/chabad-germany|Chabad Rebbes and German Jewry]]

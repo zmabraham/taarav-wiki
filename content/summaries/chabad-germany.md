@@ -55,9 +55,31 @@ Part Four documents the Rashab's sustained correspondence with several German ra
 
 ---
 
+### German Jewish Intervention to Free the Rayatz (1927)
+
+Before the Rayatz settled in Berlin, German Jewry played a decisive role in securing his release from Soviet imprisonment. When the Rayatz was arrested and sentenced to death in June 1927, an extraordinary cross-denominational coalition intervened:
+
+- **Rabbi Dr. Meir Hildesheimer** (head of the Orthodox Berlin Rabbinical Seminary) and **Dr. Leo Baeck** (leader of Berlin Liberal Jewry) — leaders from opposite religious poles — **jointly petitioned** Dr. Oskar Cohn to use his political connections
+- **Dr. Oskar Cohn** (a Jewish socialist Reichstag member) met with Foreign Minister **Stresemann** and Vice-Reichskanzler **Weissmann**, who in turn pressured Soviet Ambassador Krestinsky
+- Cohn also contacted Soviet Foreign Commissar **Chicherin** — his personal friend — directly
+- The **Frankfurt Orthodox community** sent a formal rabbinical appointment letter to provide a face-saving rationale for Soviet release
+- The Rayatz was freed on 12–13 Tammuz 5687 (July 1927)
+
+After liberation, the Rayatz's first letter from Riga specifically thanked Meir Hildesheimer. When the Rayatz arrived in Berlin in Kislev 5688 (December 1927), he personally visited Vice-Reichskanzler Weissmann to express gratitude.
+
 ### The Rayatz in Berlin (1928–1933)
 
 After escaping Soviet Russia in 1927, the Rayatz settled in **Berlin** from 1928 to 1933. The book documents this crucial period when Chabad's center temporarily relocated to Germany's capital — perhaps the most culturally and politically charged location for a Jewish religious leader in the late Weimar Republic.
+
+Key documented episodes from the Berlin years include:
+
+- **Kislev 5688 (December 1927)**: Rayatz arrived in Berlin for JDC budget meetings to arrange support for Russian Jews; attended by Hildesheimer, Dr. Razin, Dr. Cohn, and Reb Shmaryahu Gurary
+- **Shvat 5688 (early 1928)**: Meeting with Rabbi Meir Munk (son of Rabbi Azriel Munk) in Berlin
+- **Adar II 5689 (1929)**: Berlin conference for Passover matzah campaign for Russian Jews — delegates from London, Basel, Vienna, Frankfurt, Hamburg, Warsaw
+- **Tammuz 5689 (1929)**: The Rayatz journeyed to Eretz Yisrael via Berlin — the future Rebbe and Chaya Mushka met him at the Berlin station (documented in his diary)
+- **Tammuz 5690 (1930)**: Rayatz returned from America to Berlin; the future Rebbe and Chaya Mushka again met at the station
+- **Tisha B'Av 5690**: The future Rebbe kept a detailed diary entry about Tisha B'Av spent with the Rayatz in Berlin
+- **Tevet 5693 (winter 1932–33)**: Rayatz spent 2+ months in a Berlin sanatorium; "only my middle son-in-law [the future Rebbe] came to me daily at a fixed time"
 
 ---
 
@@ -108,6 +130,14 @@ The Germany volume reveals Chabad's engagement with the most consequential tensi
 - [[entities/people/rebbe-rashab|Rebbe Rashab]] — the primary figure in Parts 1–5
 - [[entities/people/rayatz|Rayatz]] — Berlin period 1928–1933
 - [[events/chabad-germany-history|Chabad's Historical Role in German Jewry]] — detailed event page
+- [[events/wurzburg-year-1906|Rashab's Year in Würzburg (1906–1907)]] — detailed event page
+- [[events/german-jewish-intervention-1927|German Jewish Intervention to Free the Rayatz (1927)]] — cross-denominational coalition
+- [[events/berlin-memorial-plaque-2001|Berlin Memorial Plaque (2001)]] — honoring the Rebbe's Berlin residence
 - [[events/holocaust-chabad|Chabad and the Holocaust]] — the destruction of German Jewry
+- [[entities/people/meir-hildesheimer|Rabbi Meir Hildesheimer]] — key Berlin Orthodox figure
+- [[entities/people/leo-baeck|Dr. Leo Baeck]] — Berlin Liberal leader who helped free the Rayatz
+- [[entities/people/oskar-cohn|Dr. Oskar Cohn]] — German politician who interceded for the Rayatz
+- [[entities/people/yechiel-yaakov-weinberg|Rabbi Yechiel Yaakov Weinberg]] — head of Berlin seminary during Rayatz's Berlin years
+- [[entities/people/eliyakim-wolf|Eliyakim Wolf]] — Rashab's Würzburg host
 - [[concepts/shlichus|Shlichus]] — the contemporary Berlin shlichus as culmination
 - [[concepts/mesirus-nefesh|Mesirus Nefesh]] — the Rashab's self-sacrifice in Russia; the chassidim's post-war renewal work

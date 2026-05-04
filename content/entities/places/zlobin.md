@@ -1,40 +1,44 @@
 ---
-title: "Zlobin — Shusterman's Hometown"
-tags: [place, belarus, zlobin, shusterman, mitteler-rebbe-wedding]
-aliases: []
+title: "Zlobin — Chabad Presence"
+tags:
+  - places
+  - russia
+  - belarus
+  - gomel-region
 ---
+# Zlobin (Zhlobin)
 
-# זלאבין — Zlobin
-
-**Location**: Belarus, between Gomel and Bobruisk  
-**Character**: Small Belarusian town with Chabad historical connection  
-**Chabad significance**: Birthplace of memoirist M. Shusterman; site of a notable Mitteler Rebbe family wedding
-
----
+**Town in White Russia (present-day Belarus); Chassidic community notable for hosting the legendary Schneersohn-Twersky "Great Wedding"; site of Tomchei Temimim branch during Soviet era**
 
 ## Overview
 
-Zlobin is a town in eastern Belarus situated between [[entities/places/homel|Gomel]] and Bobruisk on the Dnieper River corridor. Though a small provincial town, it carries two distinct marks of Chabad historical significance: it was the birthplace of the memoirist M. Shusterman, and it was the site of an important Chabad dynastic wedding.
+Zlobin (Zhlobin; Yiddish: זלאבין Zlabin) is a town in central Belarus situated at the confluence of roads between Homel to the east, Bobruisk to the west, Rogachev to the north, and the Volhynia region to the south. Its Jewish community maintained a strong Chassidic character into the Soviet period.
 
----
+## Chabad Presence
 
-## The Mitteler Rebbe's Wedding Connection
+### The Great Wedding
 
-The memoir _Lemaan Yede'u Banim Yivaledu_ opens with M. Shusterman noting that his hometown of Zlobin was the site of a famous wedding: the **daughter of the [[entities/people/mitteler-rebbe|Mitteler Rebbe]] married a grandson of [[entities/people/levi-yitzchak-berditchev|R' Levi Yitzchak of Berditchev]]** there. This dynastic connection — linking the Chabad Rebbe's family with the Berditchever Chassidic dynasty — was a notable event in early nineteenth-century Chassidic history.
+Zlobin is notable in Chabad history as the site of the celebrated "Grosse Chasene" (Great Wedding) — a wedding that united the Schneersohn (Chabad) and Twersky (Berditchev/R' Levi Yitzchak) families. According to tradition, the Alter Rebbe and R' Levi Yitzchak of Berditchev were mechutanim (in-laws by virtue of a marriage between their families). The wedding was held in Zlobin because of its central location between Liadi (the Alter Rebbe's residence) and Berditchev. This event was famous and generated many stories.
 
-The fact that Shusterman begins his memoirs with this connection anchors his personal story in Chabad dynastic history and establishes the historical depth of his hometown's Jewish life.
+### Nine Synagogues
 
----
+The Shusterman memoir describes Zlobin in the 1920s as having nine synagogues — all using Nusach Ari — including the "Karmer shul," "di grosse shul," "di Misnagdishe shul," and others. Even the so-called "Misnagdishe shul" used Nusach Ari by this time, reflecting how thoroughly Chassidic influence had penetrated Zlobin's Jewish life.
 
-## M. Shusterman's Birthplace
+### Tomchei Temimim Branch
 
-M. Shusterman, author of _Lemaan Yede'u Banim Yivaledu_ (Book 7 of the Mesibbv L'Chassidus series), was born in Zlobin on **1 Elul 5674 (1914)**. His memoir traces his journey from this Belarusian town through underground yeshiva study, WWII in Samarkand, escape to Western Europe, and eventual settlement in America where he worked as a printer for Chabad publications at [[entities/places/770|770 Eastern Parkway]].
+During the Soviet era (c. 1920s), Zlobin hosted a branch of Tomchei Temimim yeshiva. This underground yeshiva continued despite Soviet persecution, with students traveling to the clandestine sessions.
 
----
+### Notable Figures
 
-## Related Pages
+- **R' Yeruchamiel Binyaminzon** — served as rabbi of Zlobin and later moved to Riga
+- **R' Moshe Akselrad** — earlier rabbi in Zlobin, later rabbi of Sorazh (where he founded a small yeshiva)
+- **M. Shusterman** — born in Zlobin 1914; memoirist of Chabad Soviet-era life
 
-- [[entities/people/mitteler-rebbe|Mitteler Rebbe]] — family wedding held in Zlobin
-- [[entities/people/levi-yitzchak-berditchev|Rabbi Levi Yitzchak of Berditchev]] — the wedding's other dynasty
-- [[entities/places/homel|Homel]] — nearby major city
-- [[summaries/lemaan-yedau|Lemaan Yede'u Banim Yivaledu]] — primary source
+## Sources
+
+- [[summaries/lmaan-yadau|Lmaan Yadau Banim Yivaledu]]
+
+## Cross-References
+
+- [[entities/people/m-shusterman|M. Shusterman]]
+- [[events/soviet-underground|Soviet Underground Chabad]]

@@ -102,6 +102,17 @@ Several governments applied pressure on the Soviet Union:
 - **Mordechai Dubin**, a Latvian Jewish parliamentarian and Chabad supporter, traveled to Moscow to personally negotiate with Soviet officials
 - Various diplomatic back-channels were activated through Jewish community connections
 
+### The German Jewish Intervention
+
+Berlin Jewry played a particularly effective role, documented in the Chabad-Germany volume:
+
+- **Rabbi Dr. Meir Hildesheimer** (head of the Orthodox Berlin Rabbinical Seminary) and **Dr. Leo Baeck** (leader of Liberal/Reform Berlin Jewry) — in an extraordinary act of cross-denominational solidarity — jointly petitioned **Dr. Oskar Cohn** (a Jewish socialist Reichstag member)
+- Cohn met with Foreign Minister **Stresemann** and Vice-Reichskanzler **Weissmann**, who pressured Soviet Ambassador **Krestinsky** in Berlin
+- Cohn also personally contacted Soviet Foreign Commissar **Chicherin** — his personal friend — to intervene directly
+- The **Frankfurt Orthodox community** sent the Rayatz a formal rabbinical appointment letter — providing a face-saving rationale for Soviet release
+
+See [[events/german-jewish-intervention-1927|German Jewish Intervention to Free the Rayatz (1927)]] for full detail.
+
 ### The Role of Mordechai Dubin
 
 [[entities/people/mordechai-dubin|Mordechai Dubin]], a member of the Latvian Saeima (parliament) and a devoted Chabad chassid, played a pivotal role. He traveled to Moscow, leveraged his diplomatic status, and negotiated directly with Soviet officials. His intervention is credited as one of the decisive factors in securing the commutation and eventual release.
