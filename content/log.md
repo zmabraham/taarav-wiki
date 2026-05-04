@@ -5,6 +5,44 @@ tags: [log]
 
 # Activity Log
 
+## [2026-05-04] expand | מאסר וגאולת אדמו"ר האמצעי — 19 new pages from Imprisonment and Liberation of the Mitteler Rebbe
+
+Comprehensive expansion from *מאסר וגאולת אדמו"ר האמצעי* (Imprisonment and Liberation of the Mitteler Rebbe), the primary documentary source on the 1825–1828 legal case against Rabbi DovBer Schneuri. Added detailed coverage of investigation officers, witnesses, locations, legal framework, and key events in the arrest, trial, and liberation.
+
+**4 new event pages**:
+
+- `events/simcha-kissin-denunciations-1825.md` — The three denunciations (June–July 1825) that triggered the investigation; detailed breakdown of accusations, evidence, and Kissin's story of obtaining documents from Pinchas Shik's estate
+- `events/yud-kislev-liberation-1826.md` — Liberation on 9–10 Kislev 5587; significance of the date coinciding with birth and yahrzeit; legal path through four levels of Russian imperial courts
+- `events/mitteler-rebbe-acquittal-1827.md` — Complete exoneration by Imperial Senate (1827–1828); multi-level judicial process; legal victory establishing voluntary religious support under Czarist law
+- `events/khavanski-senate-appeal-1827.md` — Governor Khavanski's appeal to the Imperial Senate (15 May 1827); his proposed new legislation to restrict rabbinic authority; Senate's rejection and final defeat
+
+**3 new concept pages**:
+
+- `concepts/maavad.md` — Chassidic financial support system; voluntary donations vs. fixed salary; the Rebbe's one-third share; 1814 special distribution; investigation testimony
+- `concepts/malshin-informers.md` — Jewish informers (malshinim) in Czarist Russia; motivations (personal grievance, ideological opposition, financial incentive); legal framework for denunciations
+- `concepts/jewish-statute-1804.md` — Russian Imperial Jewish Statute of 1804; Sections 49–52 governing rabbinic authority and compensation; application to the Mitteler Rebbe case
+
+**6 new people pages**:
+
+- `entities/people/pinchas-shik.md` — Senior chassid, trusted treasurer for Alter Rebbe and Mitteler Rebbe; custodian of 35,000-ruble family relief fund (1814); death before 1825 led to estate documents falling into informer's hands
+- `entities/people/zalman-slonim-shklov.md` — Witness brought from Shklov; detailed testimony about maavad operations; brother-in-law of Pinchas Shik
+- `entities/people/shlomo-freydes-shklov.md` — Fellow witness from Shklov; merchant of Mogilev, resident of Shklov; testified about voluntary nature of donations
+- `entities/people/loginov.md` — Polkovnik (Colonel) Loginov; one of Governor Khavanski's two primary investigating officers
+- `entities/people/markov-investigator.md` — Court Counselor Markov; civilian counterpart to Loginov; 7th rank in Russian Table of Ranks
+- `entities/people/morozov-investigator.md` — Major Morozov; third investigator; less prominent in surviving documents
+- `entities/people/yehuda-yafeh-kapust.md` — Printer in Kapust; official Russian-language translator for Mitteler Rebbe during investigation; signed Russian documents on Rebbe's behalf
+- `entities/people/volasenko.md` — Leib-Gvardia Captain; sent to bring R' Aharon HaLevi of Staroselye to Vitebsk; travel expenses became administrative dispute
+
+**4 new place pages**:
+
+- `entities/places/orsha.md` — City in Mogilev gubernia; one of communities interrogated about maavad
+- `entities/places/karlsbad.md` — Spa town in Bohemia; Mitteler Rebbe took health cure here during summer 1825 while Kissin filed denunciations
+- `entities/places/babinovich-district.md` — Judicial district including Lubavitch; court that mishandled case, leading to transfer to Mogilev Supreme Court
+
+All pages cite `[[summaries/masar|Imprisonment and Liberation of the Mitteler Rebbe]]` as primary source. Cross-references link people, places, events, and legal concepts to existing wiki pages.
+
+---
+
 ## [2026-05-04] expand | תולדות חב"ד בפולין, ליטא ולטביא — 38 new pages from Chabad History in Poland, Lithuania, Latvia
 
 Systematic expansion from *תולדות חב"ד בפולין, ליטא ולטביא* (Chabad History in Poland, Lithuania, Latvia). Focused on Lithuanian and Latvian Chabad communities: early Mitnagdic period (late 18th century), interwar rabbinic network, traveling mashpiim, and martyred leaders. Also added key events from the Rayatz's Riga years and his visits to the region.

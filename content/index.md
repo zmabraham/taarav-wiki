@@ -473,6 +473,7 @@ A knowledge wiki built from 14 primary Chabad history books using the Karpathy L
 - [[events/chabad-in-lubavitch-1813|Chabad Moves to Lubavitch (1813)]]
 - [[events/simcha-kissin-denunciations-1825|Simcha Kissin's Denunciations (June–July 1825)]]
 - [[events/arrest-mitteler-rebbe|Arrest and Liberation of the Mitteler Rebbe (1826)]]
+- [[events/yud-kislev-liberation-1826|Yud Kislev — Liberation of the Mitteler Rebbe (1826)]]
 - [[events/hebron-community-1823|Hebron Jewish Community and Chabad (1823)]]
 - [[events/hebron-pogrom-1834|Hebron Pogrom (1834)]]
 - [[events/cantonist-decrees|Cantonist Decrees — Chabad's Response (1827–1856)]]
