@@ -5,7 +5,9 @@ tags: [index]
 
 # תולדות חב״ד — Chabad History Wiki
 
-A knowledge wiki built from 14 primary Chabad history books using the Karpathy LLM Wiki approach: sources are ingested once, synthesized into structured interlinked pages, and refined incrementally.
+A comprehensive knowledge wiki covering all of Chabad history — from the founding of Chassidus in 1745 through the present day. Built from 14+ primary sources, 5,900+ cross-referenced pages, and ongoing research.
+
+**6,900+ pages** · 828 biographies · 4,923+ events · 258 places · 14+ source books
 
 ---
 

@@ -1,0 +1,49 @@
+---
+title: "White Russia (Byelorussia)"
+type: entity
+entity_type: place
+place_type: region
+page_id: 63
+slug: L063-white-russia-byelorussia
+region: "Russia/Belarus"
+created: 2026-04-30
+updated: 2026-04-30
+tags: [place, region, chabad-history]
+---
+
+# White Russia (Byelorussia)
+
+> Region in Russia/Belarus — significant in Chabad history
+
+## Overview
+
+Historical region where Chabad Chasidism first took root. Home to Lubavitch, Liadi, Vitebsk.
+
+## Significance in Chabad History
+
+**White Russia (Byelorussia)** plays a role in the history of Chabad Chasidism as documented in the primary sources (Undaunted, A Prince in Prison, The Heroic Struggle, Toldot Chabad).
+
+## Geographic Context
+
+- **Type:** Region
+- **Region/Country:** Russia/Belarus
+
+## Key Events Here
+
+*(See linked events for details)*
+
+## Notable Figures Associated
+
+*(See people pages for figures connected to this location)*
+
+## Connections
+
+- [[E001-rayatz]] — Sixth Rebbe, many connections to this location
+- [[L001-lubavitch]] — Chabad's original capital
+
+## Sources
+
+- Undaunted (primary biography of the Rayatz)
+- A Prince in Prison (S017)
+- The Heroic Struggle (S018)
+- Toldot Chabad sources

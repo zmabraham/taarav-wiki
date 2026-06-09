@@ -1,0 +1,47 @@
+---
+title: "entire conference was about to be nullified, finally put ..."
+type: entity
+entity_type: event
+event_type: gathering
+page_id: 3370
+slug: EV3370-entire-conference-was-about-to-be-nullified-finally-put
+year: "Unknown"
+all_dates: "Not specified"
+locations: "Not specified"
+created: 2026-04-30
+updated: 2026-04-30
+tags: [event, gathering, chabad-history]
+source_file: "S018-the-heroic-struggle.txt"
+source_line: 14248
+---
+
+# Gathering & Farbrengen: entire conference was about to be nullified, finally put ...
+
+> Gathering & Farbrengen — Year: Unknown | Source: The Heroic Struggle (S018)
+
+## Overview
+
+**Event Type:** Gathering & Farbrengen
+**Year/Date:** Not specified
+**Location(s):** Not specified
+**People mentioned:** Not specified
+
+**Section/Chapter:** participation or agreement. I have also been told that the
+
+## Description
+
+entire conference was about to be nullified, finally put their
+
+## Source Context
+
+- **Source:** The Heroic Struggle (S018)
+- **Line:** 14248
+- **Chapter/Section:** participation or agreement. I have also been told that the
+
+## Connections
+
+- [[E001-rayatz]] — Sixth Rebbe, central to this period
+
+## Sources
+
+- The Heroic Struggle (S018) (line 14248)

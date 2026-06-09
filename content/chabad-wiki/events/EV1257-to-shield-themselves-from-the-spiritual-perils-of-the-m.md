@@ -1,0 +1,47 @@
+---
+title: "To shield themselves from the spiritual perils of the modern"
+type: entity
+entity_type: event
+event_type: movement
+page_id: 1257
+slug: EV1257-to-shield-themselves-from-the-spiritual-perils-of-the-m
+year: "Unknown"
+all_dates: "Not specified"
+locations: "Not specified"
+created: 2026-04-30
+updated: 2026-04-30
+tags: [event, movement, chabad-history]
+source_file: "undaunted/01-chapter1.txt"
+source_line: 378
+---
+
+# Travel & Movement: To shield themselves from the spiritual perils of the modern
+
+> Travel & Movement — Year: Unknown | Source: Undaunted — Ch.1: Lubavitch
+
+## Overview
+
+**Event Type:** Travel & Movement
+**Year/Date:** Not specified
+**Location(s):** Not specified
+**People mentioned:** Not specified
+
+**Section/Chapter:** Chapter Five
+
+## Description
+
+To shield themselves from the spiritual perils of the modern world, some religious Jews moved inward, erecting barriers and disassociating from the outside world – in a sense, creating their own society within the broader society. Others chose to integrate into the wider culture while retaining a sense of Jewish identity, still following a modicum of tradition. Some chose the path of complete assimilation, abandoning Jewish observance altogether. Others became adherents, and even leaders, of the
+
+## Source Context
+
+- **Source:** Undaunted — Ch.1: Lubavitch
+- **Line:** 378
+- **Chapter/Section:** Chapter Five
+
+## Connections
+
+- [[E001-rayatz]] — Sixth Rebbe, central to this period
+
+## Sources
+
+- Undaunted — Ch.1: Lubavitch (line 378)

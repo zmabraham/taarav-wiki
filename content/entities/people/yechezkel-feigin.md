@@ -1,51 +1,29 @@
 ---
-title: "Rabbi Yechezkel Feigin"
-tags: [person, soviet-era, holocaust-victim, rayatz-secretary]
-aliases: []
+title: "Rabbi Yechezkel Feigin הי\"ד"
+tags: [person, chabad, secretary, holocaust, martyr, riga, hyd]
+aliases: ["יחזקאל פייגין", "R' Feigin", "Chatche Feigin"]
+sources: [poland-lita-latvia]
 ---
 
-# Rabbi Yechezkel Feigin
+# Rabbi Yechezkel Feigin הי"ד
 
-**Born**: c. 1895  
-**Died**: c. 1942–1944 (Holocaust)  
-**Role**: Close confidant and secretary of the [[entities/people/rayatz|Rayatz]]; killed in the Holocaust
+Secretary to [[entities/people/rayatz-yosef-yitzchak-schneersohn]] (Rayatz). Among the most trusted members of Rayatz's inner circle.
 
----
+## Role as Secretary
 
-## Overview
+R' Feigin served as Rayatz's primary secretary, handling correspondence, library affairs, and coordination of Chabad activities throughout Europe. He was instrumental in coordinating book acquisitions for the Lubavitch Library, corresponding with R' [[entities/people/yehuda-shmotkin]] in Eretz Yisroel about book purchases.
 
-Rabbi Yechezkel Feigin was one of the most devoted and trusted members of the [[entities/people/rayatz|Rayatz's]] inner circle — serving as his personal secretary and confidant during the Soviet years and early exile period. He was murdered by the Nazis in the Holocaust, a loss that devastated the Rayatz personally.
+## Martyrdom
 
----
+When Soviet forces occupied Latvia (1940), R' Feigin and his family were Russian citizens and could not obtain new passports. This trapped them in Riga. When Germany occupied Latvia (1941), R' Feigin could not escape.
 
-## Service to the Rayatz
+He was burned alive in a synagogue by the Nazis on **10 Kislev 5702** (approximately December 1941), together with:
+- R' [[entities/people/yitzchak-horowitz-masmidam]] 
+- R' [[entities/people/eliyahu-chaim-althoiz]]
 
-During the most dangerous years of the Rayatz's Soviet resistance (1920–1927), Rabbi Feigin served at the center of Chabad's underground operations — managing correspondence, coordinating with underground activists, and functioning as the Rayatz's primary operational aide.
+## Cross-References
 
-His role combined that of personal secretary, trusted messenger, and communal coordinator — exactly the kind of multi-faceted service that was critical to maintaining Chabad's underground network under GPU surveillance.
-
----
-
-## The 1927 Arrest
-
-During the Rayatz's GPU arrest in Leningrad (June 1927), Rabbi Feigin was among those caught up in the broader Soviet crackdown on Chabad leadership. The arrest represented an existential threat to the entire leadership structure.
-
-See [[events/rayatz-arrest-1927|Rayatz's Arrest and Liberation (1927)]].
-
----
-
-## Holocaust
-
-Rabbi Feigin was killed in the Holocaust — one of many Chabad leaders and prominent chassidim who could not escape the Nazi net.
-
-After the war, the Rayatz sat with photographs of his fallen Chasidim, including Rabbi Feigin, weeping uncontrollably. The biography _Undaunted_ records: "Uncontrollable tears, only lifted by visits from relatives." Rabbi Feigin was among those whose memory the Rayatz carried with deepest grief.
-
----
-
-## Related Pages
-
-- [[entities/people/rayatz|Rayatz]] — the Rebbe he served
-- [[events/rayatz-arrest-1927|Rayatz's Arrest and Liberation (1927)]]
-- [[events/holocaust-chabad|Chabad and the Holocaust]]
-- [[events/soviet-persecution|Soviet Persecution of Chabad]]
-- [[summaries/rayatz-biography|Undaunted — Biography of the Rayatz]]
+- [[entities/people/rayatz-yosef-yitzchak-schneersohn]] — Employer/Rebbe
+- [[entities/people/moshe-leib-rothstein]] — Fellow secretary (escaped)
+- [[entities/people/shmuel-zalmanow]] — Fellow secretary (escaped)
+- [[entities/places/riga]] — Site of martyrdom

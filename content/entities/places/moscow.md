@@ -1,50 +1,34 @@
 ---
-title: "Moscow — Chabad in the Soviet Capital"
-tags: [place, russia, soviet-union, moscow, underground-yeshiva, soviet-era]
-aliases: []
+title: "Moscow (Moskva)"
+tags: [place, russia, soviet-era, capital, chabad]
+aliases: ["מוסקבה", "Москва"]
+sources: [zichronos-memoir]
 ---
 
-# מוסקבה — Moscow
+# Moscow (Moskva)
 
-**Country**: Russia (capital); Soviet Union capital 1918–1991  
-**Chabad significance**: Underground yeshiva location; transit point for chassidim during WWII; site of Chabad activities under Soviet persecution
+The capital of Soviet Russia, where the author spent time during his years in the underground yeshiva network. Moscow appears throughout the memoir as a center of Chabad activity but also of NKVD surveillance and danger.
 
----
+## Key Facts
+| Field | Value |
+|-------|-------|
+| Country | Russia (Soviet Union) |
+| Significance | Capital; center of Soviet government; location of key Chabad anash gatherings |
+| Author's connections | Multiple stays; applied for exit visa to Riga from OVIR in Moscow; Simchas Torah 5696 in Moscow |
 
-## Overview
+## Description
+Moscow was both a magnet and a danger zone for Chabad chassidim. Obtaining a Moscow "passport" (residence registration) was considered a significant achievement and could be revoked if one was deemed politically unreliable.
 
-Moscow, the capital of the Soviet Union from 1918, was both the seat of the regime that persecuted Chabad and a city with significant Chabad underground activity. It appears in multiple Chabad memoirs as a point in the network of underground yeshiva locations.
+The author spent time in Moscow and its surroundings (Malachovka, Yegarovsk). At Simchas Torah 5696 (1935), he attended hakafos at the Marinskaya Roshcha synagogue, where R. Dov Kovlyaker (Levertov) and the scholar R. Mendel Leib Jacobson (the treasurer/gazbr of anash) were present. The author received his military exemption document (following the Rebbe's advice to wear glasses) at the military induction center in Yegarovsk (a town ~100 verst from Moscow).
 
----
+In Moscow, the author also visited the OVIR (the UNA/OGPU department handling exit visas) twice, each time receiving a rejection. He encountered hostile officials and was warned by a lawyer that the yeshiva students who were arrested deserved five-year sentences. In autumn 5696, after the army induction, he fled Moscow to Voronezh.
 
-## Underground Yeshiva Activity
-
-The memoir of R' Yisrael Yehuda Levi (_Zichronosai_) records Moscow among the cities where the clandestine **Tomchei Tmimim** underground yeshiva operated during the Soviet era. Small groups of students would study in back rooms, constantly moving to evade GPU surveillance.
-
-Moscow's large population paradoxically provided some cover — a Chabad student could more easily blend into the city's masses than in a smaller town. However, the GPU's headquarters were also in Moscow, making it dangerous ground for underground religious activity.
-
----
-
-## WWII Transit
-
-The memoir of M. Shusterman (_Lemaan Yede'u Banim Yivaledu_) records Moscow as a stopping point during WWII, after Germany's invasion of the Soviet Union in 1941 sent many Chabad chassidim fleeing eastward. Shusterman was in Moscow before eventually reaching [[entities/places/samarkand|Samarkand]] in Soviet Uzbekistan.
-
----
-
-## Postwar Moscow
-
-Moscow remained the capital of Soviet state control over Jewish religious life. The city's main synagogue (Choral Synagogue on Arkhipova Street) was one of the few Jewish religious sites permitted to operate, under KGB surveillance. Chabad's post-war underground maintained some presence in Moscow, though the most organized Chabad communities developed further east.
-
-After the Soviet Union's dissolution (1991), Moscow became home to significant Chabad institutional presence, with [[entities/people/berel-lazar|Rabbi Berel Lazar]] eventually becoming Chief Rabbi of Russia.
-
----
-
-## Related Pages
-
-- [[entities/places/russia|Russia / Soviet Union]] — national overview
-- [[entities/places/leningrad|Leningrad]] — another major Soviet city central to Chabad history
-- [[entities/places/samarkand|Samarkand]] — WWII refuge city
-- [[entities/people/berel-lazar|Rabbi Berel Lazar]] — contemporary Chief Rabbi of Russia
-- [[events/soviet-persecution|Soviet Persecution of Chabad]]
-- [[summaries/zichronosai|Zichronosai]] — memoir documenting Moscow underground
-- [[summaries/lemaan-yedau|Lemaan Yede'u Banim Yivaledu]] — memoir mentioning Moscow during WWII
+## Cross-References
+- [[entities/people/yisrael-yehuda-levin]]
+- [[entities/people/dov-kovlyaker]]
+- [[entities/people/mendel-leib-jacobson]]
+- [[entities/people/zalman-moshe]]
+- [[entities/places/malachovka]]
+- [[entities/places/yegarovsk]]
+- [[entities/places/voronezh]]
+- [[entities/events/army-exemption-miracle-1935]]

@@ -1,0 +1,47 @@
+---
+title: "As darkness set in and Shabbat ended, the mood became"
+type: entity
+entity_type: event
+event_type: appointment
+page_id: 1939
+slug: EV1939-as-darkness-set-in-and-shabbat-ended-the-mood-became
+year: "Unknown"
+all_dates: "Not specified"
+locations: "Not specified"
+created: 2026-04-30
+updated: 2026-04-30
+tags: [event, appointment, chabad-history]
+source_file: "undaunted/01-chapter1.txt"
+source_line: 233
+---
+
+# Appointment & Leadership: As darkness set in and Shabbat ended, the mood became
+
+> Appointment & Leadership — Year: Unknown | Source: Undaunted — Ch.1: Lubavitch
+
+## Overview
+
+**Event Type:** Appointment & Leadership
+**Year/Date:** Not specified
+**Location(s):** Not specified
+**People mentioned:** Rayatz, Rashab, Rivkin
+
+**Section/Chapter:** Chapter 2 - Tomchei Temimim
+
+## Description
+
+As darkness set in and Shabbat ended, the mood became foreboding. The Chasidim gathered and continued praying, fearing the worst. The Rayatz stepped into the hallway outside the room where the Rashab lay. “He was deep in thought. He recited psalms, cried intensely, and then quietly sang the [Four Stanzas] chasidic melody of the Alter Rebbe [reserved for special occasions],” says Rivkin.
+
+## Source Context
+
+- **Source:** Undaunted — Ch.1: Lubavitch
+- **Line:** 233
+- **Chapter/Section:** Chapter 2 - Tomchei Temimim
+
+## Connections
+
+- [[E001-rayatz]] — Sixth Rebbe, central to this period
+
+## Sources
+
+- Undaunted — Ch.1: Lubavitch (line 233)
